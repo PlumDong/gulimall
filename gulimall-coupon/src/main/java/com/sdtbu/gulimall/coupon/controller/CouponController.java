@@ -4,6 +4,7 @@ import java.util.Arrays;
 import java.util.Map;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Value;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -29,6 +30,16 @@ import com.sdtbu.common.utils.R;
 public class CouponController {
     @Autowired
     private CouponService couponService;
+
+    @Value("${coupon.name}")
+    private String name;
+    @Value("${coupon.age}")
+    private int age;
+
+    @RequestMapping("/test")
+    public R test(){
+        return R.ok().put("name", name).put("age", age);
+    }
 
     @RequestMapping("/member/list")
     public R membercoupons(){

@@ -30,7 +30,7 @@ import com.sdtbu.common.utils.R;
 public class MemberController {
     @Autowired
     private MemberService memberService;
-/*
+
     @Autowired
     CouponFeignService couponFeignService;
 
@@ -42,7 +42,7 @@ public class MemberController {
         R membercoupons = couponFeignService.membercoupons();
         return R.ok().put("member",memberEntity).put("coupons", membercoupons.get("coupons"));
     }
-*/
+
     /**
      * 列表
      */
