@@ -25,14 +25,3 @@ logging:
 
 
 
-
-# application.properties
-
-alibaba:
-  cloud:
-    access-key: LTAI5t5kdQ88dggD5Jj4C9BP
-    secret-key: UUyDLxjoJzrTKvq0WXHEd1NbXElQdx
-    oss:
-      endpoint: oss-cn-shanghai.aliyuncs.com
-
-
