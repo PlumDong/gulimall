@@ -3,7 +3,18 @@ spring:
     nacos:
       discovery:
         server-addr: 127.0.0.1:8848
+    alibaba:
+      access-key: LTAI5tNgRkkscqh9eUqkEtKn
+      secret-key: NgG3EwRFeS6tMM454Tj0H8O0C0Kpb9
+      oss:
+        endpoint: oss-cn-shanghai.aliyuncs.com
+        buckent: goosemall
+
   application:
     name: gulimall-third-party
+
+
 server:
   port: 30000
+
+

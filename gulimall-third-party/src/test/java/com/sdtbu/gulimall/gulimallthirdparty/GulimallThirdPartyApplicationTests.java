@@ -1,24 +1,27 @@
 package com.sdtbu.gulimall.gulimallthirdparty;
 
+import com.aliyun.oss.OSS;
 import com.aliyun.oss.OSSClient;
 import org.junit.jupiter.api.Test;
+import org.junit.runner.RunWith;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
+import org.springframework.test.context.junit4.SpringRunner;
 
 import javax.annotation.Resource;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.InputStream;
 
+@RunWith(SpringRunner.class)
 @SpringBootTest
 class GulimallThirdPartyApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
-
-
-	@Resource
+	//@Resource
 	OSSClient ossClient;
+
+//	@Autowired
+//	OSS ossClient;
 
 	@Test
 	public void testUpaload() throws FileNotFoundException {
@@ -38,7 +41,6 @@ class GulimallThirdPartyApplicationTests {
 
 		// 关闭OSSClient。
 		ossClient.shutdown();
-
 
 	}
 
