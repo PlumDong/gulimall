@@ -1,0 +1,66 @@
+2021-02-02 15:13:20,792 INFO open empty service auto clean job, initialDelay : 50000 ms, period : 30000 ms
+
+2021-02-02 15:13:20,793 INFO listen for service meta change
+
+2021-02-02 15:13:24,228 INFO [NACOS-DISTRO] healthy server list changed, old: [192.168.1.2:8848], new: [192.168.1.2:8848]
+
+2021-02-02 15:14:13,761 INFO Client connection 192.168.245.1:53542 connect
+
+2021-02-02 15:14:15,060 INFO Client connection 192.168.1.2:88 connect
+
+2021-02-02 15:15:07,020 INFO Client connection 192.168.245.1:58169 connect
+
+2021-02-02 15:15:07,140 INFO Client connection 192.168.1.2:10000 connect
+
+2021-02-02 15:17:54,764 WARN namespace : public, [DEFAULT_GROUP@@renren-fast] services are automatically cleaned
+
+2021-02-02 15:19:09,198 INFO Client connection 192.168.245.1:49563 connect
+
+2021-02-02 15:19:10,246 INFO Client connection 192.168.1.2:8080 connect
+
+2021-02-02 18:22:54,285 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-gateway', ephemeral=true, revision=1}, ip: {"ip":"192.168.1.2","port":88,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1612261321438,"instanceId":"192.168.1.2:88"}
+
+2021-02-02 18:22:56,349 INFO Client connection 192.168.1.2:88 disconnect, remove instances and subscribers
+
+2021-02-02 18:22:56,349 INFO Client connection 192.168.245.1:49563 disconnect, remove instances and subscribers
+
+2021-02-02 18:22:58,361 INFO Client connection 192.168.245.1:49563 connect
+
+2021-02-02 18:22:58,426 INFO Client connection 192.168.1.2:88 connect
+
+2021-02-02 21:34:53,262 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-gateway', ephemeral=true, revision=3}, ip: {"ip":"192.168.1.2","port":88,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1612272498087,"instanceId":"192.168.1.2:88"}
+
+2021-02-02 21:34:53,263 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=1}, ip: {"ip":"192.168.1.2","port":10000,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1612272500447,"instanceId":"192.168.1.2:10000"}
+
+2021-02-02 21:34:53,263 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='renren-fast', ephemeral=true, revision=1}, ip: {"ip":"192.168.1.2","port":8080,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1612272502959,"instanceId":"192.168.1.2:8080"}
+
+2021-02-02 21:34:55,511 INFO Client connection 192.168.245.1:58169 disconnect, remove instances and subscribers
+
+2021-02-02 21:34:55,511 INFO Client connection 192.168.1.2:8080 disconnect, remove instances and subscribers
+
+2021-02-02 21:34:55,511 INFO Client connection 192.168.245.1:49563 disconnect, remove instances and subscribers
+
+2021-02-02 21:34:55,511 INFO Client connection 192.168.245.1:53542 disconnect, remove instances and subscribers
+
+2021-02-02 21:34:57,439 INFO Client connection 192.168.1.2:8080 connect
+
+2021-02-02 21:34:59,182 INFO Client connection 192.168.245.1:58169 connect
+
+2021-02-02 21:34:59,274 INFO Client connection 192.168.245.1:53542 connect
+
+2021-02-02 21:35:02,341 INFO Client connection 192.168.245.1:49563 connect
+
+2021-02-02 23:51:15,599 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=3}, ip: {"ip":"192.168.1.2","port":10000,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1612275677078,"instanceId":"192.168.1.2:10000"}
+
+2021-02-02 23:51:15,599 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-gateway', ephemeral=true, revision=5}, ip: {"ip":"192.168.1.2","port":88,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1612275674847,"instanceId":"192.168.1.2:88"}
+
+2021-02-02 23:51:15,599 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='renren-fast', ephemeral=true, revision=3}, ip: {"ip":"192.168.1.2","port":8080,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1612275674389,"instanceId":"192.168.1.2:8080"}
+
+2021-02-02 23:51:18,827 INFO Client connection 192.168.245.1:49563 disconnect, remove instances and subscribers
+
+2021-02-02 23:51:18,828 INFO Client connection 192.168.1.2:10000 disconnect, remove instances and subscribers
+
+2021-02-02 23:51:19,172 INFO Client connection 192.168.1.2:10000 connect
+
+2021-02-02 23:51:20,580 INFO Client connection 192.168.245.1:49563 connect
+

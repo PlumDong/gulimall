@@ -1,0 +1,100 @@
+2020-12-09 20:16:02,157 INFO open empty service auto clean job, initialDelay : 50000 ms, period : 30000 ms
+
+2020-12-09 20:16:02,158 INFO listen for service meta change
+
+2020-12-09 20:16:05,469 INFO [NACOS-DISTRO] healthy server list changed, old: [192.168.1.117:8848], new: [192.168.1.117:8848]
+
+2020-12-09 20:19:24,556 INFO Client connection 192.168.1.117:7000 connect
+
+2020-12-09 20:19:24,556 INFO Client connection 192.168.1.117:7000 connect
+
+2020-12-09 20:29:40,537 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-coupon', ephemeral=true, revision=2}, ip: {"ip":"192.168.1.117","port":7000,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1607516946068,"instanceId":"192.168.1.117:7000"}
+
+2020-12-09 20:29:40,928 INFO Client connection 192.168.1.117:7000 disconnect, remove instances and subscribers
+
+2020-12-09 20:31:35,054 WARN namespace : public, [DEFAULT_GROUP@@gulimall-coupon] services are automatically cleaned
+
+2020-12-09 20:47:52,280 INFO open empty service auto clean job, initialDelay : 50000 ms, period : 30000 ms
+
+2020-12-09 20:47:52,282 INFO listen for service meta change
+
+2020-12-09 20:47:56,155 INFO [NACOS-DISTRO] healthy server list changed, old: [192.168.1.117:8848], new: [192.168.1.117:8848]
+
+2020-12-09 20:48:00,022 INFO Client connection 192.168.1.117:7000 connect
+
+2020-12-09 21:25:38,202 INFO Client connection 192.168.1.117:8000 connect
+
+2020-12-09 21:25:38,202 INFO Client connection 192.168.1.117:8000 connect
+
+2020-12-09 21:28:13,456 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-member', ephemeral=true, revision=2}, ip: {"ip":"192.168.1.117","port":8000,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1607520458485,"instanceId":"192.168.1.117:8000"}
+
+2020-12-09 21:28:14,598 INFO Client connection 192.168.1.117:8000 disconnect, remove instances and subscribers
+
+2020-12-09 21:29:26,622 WARN namespace : public, [DEFAULT_GROUP@@gulimall-member] services are automatically cleaned
+
+2020-12-09 22:01:51,964 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-coupon', ephemeral=true, revision=2}, ip: {"ip":"192.168.1.117","port":7000,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1607522480746,"instanceId":"192.168.1.117:7000"}
+
+2020-12-09 22:01:52,787 INFO Client connection 192.168.1.117:7000 disconnect, remove instances and subscribers
+
+2020-12-09 22:03:26,876 WARN namespace : public, [DEFAULT_GROUP@@gulimall-coupon] services are automatically cleaned
+
+2020-12-10 09:46:13,469 INFO open empty service auto clean job, initialDelay : 50000 ms, period : 30000 ms
+
+2020-12-10 09:46:13,470 INFO listen for service meta change
+
+2020-12-10 09:46:17,465 INFO [NACOS-DISTRO] healthy server list changed, old: [192.168.1.117:8848], new: [192.168.1.117:8848]
+
+2020-12-10 09:46:20,970 INFO Client connection 192.168.1.117:7000 connect
+
+2020-12-10 10:59:21,917 INFO Client connection 192.168.1.117:8000 connect
+
+2020-12-10 11:00:22,010 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-member', ephemeral=true, revision=2}, ip: {"ip":"192.168.1.117","port":8000,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1607569187001,"instanceId":"192.168.1.117:8000"}
+
+2020-12-10 11:00:23,996 INFO Client connection 192.168.1.117:8000 disconnect, remove instances and subscribers
+
+2020-12-10 14:58:55,513 INFO open empty service auto clean job, initialDelay : 50000 ms, period : 30000 ms
+
+2020-12-10 14:58:55,514 INFO listen for service meta change
+
+2020-12-10 14:58:58,772 INFO [NACOS-DISTRO] healthy server list changed, old: [192.168.1.117:8848], new: [192.168.1.117:8848]
+
+2020-12-10 14:59:01,734 INFO Client connection 192.168.1.117:7000 connect
+
+2020-12-10 15:13:43,286 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-coupon', ephemeral=true, revision=1}, ip: {"ip":"192.168.1.117","port":7000,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1607584388878,"instanceId":"192.168.1.117:7000"}
+
+2020-12-10 15:28:40,518 INFO Client connection 192.168.1.117:8000 connect
+
+2020-12-10 15:28:40,518 INFO Client connection 192.168.1.117:8000 connect
+
+2020-12-10 15:33:10,921 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-member', ephemeral=true, revision=2}, ip: {"ip":"192.168.1.117","port":8000,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1607585556172,"instanceId":"192.168.1.117:8000"}
+
+2020-12-10 15:33:11,062 INFO Client connection 192.168.1.117:8000 disconnect, remove instances and subscribers
+
+2020-12-10 15:34:28,604 WARN namespace : public, [DEFAULT_GROUP@@gulimall-member] services are automatically cleaned
+
+2020-12-10 15:57:19,699 INFO Client connection 192.168.1.117:8000 connect
+
+2020-12-10 16:00:35,014 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-member', ephemeral=true, revision=2}, ip: {"ip":"192.168.1.117","port":8000,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1607587200072,"instanceId":"192.168.1.117:8000"}
+
+2020-12-10 16:00:38,661 INFO Client connection 192.168.1.117:8000 disconnect, remove instances and subscribers
+
+2020-12-10 16:02:28,852 WARN namespace : public, [DEFAULT_GROUP@@gulimall-member] services are automatically cleaned
+
+2020-12-10 16:32:57,785 INFO open empty service auto clean job, initialDelay : 50000 ms, period : 30000 ms
+
+2020-12-10 16:32:57,786 INFO listen for service meta change
+
+2020-12-10 16:33:01,072 INFO [NACOS-DISTRO] healthy server list changed, old: [192.168.1.117:8848], new: [192.168.1.117:8848]
+
+2020-12-10 16:39:24,097 INFO Client connection 192.168.1.117:7000 connect
+
+2020-12-10 20:31:54,031 INFO Client connection 192.168.1.117:8000 connect
+
+2020-12-10 20:41:24,952 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-member', ephemeral=true, revision=1}, ip: {"ip":"192.168.1.117","port":8000,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1607604050113,"instanceId":"192.168.1.117:8000"}
+
+2020-12-10 20:41:27,916 INFO Client connection 192.168.1.117:8000 disconnect, remove instances and subscribers
+
+2020-12-10 20:42:32,690 WARN namespace : public, [DEFAULT_GROUP@@gulimall-member] services are automatically cleaned
+
+2020-12-10 20:52:57,369 INFO Client connection 192.168.1.117:8000 connect
+

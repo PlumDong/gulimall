@@ -1,0 +1,420 @@
+2020-12-09 20:16:04,671 INFO SPI service [com.alipay.sofa.jraft.JRaftServiceFactory - com.alipay.sofa.jraft.core.DefaultJRaftServiceFactory] loading.
+
+2020-12-09 20:16:04,755 INFO SPI service [com.alipay.sofa.jraft.rpc.RaftRpcFactory - com.alipay.sofa.jraft.rpc.impl.GrpcRaftRpcFactory] loading.
+
+2020-12-09 20:16:04,955 INFO SPI service [com.alipay.sofa.jraft.util.timer.RaftTimerFactory - com.alipay.sofa.jraft.util.timer.DefaultRaftTimerFactory] loading.
+
+2020-12-09 20:16:04,964 INFO The number of active nodes increment to 1.
+
+2020-12-09 20:16:05,369 INFO Starts FSMCaller successfully.
+
+2020-12-09 20:16:05,382 WARN No data for snapshot reader C:\Users\Administrator\Downloads\nacos\data\protocol\raft\naming_instance_metadata\snapshot.
+
+2020-12-09 20:16:05,405 INFO Node <naming_instance_metadata/192.168.1.117:7848> init, term=0, lastLogId=LogId [index=0, term=0], conf=192.168.1.117:7848, oldConf=.
+
+2020-12-09 20:16:05,408 INFO Node <naming_instance_metadata/192.168.1.117:7848> start vote and grant vote self, term=0.
+
+2020-12-09 20:16:05,430 WARN Unable to fsync directory C:\Users\Administrator\Downloads\nacos\data\protocol\raft\naming_instance_metadata\meta-data on windows.
+
+2020-12-09 20:16:05,436 INFO Save raft meta, path=C:\Users\Administrator\Downloads\nacos\data\protocol\raft\naming_instance_metadata\meta-data, term=1, votedFor=192.168.1.117:7848, cost time=20 ms
+
+2020-12-09 20:16:05,436 INFO Node <naming_instance_metadata/192.168.1.117:7848> become leader of group, term=1, conf=192.168.1.117:7848, oldConf=.
+
+2020-12-09 20:16:05,440 INFO -Djraft.recyclers.maxCapacityPerThread: 4096.
+
+2020-12-09 20:16:05,443 WARN RPC server is not started in RaftGroupService.
+
+2020-12-09 20:16:05,444 INFO Start the RaftGroupService successfully.
+
+2020-12-09 20:16:05,450 INFO The number of active nodes increment to 2.
+
+2020-12-09 20:16:05,455 INFO onLeaderStart: term=1.
+
+2020-12-09 20:16:05,505 INFO Starts FSMCaller successfully.
+
+2020-12-09 20:16:05,506 WARN No data for snapshot reader C:\Users\Administrator\Downloads\nacos\data\protocol\raft\naming_service_metadata\snapshot.
+
+2020-12-09 20:16:05,507 INFO Node <naming_service_metadata/192.168.1.117:7848> init, term=0, lastLogId=LogId [index=0, term=0], conf=192.168.1.117:7848, oldConf=.
+
+2020-12-09 20:16:05,508 INFO Node <naming_service_metadata/192.168.1.117:7848> start vote and grant vote self, term=0.
+
+2020-12-09 20:16:05,512 WARN Unable to fsync directory C:\Users\Administrator\Downloads\nacos\data\protocol\raft\naming_service_metadata\meta-data on windows.
+
+2020-12-09 20:16:05,512 INFO Save raft meta, path=C:\Users\Administrator\Downloads\nacos\data\protocol\raft\naming_service_metadata\meta-data, term=1, votedFor=192.168.1.117:7848, cost time=3 ms
+
+2020-12-09 20:16:05,512 INFO Node <naming_service_metadata/192.168.1.117:7848> become leader of group, term=1, conf=192.168.1.117:7848, oldConf=.
+
+2020-12-09 20:16:05,512 WARN RPC server is not started in RaftGroupService.
+
+2020-12-09 20:16:05,512 INFO Start the RaftGroupService successfully.
+
+2020-12-09 20:16:05,514 INFO onLeaderStart: term=1.
+
+2020-12-09 20:16:05,579 WARN Channel in TRANSIENT_FAILURE state: 192.168.1.117:7848.
+
+2020-12-09 20:16:05,579 WARN Channel in SHUTDOWN state: 192.168.1.117:7848.
+
+2020-12-09 20:33:48,120 WARN Unable to fsync directory C:\Users\Administrator\Downloads\nacos\data\protocol\raft\naming_service_metadata\snapshot\temp on windows.
+
+2020-12-09 20:33:48,121 INFO Deleting snapshot C:\Users\Administrator\Downloads\nacos\data\protocol\raft\naming_service_metadata\snapshot\snapshot_1.
+
+2020-12-09 20:33:48,121 INFO Renaming C:\Users\Administrator\Downloads\nacos\data\protocol\raft\naming_service_metadata\snapshot\temp to C:\Users\Administrator\Downloads\nacos\data\protocol\raft\naming_service_metadata\snapshot\snapshot_1.
+
+2020-12-09 20:47:55,890 INFO SPI service [com.alipay.sofa.jraft.JRaftServiceFactory - com.alipay.sofa.jraft.core.DefaultJRaftServiceFactory] loading.
+
+2020-12-09 20:47:56,021 INFO SPI service [com.alipay.sofa.jraft.rpc.RaftRpcFactory - com.alipay.sofa.jraft.rpc.impl.GrpcRaftRpcFactory] loading.
+
+2020-12-09 20:47:56,344 INFO SPI service [com.alipay.sofa.jraft.util.timer.RaftTimerFactory - com.alipay.sofa.jraft.util.timer.DefaultRaftTimerFactory] loading.
+
+2020-12-09 20:47:56,361 INFO The number of active nodes increment to 1.
+
+2020-12-09 20:47:56,860 INFO Starts FSMCaller successfully.
+
+2020-12-09 20:47:56,888 WARN No data for snapshot reader C:\Users\Administrator\Downloads\nacos\data\protocol\raft\naming_instance_metadata\snapshot.
+
+2020-12-09 20:47:56,889 INFO Node <naming_instance_metadata/192.168.1.117:7848> target priority value has changed from: 0, to: -1.
+
+2020-12-09 20:47:56,943 INFO Node <naming_instance_metadata/192.168.1.117:7848> init, term=1, lastLogId=LogId [index=1, term=1], conf=192.168.1.117:7848, oldConf=.
+
+2020-12-09 20:47:56,951 INFO Node <naming_instance_metadata/192.168.1.117:7848> start vote and grant vote self, term=1.
+
+2020-12-09 20:47:56,983 WARN Unable to fsync directory C:\Users\Administrator\Downloads\nacos\data\protocol\raft\naming_instance_metadata\meta-data on windows.
+
+2020-12-09 20:47:56,992 INFO Save raft meta, path=C:\Users\Administrator\Downloads\nacos\data\protocol\raft\naming_instance_metadata\meta-data, term=2, votedFor=192.168.1.117:7848, cost time=28 ms
+
+2020-12-09 20:47:56,993 INFO Node <naming_instance_metadata/192.168.1.117:7848> become leader of group, term=2, conf=192.168.1.117:7848, oldConf=.
+
+2020-12-09 20:47:57,000 INFO -Djraft.recyclers.maxCapacityPerThread: 4096.
+
+2020-12-09 20:47:57,005 WARN RPC server is not started in RaftGroupService.
+
+2020-12-09 20:47:57,005 INFO Start the RaftGroupService successfully.
+
+2020-12-09 20:47:57,012 INFO The number of active nodes increment to 2.
+
+2020-12-09 20:47:57,023 INFO onLeaderStart: term=2.
+
+2020-12-09 20:47:57,103 INFO Starts FSMCaller successfully.
+
+2020-12-09 20:47:57,114 INFO Loading snapshot, meta=last_included_index: 1
+last_included_term: 1
+peers: "192.168.1.117:7848"
+.
+
+2020-12-09 20:47:57,238 INFO Node <naming_service_metadata/192.168.1.117:7848> onSnapshotLoadDone, last_included_index: 1
+last_included_term: 1
+peers: "192.168.1.117:7848"
+
+
+2020-12-09 20:47:57,239 INFO Node <naming_service_metadata/192.168.1.117:7848> target priority value has changed from: 0, to: -1.
+
+2020-12-09 20:47:57,241 INFO Node <naming_service_metadata/192.168.1.117:7848> init, term=1, lastLogId=LogId [index=1, term=1], conf=192.168.1.117:7848, oldConf=.
+
+2020-12-09 20:47:57,241 INFO Node <naming_service_metadata/192.168.1.117:7848> start vote and grant vote self, term=1.
+
+2020-12-09 20:47:57,245 WARN Unable to fsync directory C:\Users\Administrator\Downloads\nacos\data\protocol\raft\naming_service_metadata\meta-data on windows.
+
+2020-12-09 20:47:57,246 INFO Save raft meta, path=C:\Users\Administrator\Downloads\nacos\data\protocol\raft\naming_service_metadata\meta-data, term=2, votedFor=192.168.1.117:7848, cost time=4 ms
+
+2020-12-09 20:47:57,246 INFO Node <naming_service_metadata/192.168.1.117:7848> become leader of group, term=2, conf=192.168.1.117:7848, oldConf=.
+
+2020-12-09 20:47:57,248 WARN RPC server is not started in RaftGroupService.
+
+2020-12-09 20:47:57,250 INFO Start the RaftGroupService successfully.
+
+2020-12-09 20:47:57,253 INFO onLeaderStart: term=2.
+
+2020-12-09 20:47:57,267 WARN Channel in TRANSIENT_FAILURE state: 192.168.1.117:7848.
+
+2020-12-09 20:47:57,268 WARN Channel in SHUTDOWN state: 192.168.1.117:7848.
+
+2020-12-09 21:06:40,530 WARN Unable to fsync directory C:\Users\Administrator\Downloads\nacos\data\protocol\raft\naming_service_metadata\snapshot\temp on windows.
+
+2020-12-09 21:06:40,530 INFO Deleting snapshot C:\Users\Administrator\Downloads\nacos\data\protocol\raft\naming_service_metadata\snapshot\snapshot_2.
+
+2020-12-09 21:06:40,530 INFO Renaming C:\Users\Administrator\Downloads\nacos\data\protocol\raft\naming_service_metadata\snapshot\temp to C:\Users\Administrator\Downloads\nacos\data\protocol\raft\naming_service_metadata\snapshot\snapshot_2.
+
+2020-12-09 21:06:40,531 INFO Deleting snapshot C:\Users\Administrator\Downloads\nacos\data\protocol\raft\naming_service_metadata\snapshot\snapshot_1.
+
+2020-12-09 21:17:32,813 WARN Unable to fsync directory C:\Users\Administrator\Downloads\nacos\data\protocol\raft\naming_instance_metadata\snapshot\temp on windows.
+
+2020-12-09 21:17:32,813 INFO Deleting snapshot C:\Users\Administrator\Downloads\nacos\data\protocol\raft\naming_instance_metadata\snapshot\snapshot_2.
+
+2020-12-09 21:17:32,813 INFO Renaming C:\Users\Administrator\Downloads\nacos\data\protocol\raft\naming_instance_metadata\snapshot\temp to C:\Users\Administrator\Downloads\nacos\data\protocol\raft\naming_instance_metadata\snapshot\snapshot_2.
+
+2020-12-10 09:46:17,054 INFO SPI service [com.alipay.sofa.jraft.JRaftServiceFactory - com.alipay.sofa.jraft.core.DefaultJRaftServiceFactory] loading.
+
+2020-12-10 09:46:17,182 INFO SPI service [com.alipay.sofa.jraft.rpc.RaftRpcFactory - com.alipay.sofa.jraft.rpc.impl.GrpcRaftRpcFactory] loading.
+
+2020-12-10 09:46:17,427 INFO SPI service [com.alipay.sofa.jraft.util.timer.RaftTimerFactory - com.alipay.sofa.jraft.util.timer.DefaultRaftTimerFactory] loading.
+
+2020-12-10 09:46:17,435 INFO The number of active nodes increment to 1.
+
+2020-12-10 09:46:18,011 INFO Starts FSMCaller successfully.
+
+2020-12-10 09:46:18,035 INFO Loading snapshot, meta=last_included_index: 2
+last_included_term: 2
+peers: "192.168.1.117:7848"
+.
+
+2020-12-10 09:46:18,117 INFO Node <naming_instance_metadata/192.168.1.117:7848> onSnapshotLoadDone, last_included_index: 2
+last_included_term: 2
+peers: "192.168.1.117:7848"
+
+
+2020-12-10 09:46:18,118 INFO Node <naming_instance_metadata/192.168.1.117:7848> target priority value has changed from: 0, to: -1.
+
+2020-12-10 09:46:18,146 INFO Node <naming_instance_metadata/192.168.1.117:7848> init, term=2, lastLogId=LogId [index=2, term=2], conf=192.168.1.117:7848, oldConf=.
+
+2020-12-10 09:46:18,149 INFO Node <naming_instance_metadata/192.168.1.117:7848> start vote and grant vote self, term=2.
+
+2020-12-10 09:46:18,164 WARN Unable to fsync directory C:\Users\Administrator\Downloads\nacos\data\protocol\raft\naming_instance_metadata\meta-data on windows.
+
+2020-12-10 09:46:18,164 INFO Save raft meta, path=C:\Users\Administrator\Downloads\nacos\data\protocol\raft\naming_instance_metadata\meta-data, term=3, votedFor=192.168.1.117:7848, cost time=14 ms
+
+2020-12-10 09:46:18,165 INFO Node <naming_instance_metadata/192.168.1.117:7848> become leader of group, term=3, conf=192.168.1.117:7848, oldConf=.
+
+2020-12-10 09:46:18,169 INFO -Djraft.recyclers.maxCapacityPerThread: 4096.
+
+2020-12-10 09:46:18,171 WARN RPC server is not started in RaftGroupService.
+
+2020-12-10 09:46:18,171 INFO Start the RaftGroupService successfully.
+
+2020-12-10 09:46:18,180 INFO The number of active nodes increment to 2.
+
+2020-12-10 09:46:18,186 INFO onLeaderStart: term=3.
+
+2020-12-10 09:46:18,283 INFO Starts FSMCaller successfully.
+
+2020-12-10 09:46:18,288 INFO Loading snapshot, meta=last_included_index: 2
+last_included_term: 2
+peers: "192.168.1.117:7848"
+.
+
+2020-12-10 09:46:18,297 INFO Node <naming_service_metadata/192.168.1.117:7848> onSnapshotLoadDone, last_included_index: 2
+last_included_term: 2
+peers: "192.168.1.117:7848"
+
+
+2020-12-10 09:46:18,297 INFO Node <naming_service_metadata/192.168.1.117:7848> target priority value has changed from: 0, to: -1.
+
+2020-12-10 09:46:18,298 INFO Node <naming_service_metadata/192.168.1.117:7848> init, term=2, lastLogId=LogId [index=2, term=2], conf=192.168.1.117:7848, oldConf=.
+
+2020-12-10 09:46:18,299 INFO Node <naming_service_metadata/192.168.1.117:7848> start vote and grant vote self, term=2.
+
+2020-12-10 09:46:18,302 WARN Unable to fsync directory C:\Users\Administrator\Downloads\nacos\data\protocol\raft\naming_service_metadata\meta-data on windows.
+
+2020-12-10 09:46:18,302 INFO Save raft meta, path=C:\Users\Administrator\Downloads\nacos\data\protocol\raft\naming_service_metadata\meta-data, term=3, votedFor=192.168.1.117:7848, cost time=4 ms
+
+2020-12-10 09:46:18,302 INFO Node <naming_service_metadata/192.168.1.117:7848> become leader of group, term=3, conf=192.168.1.117:7848, oldConf=.
+
+2020-12-10 09:46:18,303 WARN RPC server is not started in RaftGroupService.
+
+2020-12-10 09:46:18,303 INFO Start the RaftGroupService successfully.
+
+2020-12-10 09:46:18,304 INFO onLeaderStart: term=3.
+
+2020-12-10 09:46:18,310 WARN Channel in TRANSIENT_FAILURE state: 192.168.1.117:7848.
+
+2020-12-10 09:46:18,310 WARN Channel in SHUTDOWN state: 192.168.1.117:7848.
+
+2020-12-10 10:03:00,237 WARN Unable to fsync directory C:\Users\Administrator\Downloads\nacos\data\protocol\raft\naming_instance_metadata\snapshot\temp on windows.
+
+2020-12-10 10:03:00,238 INFO Deleting snapshot C:\Users\Administrator\Downloads\nacos\data\protocol\raft\naming_instance_metadata\snapshot\snapshot_3.
+
+2020-12-10 10:03:00,238 INFO Renaming C:\Users\Administrator\Downloads\nacos\data\protocol\raft\naming_instance_metadata\snapshot\temp to C:\Users\Administrator\Downloads\nacos\data\protocol\raft\naming_instance_metadata\snapshot\snapshot_3.
+
+2020-12-10 10:03:00,239 INFO Deleting snapshot C:\Users\Administrator\Downloads\nacos\data\protocol\raft\naming_instance_metadata\snapshot\snapshot_2.
+
+2020-12-10 10:07:57,200 WARN Unable to fsync directory C:\Users\Administrator\Downloads\nacos\data\protocol\raft\naming_service_metadata\snapshot\temp on windows.
+
+2020-12-10 10:07:57,200 INFO Deleting snapshot C:\Users\Administrator\Downloads\nacos\data\protocol\raft\naming_service_metadata\snapshot\snapshot_3.
+
+2020-12-10 10:07:57,200 INFO Renaming C:\Users\Administrator\Downloads\nacos\data\protocol\raft\naming_service_metadata\snapshot\temp to C:\Users\Administrator\Downloads\nacos\data\protocol\raft\naming_service_metadata\snapshot\snapshot_3.
+
+2020-12-10 10:07:57,201 INFO Deleting snapshot C:\Users\Administrator\Downloads\nacos\data\protocol\raft\naming_service_metadata\snapshot\snapshot_2.
+
+2020-12-10 14:58:58,090 INFO SPI service [com.alipay.sofa.jraft.JRaftServiceFactory - com.alipay.sofa.jraft.core.DefaultJRaftServiceFactory] loading.
+
+2020-12-10 14:58:58,179 INFO SPI service [com.alipay.sofa.jraft.rpc.RaftRpcFactory - com.alipay.sofa.jraft.rpc.impl.GrpcRaftRpcFactory] loading.
+
+2020-12-10 14:58:58,358 INFO SPI service [com.alipay.sofa.jraft.util.timer.RaftTimerFactory - com.alipay.sofa.jraft.util.timer.DefaultRaftTimerFactory] loading.
+
+2020-12-10 14:58:58,365 INFO The number of active nodes increment to 1.
+
+2020-12-10 14:58:58,638 INFO Starts FSMCaller successfully.
+
+2020-12-10 14:58:58,659 INFO Loading snapshot, meta=last_included_index: 3
+last_included_term: 3
+peers: "192.168.1.117:7848"
+.
+
+2020-12-10 14:58:58,765 INFO Node <naming_instance_metadata/192.168.1.117:7848> onSnapshotLoadDone, last_included_index: 3
+last_included_term: 3
+peers: "192.168.1.117:7848"
+
+
+2020-12-10 14:58:58,765 INFO Node <naming_instance_metadata/192.168.1.117:7848> target priority value has changed from: 0, to: -1.
+
+2020-12-10 14:58:58,794 INFO Node <naming_instance_metadata/192.168.1.117:7848> init, term=3, lastLogId=LogId [index=3, term=3], conf=192.168.1.117:7848, oldConf=.
+
+2020-12-10 14:58:58,797 INFO Node <naming_instance_metadata/192.168.1.117:7848> start vote and grant vote self, term=3.
+
+2020-12-10 14:58:58,812 WARN Unable to fsync directory C:\Users\Administrator\Downloads\nacos\data\protocol\raft\naming_instance_metadata\meta-data on windows.
+
+2020-12-10 14:58:58,812 INFO Save raft meta, path=C:\Users\Administrator\Downloads\nacos\data\protocol\raft\naming_instance_metadata\meta-data, term=4, votedFor=192.168.1.117:7848, cost time=15 ms
+
+2020-12-10 14:58:58,813 INFO Node <naming_instance_metadata/192.168.1.117:7848> become leader of group, term=4, conf=192.168.1.117:7848, oldConf=.
+
+2020-12-10 14:58:58,817 INFO -Djraft.recyclers.maxCapacityPerThread: 4096.
+
+2020-12-10 14:58:58,820 WARN RPC server is not started in RaftGroupService.
+
+2020-12-10 14:58:58,820 INFO Start the RaftGroupService successfully.
+
+2020-12-10 14:58:58,827 INFO The number of active nodes increment to 2.
+
+2020-12-10 14:58:58,831 INFO onLeaderStart: term=4.
+
+2020-12-10 14:58:58,917 INFO Starts FSMCaller successfully.
+
+2020-12-10 14:58:58,922 INFO Loading snapshot, meta=last_included_index: 3
+last_included_term: 3
+peers: "192.168.1.117:7848"
+.
+
+2020-12-10 14:58:58,932 INFO Node <naming_service_metadata/192.168.1.117:7848> onSnapshotLoadDone, last_included_index: 3
+last_included_term: 3
+peers: "192.168.1.117:7848"
+
+
+2020-12-10 14:58:58,932 INFO Node <naming_service_metadata/192.168.1.117:7848> target priority value has changed from: 0, to: -1.
+
+2020-12-10 14:58:58,935 INFO Node <naming_service_metadata/192.168.1.117:7848> init, term=3, lastLogId=LogId [index=3, term=3], conf=192.168.1.117:7848, oldConf=.
+
+2020-12-10 14:58:58,935 INFO Node <naming_service_metadata/192.168.1.117:7848> start vote and grant vote self, term=3.
+
+2020-12-10 14:58:58,939 WARN Unable to fsync directory C:\Users\Administrator\Downloads\nacos\data\protocol\raft\naming_service_metadata\meta-data on windows.
+
+2020-12-10 14:58:58,940 INFO Save raft meta, path=C:\Users\Administrator\Downloads\nacos\data\protocol\raft\naming_service_metadata\meta-data, term=4, votedFor=192.168.1.117:7848, cost time=4 ms
+
+2020-12-10 14:58:58,940 INFO Node <naming_service_metadata/192.168.1.117:7848> become leader of group, term=4, conf=192.168.1.117:7848, oldConf=.
+
+2020-12-10 14:58:58,940 WARN RPC server is not started in RaftGroupService.
+
+2020-12-10 14:58:58,940 INFO Start the RaftGroupService successfully.
+
+2020-12-10 14:58:58,942 INFO onLeaderStart: term=4.
+
+2020-12-10 14:58:58,982 WARN Channel in TRANSIENT_FAILURE state: 192.168.1.117:7848.
+
+2020-12-10 14:58:58,983 WARN Channel in SHUTDOWN state: 192.168.1.117:7848.
+
+2020-12-10 15:19:18,684 WARN Unable to fsync directory C:\Users\Administrator\Downloads\nacos\data\protocol\raft\naming_service_metadata\snapshot\temp on windows.
+
+2020-12-10 15:19:18,684 INFO Deleting snapshot C:\Users\Administrator\Downloads\nacos\data\protocol\raft\naming_service_metadata\snapshot\snapshot_4.
+
+2020-12-10 15:19:18,684 INFO Renaming C:\Users\Administrator\Downloads\nacos\data\protocol\raft\naming_service_metadata\snapshot\temp to C:\Users\Administrator\Downloads\nacos\data\protocol\raft\naming_service_metadata\snapshot\snapshot_4.
+
+2020-12-10 15:19:18,685 INFO Deleting snapshot C:\Users\Administrator\Downloads\nacos\data\protocol\raft\naming_service_metadata\snapshot\snapshot_3.
+
+2020-12-10 15:26:16,385 WARN Unable to fsync directory C:\Users\Administrator\Downloads\nacos\data\protocol\raft\naming_instance_metadata\snapshot\temp on windows.
+
+2020-12-10 15:26:16,385 INFO Deleting snapshot C:\Users\Administrator\Downloads\nacos\data\protocol\raft\naming_instance_metadata\snapshot\snapshot_4.
+
+2020-12-10 15:26:16,385 INFO Renaming C:\Users\Administrator\Downloads\nacos\data\protocol\raft\naming_instance_metadata\snapshot\temp to C:\Users\Administrator\Downloads\nacos\data\protocol\raft\naming_instance_metadata\snapshot\snapshot_4.
+
+2020-12-10 15:26:16,386 INFO Deleting snapshot C:\Users\Administrator\Downloads\nacos\data\protocol\raft\naming_instance_metadata\snapshot\snapshot_3.
+
+2020-12-10 16:33:00,283 INFO SPI service [com.alipay.sofa.jraft.JRaftServiceFactory - com.alipay.sofa.jraft.core.DefaultJRaftServiceFactory] loading.
+
+2020-12-10 16:33:00,367 INFO SPI service [com.alipay.sofa.jraft.rpc.RaftRpcFactory - com.alipay.sofa.jraft.rpc.impl.GrpcRaftRpcFactory] loading.
+
+2020-12-10 16:33:00,552 INFO SPI service [com.alipay.sofa.jraft.util.timer.RaftTimerFactory - com.alipay.sofa.jraft.util.timer.DefaultRaftTimerFactory] loading.
+
+2020-12-10 16:33:00,560 INFO The number of active nodes increment to 1.
+
+2020-12-10 16:33:00,914 INFO Starts FSMCaller successfully.
+
+2020-12-10 16:33:00,932 INFO Loading snapshot, meta=last_included_index: 4
+last_included_term: 4
+peers: "192.168.1.117:7848"
+.
+
+2020-12-10 16:33:01,045 INFO Node <naming_instance_metadata/192.168.1.117:7848> onSnapshotLoadDone, last_included_index: 4
+last_included_term: 4
+peers: "192.168.1.117:7848"
+
+
+2020-12-10 16:33:01,046 INFO Node <naming_instance_metadata/192.168.1.117:7848> target priority value has changed from: 0, to: -1.
+
+2020-12-10 16:33:01,102 INFO Node <naming_instance_metadata/192.168.1.117:7848> init, term=4, lastLogId=LogId [index=4, term=4], conf=192.168.1.117:7848, oldConf=.
+
+2020-12-10 16:33:01,106 INFO Node <naming_instance_metadata/192.168.1.117:7848> start vote and grant vote self, term=4.
+
+2020-12-10 16:33:01,129 WARN Unable to fsync directory C:\Users\Administrator\Downloads\nacos\data\protocol\raft\naming_instance_metadata\meta-data on windows.
+
+2020-12-10 16:33:01,129 INFO Save raft meta, path=C:\Users\Administrator\Downloads\nacos\data\protocol\raft\naming_instance_metadata\meta-data, term=5, votedFor=192.168.1.117:7848, cost time=19 ms
+
+2020-12-10 16:33:01,130 INFO Node <naming_instance_metadata/192.168.1.117:7848> become leader of group, term=5, conf=192.168.1.117:7848, oldConf=.
+
+2020-12-10 16:33:01,134 INFO -Djraft.recyclers.maxCapacityPerThread: 4096.
+
+2020-12-10 16:33:01,136 WARN RPC server is not started in RaftGroupService.
+
+2020-12-10 16:33:01,136 INFO Start the RaftGroupService successfully.
+
+2020-12-10 16:33:01,143 INFO The number of active nodes increment to 2.
+
+2020-12-10 16:33:01,149 INFO onLeaderStart: term=5.
+
+2020-12-10 16:33:01,219 INFO Starts FSMCaller successfully.
+
+2020-12-10 16:33:01,227 INFO Loading snapshot, meta=last_included_index: 4
+last_included_term: 4
+peers: "192.168.1.117:7848"
+.
+
+2020-12-10 16:33:01,236 INFO Node <naming_service_metadata/192.168.1.117:7848> onSnapshotLoadDone, last_included_index: 4
+last_included_term: 4
+peers: "192.168.1.117:7848"
+
+
+2020-12-10 16:33:01,236 INFO Node <naming_service_metadata/192.168.1.117:7848> target priority value has changed from: 0, to: -1.
+
+2020-12-10 16:33:01,237 INFO Node <naming_service_metadata/192.168.1.117:7848> init, term=4, lastLogId=LogId [index=4, term=4], conf=192.168.1.117:7848, oldConf=.
+
+2020-12-10 16:33:01,238 INFO Node <naming_service_metadata/192.168.1.117:7848> start vote and grant vote self, term=4.
+
+2020-12-10 16:33:01,241 WARN Unable to fsync directory C:\Users\Administrator\Downloads\nacos\data\protocol\raft\naming_service_metadata\meta-data on windows.
+
+2020-12-10 16:33:01,242 INFO Save raft meta, path=C:\Users\Administrator\Downloads\nacos\data\protocol\raft\naming_service_metadata\meta-data, term=5, votedFor=192.168.1.117:7848, cost time=4 ms
+
+2020-12-10 16:33:01,242 INFO Node <naming_service_metadata/192.168.1.117:7848> become leader of group, term=5, conf=192.168.1.117:7848, oldConf=.
+
+2020-12-10 16:33:01,242 WARN RPC server is not started in RaftGroupService.
+
+2020-12-10 16:33:01,242 INFO Start the RaftGroupService successfully.
+
+2020-12-10 16:33:01,243 INFO onLeaderStart: term=5.
+
+2020-12-10 16:33:01,285 WARN Channel in TRANSIENT_FAILURE state: 192.168.1.117:7848.
+
+2020-12-10 16:33:01,285 WARN Channel in SHUTDOWN state: 192.168.1.117:7848.
+
+2020-12-10 16:53:53,599 WARN Unable to fsync directory C:\Users\Administrator\Downloads\nacos\data\protocol\raft\naming_instance_metadata\snapshot\temp on windows.
+
+2020-12-10 16:53:53,600 INFO Deleting snapshot C:\Users\Administrator\Downloads\nacos\data\protocol\raft\naming_instance_metadata\snapshot\snapshot_5.
+
+2020-12-10 16:53:53,600 INFO Renaming C:\Users\Administrator\Downloads\nacos\data\protocol\raft\naming_instance_metadata\snapshot\temp to C:\Users\Administrator\Downloads\nacos\data\protocol\raft\naming_instance_metadata\snapshot\snapshot_5.
+
+2020-12-10 16:53:53,601 INFO Deleting snapshot C:\Users\Administrator\Downloads\nacos\data\protocol\raft\naming_instance_metadata\snapshot\snapshot_4.
+
+2020-12-10 16:59:31,601 WARN Unable to fsync directory C:\Users\Administrator\Downloads\nacos\data\protocol\raft\naming_service_metadata\snapshot\temp on windows.
+
+2020-12-10 16:59:31,601 INFO Deleting snapshot C:\Users\Administrator\Downloads\nacos\data\protocol\raft\naming_service_metadata\snapshot\snapshot_5.
+
+2020-12-10 16:59:31,601 INFO Renaming C:\Users\Administrator\Downloads\nacos\data\protocol\raft\naming_service_metadata\snapshot\temp to C:\Users\Administrator\Downloads\nacos\data\protocol\raft\naming_service_metadata\snapshot\snapshot_5.
+
+2020-12-10 16:59:31,602 INFO Deleting snapshot C:\Users\Administrator\Downloads\nacos\data\protocol\raft\naming_service_metadata\snapshot\snapshot_4.
+

@@ -1,0 +1,28 @@
+2021-10-10 12:01:09,187 INFO {POS} {IP-DISABLED} valid: 192.168.200.224:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1633794095853
+
+2021-10-10 12:01:09,187 INFO {POS} {IP-DISABLED} valid: 192.168.200.224:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1633794097342
+
+2021-10-10 12:01:09,187 INFO {POS} {IP-DISABLED} valid: 192.168.200.224:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1633794096939
+
+2021-10-10 12:01:09,187 INFO {POS} {IP-DISABLED} valid: 192.168.200.224:30000@DEFAULT@gulimall-third-party, region: unknown, msg: client last beat: 1633794094473
+
+2021-10-10 14:36:00,860 INFO {POS} {IP-DISABLED} valid: 192.168.200.224:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1633847741754
+
+2021-10-10 14:49:26,493 INFO {POS} {IP-DISABLED} valid: 192.168.200.21:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1633848546935
+
+2021-10-10 16:30:14,010 INFO {POS} {IP-DISABLED} valid: 192.168.200.21:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1633854598505
+
+2021-10-10 18:12:01,113 INFO {POS} {IP-DISABLED} valid: 192.168.200.224:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1633860702813
+
+2021-10-10 18:12:06,112 INFO {POS} {IP-DISABLED} valid: 192.168.200.224:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1633860709599
+
+2021-10-10 19:13:27,680 INFO {POS} {IP-DISABLED} valid: 192.168.200.21:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1633864390452
+
+2021-10-10 19:13:28,011 INFO {POS} {IP-DISABLED} valid: 192.168.200.21:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1633864390009
+
+2021-10-10 19:13:29,726 INFO {POS} {IP-DISABLED} valid: 192.168.200.21:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1633864393930
+
+2021-10-10 19:13:32,593 INFO {POS} {IP-DISABLED} valid: 192.168.200.224:30000@DEFAULT@gulimall-third-party, region: unknown, msg: client last beat: 1633864395977
+
+2021-10-10 19:24:08,312 ERROR [UPDATE-DOMAIN] Exception while taking item from LinkedBlockingDeque.
+

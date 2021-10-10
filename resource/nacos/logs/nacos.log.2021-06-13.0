@@ -1,0 +1,208 @@
+2021-06-13 12:48:55,996 INFO Starting Nacos v2.0.0-ALPHA.1 on DESKTOP-RV8UVSB with PID 73336 (C:\Users\Administrator\Downloads\nacos\target\nacos-server.jar started by Administrator in C:\Users\Administrator\Downloads\nacos\bin)
+
+2021-06-13 12:48:55,998 INFO The following profiles are active: standalone
+
+2021-06-13 12:49:02,395 INFO Bean 'org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler@6af9fcb2' of type [org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2021-06-13 12:49:11,424 INFO Bean 'methodSecurityMetadataSource' of type [org.springframework.security.access.method.DelegatingMethodSecurityMetadataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2021-06-13 12:49:12,226 INFO Tomcat initialized with port(s): 8848 (http)
+
+2021-06-13 12:49:12,265 INFO Starting service [Tomcat]
+
+2021-06-13 12:49:12,265 INFO Starting Servlet engine: [Apache Tomcat/9.0.38]
+
+2021-06-13 12:49:12,427 WARN [NotifyCenter] Start destroying Publisher
+
+2021-06-13 12:49:12,427 WARN [WatchFileCenter] start close
+
+2021-06-13 12:49:12,427 WARN [NotifyCenter] Destruction of the end
+
+2021-06-13 12:49:12,429 WARN [WatchFileCenter] start to shutdown this watcher which is watch : C:\Users\Administrator\Downloads\nacos\conf
+
+2021-06-13 12:49:12,432 WARN [WatchFileCenter] already closed
+
+2021-06-13 12:49:23,154 INFO Starting Nacos v2.0.0-ALPHA.1 on DESKTOP-RV8UVSB with PID 38360 (C:\Users\Administrator\Downloads\nacos\target\nacos-server.jar started by Administrator in C:\Users\Administrator\Downloads\nacos\bin)
+
+2021-06-13 12:49:23,155 INFO The following profiles are active: standalone
+
+2021-06-13 12:49:29,668 INFO Bean 'org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler@7a362b6b' of type [org.springframework.security.access.expression.method.DefaultMethodSecurityExpressionHandler] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2021-06-13 12:51:49,623 INFO Bean 'methodSecurityMetadataSource' of type [org.springframework.security.access.method.DelegatingMethodSecurityMetadataSource] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+
+2021-06-13 12:51:50,414 INFO Tomcat initialized with port(s): 8848 (http)
+
+2021-06-13 12:51:50,460 INFO Starting service [Tomcat]
+
+2021-06-13 12:51:50,460 INFO Starting Servlet engine: [Apache Tomcat/9.0.38]
+
+2021-06-13 12:51:51,001 INFO At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+
+2021-06-13 12:51:51,059 INFO Initializing Spring embedded WebApplicationContext
+
+2021-06-13 12:51:51,059 INFO Root WebApplicationContext: initialization completed in 147778 ms
+
+2021-06-13 12:51:52,057 INFO HikariPool-1 - Starting...
+
+2021-06-13 12:51:52,061 WARN Registered driver with driverClassName=org.apache.derby.jdbc.EmbeddedDriver was not found, trying direct instantiation.
+
+2021-06-13 12:51:52,726 INFO HikariPool-1 - Driver does not support get/set network timeout for connections. (Feature not implemented: No details.)
+
+2021-06-13 12:51:52,733 INFO HikariPool-1 - Start completed.
+
+2021-06-13 12:51:54,569 INFO Nacos-related cluster resource initialization
+
+2021-06-13 12:51:54,583 INFO The cluster resource is initialized
+
+2021-06-13 12:51:55,227 INFO Reflections took 51 ms to scan 1 urls, producing 6 keys and 26 values 
+
+2021-06-13 12:51:55,275 INFO Reflections took 5 ms to scan 1 urls, producing 4 keys and 17 values 
+
+2021-06-13 12:51:55,285 INFO Reflections took 4 ms to scan 1 urls, producing 3 keys and 15 values 
+
+2021-06-13 12:51:55,931 WARN There are no [com.alibaba.nacos.config.server.model.event.LocalDataChangeEvent] publishers for this event, please register
+
+2021-06-13 12:52:42,014 WARN There are no [com.alibaba.nacos.config.server.model.event.LocalDataChangeEvent] publishers for this event, please register
+
+2021-06-13 12:52:42,371 INFO Reflections took 3 ms to scan 1 urls, producing 3 keys and 6 values 
+
+2021-06-13 12:52:42,377 INFO Reflections took 2 ms to scan 1 urls, producing 1 keys and 5 values 
+
+2021-06-13 12:52:42,383 INFO Reflections took 3 ms to scan 1 urls, producing 3 keys and 7 values 
+
+2021-06-13 12:52:42,387 INFO Reflections took 3 ms to scan 1 urls, producing 1 keys and 6 values 
+
+2021-06-13 12:52:42,394 INFO Reflections took 4 ms to scan 1 urls, producing 3 keys and 9 values 
+
+2021-06-13 12:52:42,399 INFO Reflections took 3 ms to scan 1 urls, producing 3 keys and 10 values 
+
+2021-06-13 12:52:42,407 INFO Reflections took 5 ms to scan 1 urls, producing 2 keys and 2 values 
+
+2021-06-13 12:52:42,416 INFO Reflections took 4 ms to scan 1 urls, producing 1 keys and 1 values 
+
+2021-06-13 12:52:45,611 WARN [ConfigServer-HttpClientManager] Start destroying NacosRestTemplate
+
+2021-06-13 12:52:45,611 WARN [HttpClientBeanHolder] Start destroying common HttpClient
+
+2021-06-13 12:52:45,613 WARN [ThreadPoolManager] Start destroying ThreadPool
+
+2021-06-13 12:52:45,613 WARN [WatchFileCenter] start close
+
+2021-06-13 12:52:45,615 WARN [HttpClientBeanHolder] Destruction of the end
+
+2021-06-13 12:52:45,615 WARN [ConfigServer-HttpClientManager] Destruction of the end
+
+2021-06-13 12:52:45,613 WARN [NotifyCenter] Start destroying Publisher
+
+2021-06-13 12:52:45,615 WARN [WatchFileCenter] start to shutdown this watcher which is watch : C:\Users\Administrator\Downloads\nacos\conf
+
+2021-06-13 12:52:45,615 WARN [NotifyCenter] Destruction of the end
+
+2021-06-13 12:52:45,616 WARN [WatchFileCenter] already closed
+
+2021-06-13 12:52:46,680 WARN Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'httpHealthCheckProcessor' defined in URL [jar:file:/C:/Users/Administrator/Downloads/nacos/target/nacos-server.jar!/BOOT-INF/lib/nacos-naming-2.0.0-ALPHA.1.jar!/com/alibaba/nacos/naming/healthcheck/HttpHealthCheckProcessor.class]: Instantiation of bean failed; nested exception is java.lang.ExceptionInInitializerError
+
+2021-06-13 12:52:46,745 INFO Nacos Log files: C:\Users\Administrator\Downloads\nacos\logs
+
+2021-06-13 12:52:46,746 INFO Nacos Log files: C:\Users\Administrator\Downloads\nacos\conf
+
+2021-06-13 12:52:46,748 INFO Nacos Log files: C:\Users\Administrator\Downloads\nacos\data
+
+2021-06-13 12:52:46,754 ERROR Startup errors : {}
+
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'httpHealthCheckProcessor' defined in URL [jar:file:/C:/Users/Administrator/Downloads/nacos/target/nacos-server.jar!/BOOT-INF/lib/nacos-naming-2.0.0-ALPHA.1.jar!/com/alibaba/nacos/naming/healthcheck/HttpHealthCheckProcessor.class]: Instantiation of bean failed; nested exception is java.lang.ExceptionInInitializerError
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1300)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1195)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:554)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:514)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:321)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:319)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:866)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:878)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:550)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:141)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:744)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:391)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:312)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1215)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1204)
+	at com.alibaba.nacos.Nacos.main(Nacos.java:35)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.boot.loader.MainMethodRunner.run(MainMethodRunner.java:49)
+	at org.springframework.boot.loader.Launcher.launch(Launcher.java:107)
+	at org.springframework.boot.loader.Launcher.launch(Launcher.java:58)
+	at org.springframework.boot.loader.PropertiesLauncher.main(PropertiesLauncher.java:467)
+Caused by: java.lang.ExceptionInInitializerError: null
+	at com.alibaba.nacos.naming.healthcheck.HttpHealthCheckProcessor.<clinit>(HttpHealthCheckProcessor.java:59)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:175)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:87)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1292)
+	... 25 common frames omitted
+Caused by: java.lang.IllegalStateException: Shutdown in progress
+	at java.lang.ApplicationShutdownHooks.add(ApplicationShutdownHooks.java:66)
+	at java.lang.Runtime.addShutdownHook(Runtime.java:211)
+	at com.alibaba.nacos.common.utils.ThreadUtils.addShutdownHook(ThreadUtils.java:147)
+	at com.alibaba.nacos.naming.misc.HttpClientManager.<clinit>(HttpClientManager.java:69)
+	... 33 common frames omitted
+2021-06-13 12:52:46,758 ERROR Nacos failed to start, please see C:\Users\Administrator\Downloads\nacos\logs\nacos.log for more details.
+
+2021-06-13 12:52:46,776 INFO 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+
+2021-06-13 12:52:46,779 ERROR Application run failed
+
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'httpHealthCheckProcessor' defined in URL [jar:file:/C:/Users/Administrator/Downloads/nacos/target/nacos-server.jar!/BOOT-INF/lib/nacos-naming-2.0.0-ALPHA.1.jar!/com/alibaba/nacos/naming/healthcheck/HttpHealthCheckProcessor.class]: Instantiation of bean failed; nested exception is java.lang.ExceptionInInitializerError
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1300)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1195)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:554)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:514)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:321)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:319)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:866)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:878)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:550)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:141)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:744)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:391)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:312)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1215)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:1204)
+	at com.alibaba.nacos.Nacos.main(Nacos.java:35)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.boot.loader.MainMethodRunner.run(MainMethodRunner.java:49)
+	at org.springframework.boot.loader.Launcher.launch(Launcher.java:107)
+	at org.springframework.boot.loader.Launcher.launch(Launcher.java:58)
+	at org.springframework.boot.loader.PropertiesLauncher.main(PropertiesLauncher.java:467)
+Caused by: java.lang.ExceptionInInitializerError: null
+	at com.alibaba.nacos.naming.healthcheck.HttpHealthCheckProcessor.<clinit>(HttpHealthCheckProcessor.java:59)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.springframework.beans.BeanUtils.instantiateClass(BeanUtils.java:175)
+	at org.springframework.beans.factory.support.SimpleInstantiationStrategy.instantiate(SimpleInstantiationStrategy.java:87)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.instantiateBean(AbstractAutowireCapableBeanFactory.java:1292)
+	... 25 common frames omitted
+Caused by: java.lang.IllegalStateException: Shutdown in progress
+	at java.lang.ApplicationShutdownHooks.add(ApplicationShutdownHooks.java:66)
+	at java.lang.Runtime.addShutdownHook(Runtime.java:211)
+	at com.alibaba.nacos.common.utils.ThreadUtils.addShutdownHook(ThreadUtils.java:147)
+	at com.alibaba.nacos.naming.misc.HttpClientManager.<clinit>(HttpClientManager.java:69)
+	... 33 common frames omitted
+2021-06-13 12:52:57,803 WARN [ThreadPoolManager] Destruction of the end
+

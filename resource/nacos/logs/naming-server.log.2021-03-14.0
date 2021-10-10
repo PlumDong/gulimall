@@ -1,0 +1,12 @@
+2021-03-14 10:16:35,292 INFO open empty service auto clean job, initialDelay : 50000 ms, period : 30000 ms
+
+2021-03-14 10:16:35,293 INFO listen for service meta change
+
+2021-03-14 10:16:38,674 INFO [NACOS-DISTRO] healthy server list changed, old: [10.32.77.36:8848], new: [10.32.77.36:8848]
+
+2021-03-14 10:18:30,709 INFO open empty service auto clean job, initialDelay : 50000 ms, period : 30000 ms
+
+2021-03-14 10:18:30,710 INFO listen for service meta change
+
+2021-03-14 10:18:33,657 INFO [NACOS-DISTRO] healthy server list changed, old: [10.32.77.36:8848], new: [10.32.77.36:8848]
+

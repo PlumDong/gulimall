@@ -1,0 +1,177 @@
+2021-02-09 20:32:39,580 INFO DEFAULT_GROUP@@gulimall-product is changed, add it to push queue.
+
+2021-02-09 20:32:39,704 INFO serviceName: DEFAULT_GROUP@@gulimall-product@@DEFAULT changed, schedule push for: 192.168.245.1:51476, agent: Nacos-Java-Client:v1.3.3, key: 192.168.245.1,51476,7028171701600
+
+2021-02-09 20:32:39,706 INFO send udp packet: 192.168.245.1,51476,7028171701600
+
+2021-02-09 20:32:39,787 INFO received ack: {"type": "push-ack", "lastRefTime":"7028171701600", "data":""} from: 192.168.245.1:51476, cost: 80 ms, unacked: 0, total push: 1
+
+2021-02-09 20:32:40,083 INFO DEFAULT_GROUP@@gulimall-gateway is changed, add it to push queue.
+
+2021-02-09 20:32:40,085 INFO serviceName: DEFAULT_GROUP@@gulimall-gateway@@DEFAULT changed, schedule push for: 192.168.245.1:51475, agent: Nacos-Java-Client:v1.3.3, key: 192.168.245.1,51475,7028648183700
+
+2021-02-09 20:32:40,085 INFO send udp packet: 192.168.245.1,51475,7028648183700
+
+2021-02-09 20:32:40,091 INFO received ack: {"type": "push-ack", "lastRefTime":"7028648183700", "data":""} from: 192.168.245.1:51475, cost: 6 ms, unacked: 0, total push: 2
+
+2021-02-09 20:32:47,908 INFO DEFAULT_GROUP@@renren-fast is changed, add it to push queue.
+
+2021-02-09 20:32:47,908 INFO serviceName: DEFAULT_GROUP@@renren-fast@@DEFAULT changed, schedule push for: 192.168.245.1:51924, agent: Nacos-Java-Client:v1.3.3, key: 192.168.245.1,51924,7036472423300
+
+2021-02-09 20:32:47,908 INFO send udp packet: 192.168.245.1,51924,7036472423300
+
+2021-02-09 20:32:47,952 INFO received ack: {"type": "push-ack", "lastRefTime":"7036472423300", "data":""} from: 192.168.245.1:51924, cost: 44 ms, unacked: 0, total push: 3
+
+2021-02-09 20:47:50,510 INFO DEFAULT_GROUP@@gulimall-gateway is changed, add it to push queue.
+
+2021-02-09 20:47:50,515 INFO serviceName: DEFAULT_GROUP@@gulimall-gateway@@DEFAULT changed, schedule push for: 192.168.245.1:51475, agent: Nacos-Java-Client:v1.3.3, key: 192.168.245.1,51475,7939076011200
+
+2021-02-09 20:47:50,515 INFO send udp packet: 192.168.245.1,51475,7939076011200
+
+2021-02-09 20:47:58,675 INFO DEFAULT_GROUP@@gulimall-gateway is changed, add it to push queue.
+
+2021-02-09 20:47:58,675 INFO serviceName: DEFAULT_GROUP@@gulimall-gateway@@DEFAULT changed, schedule push for: 192.168.245.1:63525, agent: Nacos-Java-Client:v1.3.3, key: 192.168.245.1,63525,7947239803900
+
+2021-02-09 20:47:58,675 INFO send udp packet: 192.168.245.1,63525,7947239803900
+
+2021-02-09 20:47:58,688 INFO received ack: {"type": "push-ack", "lastRefTime":"7947239803900", "data":""} from: 192.168.245.1:63525, cost: 13 ms, unacked: 1, total push: 5
+
+2021-02-09 20:48:00,518 INFO retry to push data, key: 192.168.245.1,51475,7939076011200
+
+2021-02-09 20:48:00,519 INFO send udp packet: 192.168.245.1,51475,7939076011200
+
+2021-02-09 20:48:10,521 INFO retry to push data, key: 192.168.245.1,51475,7939076011200
+
+2021-02-09 20:48:10,521 WARN max re-push times reached, retry times 2, key: 192.168.245.1,51475,7939076011200
+
+2021-02-09 20:48:58,616 INFO DEFAULT_GROUP@@gulimall-product is changed, add it to push queue.
+
+2021-02-09 20:48:58,616 INFO serviceName: DEFAULT_GROUP@@gulimall-product@@DEFAULT changed, schedule push for: 192.168.245.1:57257, agent: Nacos-Java-Client:v1.3.3, key: 192.168.245.1,57257,8007180404200
+
+2021-02-09 20:48:58,616 INFO send udp packet: 192.168.245.1,57257,8007180404200
+
+2021-02-09 20:48:58,621 INFO received ack: {"type": "push-ack", "lastRefTime":"8007180404200", "data":""} from: 192.168.245.1:57257, cost: 5 ms, unacked: 0, total push: 6
+
+2021-09-16 20:11:22,378 INFO DEFAULT_GROUP@@renren-fast is changed, add it to push queue.
+
+2021-09-16 20:11:22,462 INFO serviceName: DEFAULT_GROUP@@renren-fast@@DEFAULT changed, schedule push for: 172.24.98.106:55209, agent: Nacos-Java-Client:v1.3.3, key: 172.24.98.106,55209,374503934234100
+
+2021-09-16 20:11:22,463 INFO send udp packet: 172.24.98.106,55209,374503934234100
+
+2021-09-16 20:11:22,486 INFO received ack: {"type": "push-ack", "lastRefTime":"374503934234100", "data":""} from: 172.24.98.106:55209, cost: 23 ms, unacked: 0, total push: 1
+
+2021-09-16 20:34:59,314 INFO DEFAULT_GROUP@@gulimall-gateway is changed, add it to push queue.
+
+2021-09-16 20:34:59,411 INFO serviceName: DEFAULT_GROUP@@gulimall-gateway@@DEFAULT changed, schedule push for: 172.24.98.106:60914, agent: Nacos-Java-Client:v1.3.3, key: 172.24.98.106,60914,375920936647100
+
+2021-09-16 20:34:59,411 INFO send udp packet: 172.24.98.106,60914,375920936647100
+
+2021-09-16 20:34:59,414 INFO received ack: {"type": "push-ack", "lastRefTime":"375920936647100", "data":""} from: 172.24.98.106:60914, cost: 3 ms, unacked: 0, total push: 2
+
+2021-09-16 20:39:35,783 INFO DEFAULT_GROUP@@gulimall-gateway is changed, add it to push queue.
+
+2021-09-16 20:39:35,783 INFO serviceName: DEFAULT_GROUP@@gulimall-gateway@@DEFAULT changed, schedule push for: 172.24.98.106:61771, agent: Nacos-Java-Client:v1.3.3, key: 172.24.98.106,61771,376197309342900
+
+2021-09-16 20:39:35,783 INFO send udp packet: 172.24.98.106,61771,376197309342900
+
+2021-09-16 20:39:35,786 INFO received ack: {"type": "push-ack", "lastRefTime":"376197309342900", "data":""} from: 172.24.98.106:61771, cost: 3 ms, unacked: 0, total push: 3
+
+2021-09-17 08:16:21,542 INFO DEFAULT_GROUP@@gulimall-gateway is changed, add it to push queue.
+
+2021-09-17 08:16:21,545 INFO serviceName: DEFAULT_GROUP@@gulimall-gateway@@DEFAULT changed, schedule push for: 172.24.98.106:61771, agent: Nacos-Java-Client:v1.3.3, key: 172.24.98.106,61771,418003082987200
+
+2021-09-17 08:16:21,545 INFO send udp packet: 172.24.98.106,61771,418003082987200
+
+2021-09-17 08:16:22,588 ERROR [NACOS-PUSH] failed to push data: {type=dom, data={"name":"DEFAULT_GROUP@@gulimall-gateway","clusters":"DEFAULT","cacheMillis":10000,"hosts":[],"lastRefTime":1631837780540,"checksum":"","allIPs":false,"valid":true}, lastRefTime=418003082987200} to client: 172.24.98.106, error: {}
+
+java.net.NoRouteToHostException: No route to host: Datagram send failed
+	at java.net.DualStackPlainDatagramSocketImpl.socketSend(Native Method)
+	at java.net.DualStackPlainDatagramSocketImpl.send(DualStackPlainDatagramSocketImpl.java:136)
+	at java.net.DatagramSocket.send(DatagramSocket.java:693)
+	at com.alibaba.nacos.naming.push.PushService.udpPush(PushService.java:639)
+	at com.alibaba.nacos.naming.push.PushService.lambda$pushData$2(PushService.java:210)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2021-09-17 08:16:22,589 INFO DEFAULT_GROUP@@renren-fast is changed, add it to push queue.
+
+2021-09-17 08:16:22,589 INFO serviceName: DEFAULT_GROUP@@renren-fast changed, schedule push for: 172.24.98.106:61771, agent: Nacos-Java-Client:v1.3.3, key: 172.24.98.106,61771,418004128009900
+
+2021-09-17 08:16:22,589 INFO send udp packet: 172.24.98.106,61771,418004128009900
+
+2021-09-17 08:16:22,590 ERROR [NACOS-PUSH] failed to push data: {type=dom, data={"name":"DEFAULT_GROUP@@renren-fast","clusters":"","cacheMillis":10000,"hosts":[],"lastRefTime":1631837780540,"checksum":"","allIPs":false,"valid":true}, lastRefTime=418004128009900} to client: 172.24.98.106, error: {}
+
+java.net.NoRouteToHostException: No route to host: Datagram send failed
+	at java.net.DualStackPlainDatagramSocketImpl.socketSend(Native Method)
+	at java.net.DualStackPlainDatagramSocketImpl.send(DualStackPlainDatagramSocketImpl.java:136)
+	at java.net.DatagramSocket.send(DatagramSocket.java:693)
+	at com.alibaba.nacos.naming.push.PushService.udpPush(PushService.java:639)
+	at com.alibaba.nacos.naming.push.PushService.lambda$pushData$2(PushService.java:210)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2021-09-17 08:16:25,302 INFO DEFAULT_GROUP@@gulimall-gateway is changed, add it to push queue.
+
+2021-09-17 08:16:25,306 INFO serviceName: DEFAULT_GROUP@@gulimall-gateway@@DEFAULT changed, schedule push for: 172.24.98.106:61771, agent: Nacos-Java-Client:v1.3.3, key: 172.24.98.106,61771,418006840461800
+
+2021-09-17 08:16:25,306 INFO send udp packet: 172.24.98.106,61771,418006840461800
+
+2021-09-17 08:16:25,307 ERROR [NACOS-PUSH] failed to push data: {type=dom, data={"name":"DEFAULT_GROUP@@gulimall-gateway","clusters":"DEFAULT","cacheMillis":10000,"hosts":[{"ip":"192.168.201.38","port":88,"weight":1.0,"healthy":true,"enabled":true,"ephemeral":true,"clusterName":"DEFAULT","serviceName":"DEFAULT_GROUP@@gulimall-gateway","metadata":{"preserved.register.source":"SPRING_CLOUD"},"instanceHeartBeatInterval":5000,"ipDeleteTimeout":30000,"instanceHeartBeatTimeOut":15000}],"lastRefTime":1631837784299,"checksum":"","allIPs":false,"valid":true}, lastRefTime=418006840461800} to client: 172.24.98.106, error: {}
+
+java.net.NoRouteToHostException: No route to host: Datagram send failed
+	at java.net.DualStackPlainDatagramSocketImpl.socketSend(Native Method)
+	at java.net.DualStackPlainDatagramSocketImpl.send(DualStackPlainDatagramSocketImpl.java:136)
+	at java.net.DatagramSocket.send(DatagramSocket.java:693)
+	at com.alibaba.nacos.naming.push.PushService.udpPush(PushService.java:639)
+	at com.alibaba.nacos.naming.push.PushService.lambda$pushData$2(PushService.java:210)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2021-09-17 08:17:00,240 INFO DEFAULT_GROUP@@gulimall-gateway is changed, add it to push queue.
+
+2021-09-17 08:17:00,240 INFO serviceName: DEFAULT_GROUP@@gulimall-gateway@@DEFAULT changed, schedule push for: 172.24.98.106:61771, agent: Nacos-Java-Client:v1.3.3, key: 172.24.98.106,61771,418041778319500
+
+2021-09-17 08:17:00,240 INFO send udp packet: 172.24.98.106,61771,418041778319500
+
+2021-09-17 20:08:40,199 INFO DEFAULT_GROUP@@gulimall-gateway is changed, add it to push queue.
+
+2021-09-17 20:08:40,285 INFO serviceName: DEFAULT_GROUP@@gulimall-gateway@@DEFAULT changed, schedule push for: 172.24.98.106:60362, agent: Nacos-Java-Client:v1.3.3, key: 172.24.98.106,60362,460741802123600
+
+2021-09-17 20:08:40,285 INFO send udp packet: 172.24.98.106,60362,460741802123600
+
+2021-09-17 20:08:40,295 INFO received ack: {"type": "push-ack", "lastRefTime":"460741802123600", "data":""} from: 172.24.98.106:60362, cost: 10 ms, unacked: 0, total push: 1
+
+2021-09-17 20:09:46,694 INFO DEFAULT_GROUP@@renren-fast is changed, add it to push queue.
+
+2021-09-17 20:09:46,695 INFO serviceName: DEFAULT_GROUP@@renren-fast@@DEFAULT changed, schedule push for: 172.24.98.106:53829, agent: Nacos-Java-Client:v1.3.3, key: 172.24.98.106,53829,460808232760800
+
+2021-09-17 20:09:46,695 INFO send udp packet: 172.24.98.106,53829,460808232760800
+
+2021-09-17 20:09:46,698 INFO received ack: {"type": "push-ack", "lastRefTime":"460808232760800", "data":""} from: 172.24.98.106:53829, cost: 3 ms, unacked: 0, total push: 2
+
+2021-09-17 20:14:30,276 INFO DEFAULT_GROUP@@gulimall-gateway is changed, add it to push queue.
+
+2021-09-17 20:14:30,276 INFO serviceName: DEFAULT_GROUP@@gulimall-gateway@@DEFAULT changed, schedule push for: 172.24.98.106:60362, agent: Nacos-Java-Client:v1.3.3, key: 172.24.98.106,60362,461091814114200
+
+2021-09-17 20:14:30,276 INFO send udp packet: 172.24.98.106,60362,461091814114200
+
+2021-09-17 20:14:40,279 INFO retry to push data, key: 172.24.98.106,60362,461091814114200
+
+2021-09-17 20:14:40,279 INFO send udp packet: 172.24.98.106,60362,461091814114200
+
+2021-09-17 20:14:50,281 INFO retry to push data, key: 172.24.98.106,60362,461091814114200
+
+2021-09-17 20:14:50,281 WARN max re-push times reached, retry times 2, key: 172.24.98.106,60362,461091814114200
+

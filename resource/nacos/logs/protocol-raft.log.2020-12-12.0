@@ -1,0 +1,1732 @@
+2020-12-12 09:46:56,244 INFO Initializes the Raft protocol, raft-config info : {}
+
+2020-12-12 09:46:56,477 INFO ========= The raft protocol is starting... =========
+
+2020-12-12 09:46:56,507 INFO ========= The raft protocol start finished... =========
+
+2020-12-12 09:46:56,537 INFO create raft group : naming_instance_metadata
+
+2020-12-12 09:46:57,073 INFO This Raft event changes : RaftEvent{groupId='naming_instance_metadata', leader='null', term=null, raftClusterInfo=[192.168.1.117:7848]}
+
+2020-12-12 09:46:57,150 INFO create raft group : naming_service_metadata
+
+2020-12-12 09:46:57,154 INFO This Raft event changes : RaftEvent{groupId='naming_instance_metadata', leader='192.168.1.117:7848', term=8, raftClusterInfo=[192.168.1.117:7848]}
+
+2020-12-12 09:46:57,279 INFO This Raft event changes : RaftEvent{groupId='naming_service_metadata', leader='null', term=null, raftClusterInfo=[192.168.1.117:7848]}
+
+2020-12-12 09:46:57,301 INFO This Raft event changes : RaftEvent{groupId='naming_service_metadata', leader='192.168.1.117:7848', term=8, raftClusterInfo=[192.168.1.117:7848]}
+
+2020-12-12 13:45:16,632 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: io.grpc.StatusRuntimeException: UNAVAILABLE: io exception]
+
+2020-12-12 13:45:16,635 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,636 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,637 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,638 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,638 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,639 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,639 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,639 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: io.grpc.StatusRuntimeException: UNAVAILABLE: io exception]
+
+2020-12-12 13:45:16,643 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,644 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,645 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,645 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,646 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,646 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,647 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,647 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,648 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,648 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,648 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,648 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,648 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,649 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,649 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,650 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,650 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,651 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,651 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,652 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,652 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,652 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,652 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,653 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,654 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,656 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,656 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: io.grpc.StatusRuntimeException: UNAVAILABLE: io exception]
+
+2020-12-12 13:45:16,657 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,658 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,658 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,658 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,658 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,659 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,659 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,659 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,659 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,660 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,663 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,663 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,663 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,664 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,664 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,664 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,664 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,664 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,664 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,664 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,665 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,665 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,665 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,665 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,666 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,666 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,666 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,666 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,666 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,667 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,667 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,667 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,670 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,670 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,672 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,672 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,673 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,673 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,673 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,673 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: io.grpc.StatusRuntimeException: UNAVAILABLE: io exception]
+
+2020-12-12 13:45:16,674 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,674 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,674 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,674 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,675 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,675 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,675 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,675 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,675 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,675 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,675 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,677 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,678 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: io.grpc.StatusRuntimeException: UNAVAILABLE: io exception]
+
+2020-12-12 13:45:16,679 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,679 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,679 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,680 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,680 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,680 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,680 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,680 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,681 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,682 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,683 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,684 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,685 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,685 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,685 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,685 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,686 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,686 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,686 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,692 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,693 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,693 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,693 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,693 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,693 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,693 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,694 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,694 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,694 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,694 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,694 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,695 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,695 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,695 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,696 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,696 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,696 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,696 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,696 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,697 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,697 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,700 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,701 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,701 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,701 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,701 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,701 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,702 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,702 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,702 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,702 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,703 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,703 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,703 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,703 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,703 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,704 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,704 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,704 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,704 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,705 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,709 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,709 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,709 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,709 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,710 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,710 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,710 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,710 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,710 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,710 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,711 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,711 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,711 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,711 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,711 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,711 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,712 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,712 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,712 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,712 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,712 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,713 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,721 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,722 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,722 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,722 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,722 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,722 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,722 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,722 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,722 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,723 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,723 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,723 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,723 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,723 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,723 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,724 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,724 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,724 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,724 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,724 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,725 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,725 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,725 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,727 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,728 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,728 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,728 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: io.grpc.StatusRuntimeException: UNAVAILABLE: io exception]
+
+2020-12-12 13:45:16,728 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,728 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,728 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,728 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,728 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,729 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,729 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,729 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,729 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,729 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,729 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,729 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,729 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,730 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,730 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,730 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,733 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,734 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,734 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,734 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,735 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,735 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,735 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,735 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,735 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,735 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: io.grpc.StatusRuntimeException: UNAVAILABLE: io exception]
+
+2020-12-12 13:45:16,735 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,736 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,736 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,736 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,736 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,736 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,736 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,736 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,736 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,737 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,737 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,737 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,737 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,737 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,737 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,740 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,740 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,740 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,741 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,741 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,741 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,741 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,742 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,742 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,742 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,742 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,743 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: io.grpc.StatusRuntimeException: UNAVAILABLE: io exception]
+
+2020-12-12 13:45:16,743 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,743 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,743 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,743 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,743 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,743 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,743 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,744 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,744 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,744 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,747 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,747 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,747 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,748 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,748 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,748 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,748 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,748 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,748 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,748 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,749 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,749 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,749 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,749 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,749 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,750 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,750 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,750 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,752 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: io.grpc.StatusRuntimeException: UNAVAILABLE: io exception]
+
+2020-12-12 13:45:16,753 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,753 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,754 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,754 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,754 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,754 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,754 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,754 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,755 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,755 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,755 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,755 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,755 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,755 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,756 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,756 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,756 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,756 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,756 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,757 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,757 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,757 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: io.grpc.StatusRuntimeException: UNAVAILABLE: io exception]
+
+2020-12-12 13:45:16,757 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,758 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,758 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,761 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,762 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,762 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: io.grpc.StatusRuntimeException: UNAVAILABLE: io exception]
+
+2020-12-12 13:45:16,762 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,762 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,763 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,763 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,763 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,763 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,763 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,763 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,763 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,763 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,763 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,763 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,763 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,764 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,764 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,764 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,764 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,764 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,764 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,770 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,770 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,771 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,771 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,771 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,771 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,771 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,771 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,771 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,771 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,771 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,771 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,772 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,772 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,772 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,772 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,772 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,772 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,772 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,772 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,772 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,773 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:16,773 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,065 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,065 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,066 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,066 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,066 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,066 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,067 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,067 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,067 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,067 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,068 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,068 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,070 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: io.grpc.StatusRuntimeException: UNAVAILABLE: io exception]
+
+2020-12-12 13:45:18,070 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,070 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,070 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: io.grpc.StatusRuntimeException: UNAVAILABLE: io exception]
+
+2020-12-12 13:45:18,070 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,071 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,071 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,073 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,074 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,074 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,075 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: io.grpc.StatusRuntimeException: UNAVAILABLE: io exception]
+
+2020-12-12 13:45:18,075 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,075 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,075 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,075 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,075 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,075 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,075 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,075 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,076 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,076 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,076 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,076 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,076 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,076 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,076 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,076 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,076 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,077 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,077 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,077 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,077 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,083 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,083 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: io.grpc.StatusRuntimeException: UNAVAILABLE: io exception]
+
+2020-12-12 13:45:18,083 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,083 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,084 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,084 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,084 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,084 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,084 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,084 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,084 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,084 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,085 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,085 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,085 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,085 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,085 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,085 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,085 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,086 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,086 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,086 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,089 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: io.grpc.StatusRuntimeException: UNAVAILABLE: io exception]
+
+2020-12-12 13:45:18,089 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,089 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,089 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,090 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,090 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,090 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,090 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,090 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,091 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,091 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,091 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,091 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,090 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,091 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,091 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,092 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,092 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,092 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,096 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,096 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,096 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,096 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,096 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,096 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,096 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,097 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,097 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,097 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,097 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,097 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,097 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: io.grpc.StatusRuntimeException: UNAVAILABLE: io exception]
+
+2020-12-12 13:45:18,097 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,098 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,098 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,098 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,098 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,098 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,098 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,098 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,099 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,103 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,103 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,103 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: io.grpc.StatusRuntimeException: UNAVAILABLE: io exception]
+
+2020-12-12 13:45:18,104 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,104 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,104 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,105 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,105 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,105 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,105 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,105 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,105 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,105 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,106 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,106 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,106 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,106 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,106 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,107 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,107 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,107 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,107 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,109 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,111 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: io.grpc.StatusRuntimeException: UNAVAILABLE: io exception]
+
+2020-12-12 13:45:18,111 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,111 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,112 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,112 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,112 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,112 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,111 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,112 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,112 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,113 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,113 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,113 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,113 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,113 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,113 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,113 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,113 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,113 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,113 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,113 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,114 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,114 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,117 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: io.grpc.StatusRuntimeException: UNAVAILABLE: io exception]
+
+2020-12-12 13:45:18,117 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,117 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,117 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,117 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,117 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,117 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,118 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,118 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,118 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,118 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,118 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,118 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,118 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,118 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,118 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,118 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,118 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,119 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,119 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,119 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,119 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,121 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,122 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,122 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: io.grpc.StatusRuntimeException: UNAVAILABLE: io exception]
+
+2020-12-12 13:45:18,122 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,122 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,123 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,123 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,123 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,123 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,123 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,123 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,123 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,123 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,123 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,123 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,123 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,124 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,124 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,124 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,124 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,124 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,124 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,125 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,126 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,127 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: io.grpc.StatusRuntimeException: UNAVAILABLE: io exception]
+
+2020-12-12 13:45:18,127 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,127 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,127 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,127 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,127 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,127 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,127 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,127 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,128 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,128 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,128 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,128 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,128 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,128 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,128 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,129 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,129 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,132 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: io.grpc.StatusRuntimeException: UNAVAILABLE: io exception]
+
+2020-12-12 13:45:18,132 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,132 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,132 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,132 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,132 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,132 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,132 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,132 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,133 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,133 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,133 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,133 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,133 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,133 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,133 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,133 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,133 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,133 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,133 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,133 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,134 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,134 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,134 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,134 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,206 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,206 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,207 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,207 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,207 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,207 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,207 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,207 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,207 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,207 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,207 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,207 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,208 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,208 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,208 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,208 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,208 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,208 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,208 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,208 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,209 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,212 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,212 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: io.grpc.StatusRuntimeException: UNAVAILABLE: io exception]
+
+2020-12-12 13:45:18,212 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,212 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,213 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: io.grpc.StatusRuntimeException: UNAVAILABLE: io exception]
+
+2020-12-12 13:45:18,213 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,213 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,213 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,213 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,213 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,213 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,213 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,213 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,213 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,213 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,213 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,214 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,214 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,214 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,214 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,214 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,214 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,214 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,214 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,218 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,218 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,218 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: io.grpc.StatusRuntimeException: UNAVAILABLE: io exception]
+
+2020-12-12 13:45:18,218 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: io.grpc.StatusRuntimeException: UNAVAILABLE: io exception]
+
+2020-12-12 13:45:18,218 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,218 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,218 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,218 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,218 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,218 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,218 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,218 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,218 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,219 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,219 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,219 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,219 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,219 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,219 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,219 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,219 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,219 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,222 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,222 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: io.grpc.StatusRuntimeException: UNAVAILABLE: io exception]
+
+2020-12-12 13:45:18,222 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,222 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,222 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,222 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,222 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,223 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,223 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,223 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,223 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,223 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,223 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,223 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,224 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,224 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,224 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,225 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,227 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,227 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: io.grpc.StatusRuntimeException: UNAVAILABLE: io exception]
+
+2020-12-12 13:45:18,227 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,227 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,228 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,228 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,228 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,228 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,228 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,228 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,228 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,228 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,228 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,228 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,228 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,228 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,228 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,229 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,229 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,229 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,229 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,229 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,229 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,229 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,229 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,229 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,229 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,229 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,230 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,230 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,230 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,230 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,231 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,232 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: io.grpc.StatusRuntimeException: UNAVAILABLE: io exception]
+
+2020-12-12 13:45:18,232 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,232 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,233 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,233 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,233 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,233 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,233 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,233 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,233 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,233 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,234 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,234 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,234 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,234 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,234 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,234 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,235 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,235 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,235 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,237 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,238 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,239 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,239 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,239 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: io.grpc.StatusRuntimeException: UNAVAILABLE: io exception]
+
+2020-12-12 13:45:18,239 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,240 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,240 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,240 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,240 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,241 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,241 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,242 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,243 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,244 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: io.grpc.StatusRuntimeException: UNAVAILABLE: io exception]
+
+2020-12-12 13:45:18,244 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,244 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,245 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,245 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,245 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,245 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,245 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,245 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,245 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,245 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,245 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,245 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,246 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,246 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,247 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,247 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,247 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,247 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,247 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,248 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,248 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,249 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,251 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,251 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,251 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,252 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,252 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,250 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,252 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,253 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,253 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,254 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,254 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,254 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,254 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,254 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,255 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,255 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,255 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,255 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,258 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,252 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,259 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,259 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,259 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,259 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,259 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,259 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,259 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,260 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,260 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,260 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,260 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,260 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,260 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,261 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,261 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,261 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,261 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,261 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,262 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,262 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,262 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,263 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,263 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,284 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,285 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,286 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,287 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,288 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: io.grpc.StatusRuntimeException: UNAVAILABLE: io exception]
+
+2020-12-12 13:45:18,288 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,288 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,288 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,288 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,288 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,289 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,288 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,289 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,289 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,289 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,289 ERROR Fail to refresh leader for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,289 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,289 ERROR Fail to refresh route configuration for group : naming_instance_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,289 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,289 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,290 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,290 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,290 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,290 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,290 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,290 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,290 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,291 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,291 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,291 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,291 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,291 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,291 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,292 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,292 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,292 ERROR Fail to refresh leader for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 13:45:18,292 ERROR Fail to refresh route configuration for group : naming_service_metadata, status is : Status[UNKNOWN<-1>: Fail to init channel to 192.168.1.117:7848]
+
+2020-12-12 17:03:55,225 INFO Initializes the Raft protocol, raft-config info : {}
+
+2020-12-12 17:03:56,205 INFO ========= The raft protocol is starting... =========
+
+2020-12-12 17:03:56,305 INFO ========= The raft protocol start finished... =========
+
+2020-12-12 17:03:56,380 INFO create raft group : naming_instance_metadata
+
+2020-12-12 17:03:57,773 INFO This Raft event changes : RaftEvent{groupId='naming_instance_metadata', leader='null', term=null, raftClusterInfo=[192.168.1.117:7848]}
+
+2020-12-12 17:03:57,995 INFO create raft group : naming_service_metadata
+
+2020-12-12 17:03:58,006 INFO This Raft event changes : RaftEvent{groupId='naming_instance_metadata', leader='192.168.1.117:7848', term=9, raftClusterInfo=[192.168.1.117:7848]}
+
+2020-12-12 17:03:58,276 INFO This Raft event changes : RaftEvent{groupId='naming_service_metadata', leader='null', term=null, raftClusterInfo=[192.168.1.117:7848]}
+
+2020-12-12 17:03:58,293 INFO This Raft event changes : RaftEvent{groupId='naming_service_metadata', leader='192.168.1.117:7848', term=9, raftClusterInfo=[192.168.1.117:7848]}
+

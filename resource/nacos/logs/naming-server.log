@@ -1,0 +1,149 @@
+2021-10-10 12:01:09,187 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-gateway', ephemeral=true, revision=4}, ip: {"ip":"192.168.200.224","port":88,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1633794096939,"instanceId":"192.168.200.224:88"}
+
+2021-10-10 12:01:09,187 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='renren-fast', ephemeral=true, revision=6}, ip: {"ip":"192.168.200.224","port":8080,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1633794097342,"instanceId":"192.168.200.224:8080"}
+
+2021-10-10 12:01:09,187 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=4}, ip: {"ip":"192.168.200.224","port":10000,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1633794095853,"instanceId":"192.168.200.224:10000"}
+
+2021-10-10 12:01:09,187 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-third-party', ephemeral=true, revision=6}, ip: {"ip":"192.168.200.224","port":30000,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1633794094473,"instanceId":"192.168.200.224:30000"}
+
+2021-10-10 14:36:11,197 INFO Client connection 192.168.200.21:10000 connect
+
+2021-10-10 14:36:15,869 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=8}, ip: {"ip":"192.168.200.224","port":10000,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1633847741754,"instanceId":"192.168.200.224:10000"}
+
+2021-10-10 14:36:18,870 INFO Client connection 192.168.200.224:10000 disconnect, remove instances and subscribers
+
+2021-10-10 14:49:41,502 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=9}, ip: {"ip":"192.168.200.21","port":10000,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1633848546935,"instanceId":"192.168.200.21:10000"}
+
+2021-10-10 16:30:29,016 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=17}, ip: {"ip":"192.168.200.21","port":10000,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1633854598505,"instanceId":"192.168.200.21:10000"}
+
+2021-10-10 16:30:31,589 INFO Client connection 192.168.200.21:10000 disconnect, remove instances and subscribers
+
+2021-10-10 16:32:12,790 WARN namespace : public, [DEFAULT_GROUP@@gulimall-product] services are automatically cleaned
+
+2021-10-10 16:34:12,794 WARN namespace : public, [DEFAULT_GROUP@@gulimall-product] services are automatically cleaned
+
+2021-10-10 16:36:12,798 WARN namespace : public, [DEFAULT_GROUP@@gulimall-product] services are automatically cleaned
+
+2021-10-10 16:38:12,804 WARN namespace : public, [DEFAULT_GROUP@@gulimall-product] services are automatically cleaned
+
+2021-10-10 16:40:12,807 WARN namespace : public, [DEFAULT_GROUP@@gulimall-product] services are automatically cleaned
+
+2021-10-10 16:42:12,809 WARN namespace : public, [DEFAULT_GROUP@@gulimall-product] services are automatically cleaned
+
+2021-10-10 16:44:12,815 WARN namespace : public, [DEFAULT_GROUP@@gulimall-product] services are automatically cleaned
+
+2021-10-10 16:46:12,817 WARN namespace : public, [DEFAULT_GROUP@@gulimall-product] services are automatically cleaned
+
+2021-10-10 16:48:12,819 WARN namespace : public, [DEFAULT_GROUP@@gulimall-product] services are automatically cleaned
+
+2021-10-10 16:50:12,822 WARN namespace : public, [DEFAULT_GROUP@@gulimall-product] services are automatically cleaned
+
+2021-10-10 16:52:12,827 WARN namespace : public, [DEFAULT_GROUP@@gulimall-product] services are automatically cleaned
+
+2021-10-10 16:54:12,832 WARN namespace : public, [DEFAULT_GROUP@@gulimall-product] services are automatically cleaned
+
+2021-10-10 16:56:12,838 WARN namespace : public, [DEFAULT_GROUP@@gulimall-product] services are automatically cleaned
+
+2021-10-10 16:58:12,841 WARN namespace : public, [DEFAULT_GROUP@@gulimall-product] services are automatically cleaned
+
+2021-10-10 17:00:12,846 WARN namespace : public, [DEFAULT_GROUP@@gulimall-product] services are automatically cleaned
+
+2021-10-10 17:02:12,848 WARN namespace : public, [DEFAULT_GROUP@@gulimall-product] services are automatically cleaned
+
+2021-10-10 17:02:46,512 INFO Client connection 192.168.200.21:10000 connect
+
+2021-10-10 18:12:01,189 INFO Client connection 192.168.200.21:88 connect
+
+2021-10-10 18:12:13,996 INFO Client connection 192.168.245.1:56439 disconnect, remove instances and subscribers
+
+2021-10-10 18:12:16,127 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-gateway', ephemeral=true, revision=8}, ip: {"ip":"192.168.200.224","port":88,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1633860702813,"instanceId":"192.168.200.224:88"}
+
+2021-10-10 18:12:16,573 INFO Client connection 192.168.200.21:8080 connect
+
+2021-10-10 18:12:18,996 INFO Client connection 192.168.200.224:88 disconnect, remove instances and subscribers
+
+2021-10-10 18:12:21,118 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='renren-fast', ephemeral=true, revision=10}, ip: {"ip":"192.168.200.224","port":8080,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1633860709599,"instanceId":"192.168.200.224:8080"}
+
+2021-10-10 18:12:23,999 INFO Client connection 192.168.200.224:8080 disconnect, remove instances and subscribers
+
+2021-10-10 19:06:04,395 INFO Client connection 192.168.245.1:60543 connect
+
+2021-10-10 19:13:42,696 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-gateway', ephemeral=true, revision=9}, ip: {"ip":"192.168.200.21","port":88,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1633864390452,"instanceId":"192.168.200.21:88"}
+
+2021-10-10 19:13:43,018 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='renren-fast', ephemeral=true, revision=11}, ip: {"ip":"192.168.200.21","port":8080,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1633864390009,"instanceId":"192.168.200.21:8080"}
+
+2021-10-10 19:13:44,731 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=6}, ip: {"ip":"192.168.200.21","port":10000,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1633864393930,"instanceId":"192.168.200.21:10000"}
+
+2021-10-10 19:13:45,519 INFO Client connection 192.168.200.21:88 disconnect, remove instances and subscribers
+
+2021-10-10 19:13:45,519 INFO Client connection 192.168.200.21:8080 disconnect, remove instances and subscribers
+
+2021-10-10 19:13:45,519 INFO Client connection 192.168.200.21:10000 disconnect, remove instances and subscribers
+
+2021-10-10 19:13:45,519 INFO Client connection 192.168.245.1:60543 disconnect, remove instances and subscribers
+
+2021-10-10 19:13:47,600 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-third-party', ephemeral=true, revision=8}, ip: {"ip":"192.168.200.224","port":30000,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1633864395977,"instanceId":"192.168.200.224:30000"}
+
+2021-10-10 19:13:50,520 INFO Client connection 192.168.200.224:30000 disconnect, remove instances and subscribers
+
+2021-10-10 19:15:13,123 WARN namespace : public, [DEFAULT_GROUP@@gulimall-gateway] services are automatically cleaned
+
+2021-10-10 19:15:13,123 WARN namespace : public, [DEFAULT_GROUP@@renren-fast] services are automatically cleaned
+
+2021-10-10 19:15:13,123 WARN namespace : public, [DEFAULT_GROUP@@gulimall-product] services are automatically cleaned
+
+2021-10-10 19:15:13,123 WARN namespace : public, [DEFAULT_GROUP@@gulimall-third-party] services are automatically cleaned
+
+2021-10-10 19:23:57,596 WARN [NamingServerHttpClientManager] Start destroying HTTP-Client
+
+2021-10-10 19:23:57,621 WARN [NamingServerHttpClientManager] Destruction of the end
+
+2021-10-10 19:24:02,591 INFO Interceptor health check task 192.168.200.102:30000 failed
+
+java.lang.IllegalStateException: org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@11531931 has been closed already
+	at org.springframework.context.support.AbstractApplicationContext.assertBeanFactoryActive(AbstractApplicationContext.java:1090)
+	at org.springframework.context.support.AbstractApplicationContext.getBean(AbstractApplicationContext.java:1123)
+	at com.alibaba.nacos.sys.utils.ApplicationUtils.getBean(ApplicationUtils.java:150)
+	at com.alibaba.nacos.naming.healthcheck.interceptor.HealthCheckEnableInterceptor.intercept(HealthCheckEnableInterceptor.java:32)
+	at com.alibaba.nacos.naming.healthcheck.interceptor.HealthCheckEnableInterceptor.intercept(HealthCheckEnableInterceptor.java:28)
+	at com.alibaba.nacos.naming.interceptor.AbstractNamingInterceptorChain.doInterceptor(AbstractNamingInterceptorChain.java:62)
+	at com.alibaba.nacos.naming.healthcheck.interceptor.HealthCheckTaskInterceptWrapper.run(HealthCheckTaskInterceptWrapper.java:42)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2021-10-10 19:24:05,302 ERROR [HEALTH-CHECK] error while processing NIO task
+
+java.lang.InterruptedException: null
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.reportInterruptAfterWait(AbstractQueuedSynchronizer.java:2014)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2088)
+	at java.util.concurrent.LinkedBlockingQueue.poll(LinkedBlockingQueue.java:467)
+	at com.alibaba.nacos.naming.healthcheck.TcpSuperSenseProcessor.processTask(TcpSuperSenseProcessor.java:137)
+	at com.alibaba.nacos.naming.healthcheck.TcpSuperSenseProcessor.run(TcpSuperSenseProcessor.java:154)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2021-10-10 19:24:07,591 INFO Interceptor health check task 192.168.200.102:30000 failed
+
+java.lang.IllegalStateException: org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@11531931 has been closed already
+	at org.springframework.context.support.AbstractApplicationContext.assertBeanFactoryActive(AbstractApplicationContext.java:1090)
+	at org.springframework.context.support.AbstractApplicationContext.getBean(AbstractApplicationContext.java:1123)
+	at com.alibaba.nacos.sys.utils.ApplicationUtils.getBean(ApplicationUtils.java:150)
+	at com.alibaba.nacos.naming.healthcheck.interceptor.HealthCheckEnableInterceptor.intercept(HealthCheckEnableInterceptor.java:32)
+	at com.alibaba.nacos.naming.healthcheck.interceptor.HealthCheckEnableInterceptor.intercept(HealthCheckEnableInterceptor.java:28)
+	at com.alibaba.nacos.naming.interceptor.AbstractNamingInterceptorChain.doInterceptor(AbstractNamingInterceptorChain.java:62)
+	at com.alibaba.nacos.naming.healthcheck.interceptor.HealthCheckTaskInterceptWrapper.run(HealthCheckTaskInterceptWrapper.java:42)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
