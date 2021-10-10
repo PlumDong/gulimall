@@ -5,13 +5,15 @@ import com.baomidou.mybatisplus.annotation.TableName;
 
 import java.io.Serializable;
 import java.util.Date;
+
+import com.sdtbu.common.valid.AddGroup;
+import com.sdtbu.common.valid.ListValue;
+import com.sdtbu.common.valid.UpdateGroup;
+import com.sdtbu.common.valid.UpdateStatusGroup;
 import lombok.Data;
 import org.hibernate.validator.constraints.URL;
 
-import javax.validation.constraints.Min;
-import javax.validation.constraints.NotBlank;
-import javax.validation.constraints.NotNull;
-import javax.validation.constraints.Pattern;
+import javax.validation.constraints.*;
 
 /**
  * 品牌
@@ -28,12 +30,14 @@ public class BrandEntity implements Serializable {
 	/**
 	 * 品牌id
 	 */
+	@NotNull(message = "修改不能指定品牌id",groups = {UpdateGroup.class})
+	@Null(message = "新增不能指定品牌id",groups = {AddGroup.class})
 	@TableId
 	private Long brandId;
 	/**
 	 * 品牌名
 	 */
-	@NotBlank(message = "品牌名不能为空")
+	@NotBlank(message = "品牌名不能为空",groups = {AddGroup.class,UpdateGroup.class})
 	private String name;
 	/**
 	 * 品牌logo地址
@@ -47,12 +51,14 @@ public class BrandEntity implements Serializable {
 	/**
 	 * 显示状态[0-不显示；1-显示]
 	 */
+	@NotNull(groups = {AddGroup.class, UpdateStatusGroup.class})
+	@ListValue(vals = {0,1},groups = {AddGroup.class, UpdateStatusGroup.class})
 	private Integer showStatus;
 	/**
 	 * 检索首字母
 	 */
 	@NotBlank(message = "检索首字母不能为空")
-	@Pattern(regexp = "/^[a-zA-Z]$/",message = "检索首字母必须是一个字母")
+	@Pattern(regexp = "^[a-zA-Z]$",message = "检索首字母必须是一个字母")
 	private String firstLetter;
 	/**
 	 * 排序
