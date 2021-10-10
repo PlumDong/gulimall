@@ -40,6 +40,14 @@ public class R extends HashMap<String, Object> {
 		r.put("msg", msg);
 		return r;
 	}
+	public static R error(int code, String msg,Map<String, String> map) {
+		R r = new R();
+		r.put("code", code);
+		r.put("msg", msg);
+		r.put("data",map);
+		return r;
+	}
+
 
 	public static R ok(String msg) {
 		R r = new R();

@@ -25,7 +25,13 @@ import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 					logic-not-delete-value:0
 		2）、实体类字段上加上@TableLogic注解
 
+ 	3.JSR303校验
+ 		1). 给bean添加校验注解  注解参考包：javax.validation.constraints
+ 		2). 开启校验功能@valid 效果 校验错误后会有默认响应
+ 		3). 给校验的bean后紧跟一个bindingResult，就可以获取到校验的结果
 
+ 	4.统一的异常处理
+ 		@ControllerAdvice
  */
 
 @EnableDiscoveryClient
