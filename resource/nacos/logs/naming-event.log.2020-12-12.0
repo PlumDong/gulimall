@@ -1,8 +1,0 @@
-2020-12-12 15:51:42,624 INFO {POS} {IP-DISABLED} valid: 192.168.1.117:8000@DEFAULT@gulimall-member, region: unknown, msg: client last beat: 1607759483095
-
-2020-12-12 16:52:45,342 INFO {POS} {IP-DISABLED} valid: 192.168.1.117:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1607763145506
-
-2020-12-12 16:52:50,026 INFO {POS} {IP-DISABLED} valid: 192.168.1.117:8000@DEFAULT@gulimall-member, region: unknown, msg: client last beat: 1607763150087
-
-2020-12-12 17:02:15,969 INFO {POS} {IP-DISABLED} valid: 192.168.1.117:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1607763720962
-

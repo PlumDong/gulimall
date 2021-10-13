@@ -1,5 +1,5 @@
 target/
-/resource/nacos/
+/resource/nacos
 pom.xml.tag
 pom.xml.releaseBackup
 pom.xml.versionsBackup
@@ -13,8 +13,6 @@ buildNumber.properties
 **/mvnw.cmd
 **/mvnw
 **/.mvn
-**/target/
+**/target
 
 .idea
-
-**/.gitignore

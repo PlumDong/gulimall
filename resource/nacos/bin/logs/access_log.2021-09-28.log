@@ -1,4 +1,0 @@
-127.0.0.1 - - [28/Sep/2021:20:41:51 +0800] "GET /nacos/v1/cs/configs?dataId=gulimall-product&tenant=af44e904-d1a1-4017-a558-a0419f473816&group=DEFAULT_GROUP HTTP/1.1" 404 23 431 Java/1.8.0_301 -
-127.0.0.1 - - [28/Sep/2021:20:41:51 +0800] "GET /nacos/v1/cs/configs?dataId=gulimall-product.properties&tenant=af44e904-d1a1-4017-a558-a0419f473816&group=DEFAULT_GROUP HTTP/1.1" 404 23 11 Java/1.8.0_301 -
-127.0.0.1 - - [28/Sep/2021:20:54:59 +0800] "GET /nacos/v1/cs/configs?dataId=gulimall-product&tenant=af44e904-d1a1-4017-a558-a0419f473816&group=DEFAULT_GROUP HTTP/1.1" 404 23 13 Java/1.8.0_301 -
-127.0.0.1 - - [28/Sep/2021:20:54:59 +0800] "GET /nacos/v1/cs/configs?dataId=gulimall-product.properties&tenant=af44e904-d1a1-4017-a558-a0419f473816&group=DEFAULT_GROUP HTTP/1.1" 404 23 13 Java/1.8.0_301 -
