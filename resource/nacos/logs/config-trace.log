@@ -1,15 +1,1 @@
-2021-10-10 14:36:05,542|192.168.200.102|gulimall-product.properties|DEFAULT_GROUP|af44e904-d1a1-4017-a558-a0419f473816|unknown|-1|pull|not-found|-1|127.0.0.1|false
-2021-10-10 14:49:39,772|192.168.200.102|gulimall-product.properties|DEFAULT_GROUP|af44e904-d1a1-4017-a558-a0419f473816|unknown|-1|pull|not-found|-1|127.0.0.1|false
-2021-10-10 14:57:39,455|192.168.200.102|gulimall-product.properties|DEFAULT_GROUP|af44e904-d1a1-4017-a558-a0419f473816|unknown|-1|pull|not-found|-1|127.0.0.1|false
-2021-10-10 15:46:03,659|192.168.200.102|gulimall-product.properties|DEFAULT_GROUP|af44e904-d1a1-4017-a558-a0419f473816|unknown|-1|pull|not-found|-1|127.0.0.1|false
-2021-10-10 15:47:16,138|192.168.200.102|gulimall-product.properties|DEFAULT_GROUP|af44e904-d1a1-4017-a558-a0419f473816|unknown|-1|pull|not-found|-1|127.0.0.1|false
-2021-10-10 15:52:19,431|192.168.200.102|gulimall-product.properties|DEFAULT_GROUP|af44e904-d1a1-4017-a558-a0419f473816|unknown|-1|pull|not-found|-1|127.0.0.1|false
-2021-10-10 15:53:17,818|192.168.200.102|gulimall-product.properties|DEFAULT_GROUP|af44e904-d1a1-4017-a558-a0419f473816|unknown|-1|pull|not-found|-1|127.0.0.1|false
-2021-10-10 17:02:41,828|192.168.200.102|gulimall-product.properties|DEFAULT_GROUP|af44e904-d1a1-4017-a558-a0419f473816|unknown|-1|pull|not-found|-1|127.0.0.1|false
-2021-10-10 17:04:01,638|192.168.200.102|gulimall-product.properties|DEFAULT_GROUP|af44e904-d1a1-4017-a558-a0419f473816|unknown|-1|pull|not-found|-1|127.0.0.1|false
-2021-10-10 18:02:26,559|192.168.200.102|gulimall-product.properties|DEFAULT_GROUP|af44e904-d1a1-4017-a558-a0419f473816|unknown|-1|pull|not-found|-1|127.0.0.1|false
-2021-10-10 18:04:10,026|192.168.200.102|gulimall-product.properties|DEFAULT_GROUP|af44e904-d1a1-4017-a558-a0419f473816|unknown|-1|pull|not-found|-1|127.0.0.1|false
-2021-10-10 18:08:14,731|192.168.200.102|gulimall-product.properties|DEFAULT_GROUP|af44e904-d1a1-4017-a558-a0419f473816|unknown|-1|pull|not-found|-1|127.0.0.1|false
-2021-10-10 18:11:55,634|192.168.200.102|gulimall-gateway.properties|DEFAULT_GROUP|51626c79-8413-49ed-9f62-ae0447672671|unknown|-1|pull|not-found|-1|127.0.0.1|false
-2021-10-10 18:12:07,353|192.168.200.102|renren-fast.properties|DEFAULT_GROUP|null|unknown|-1|pull|not-found|-1|127.0.0.1|false
-2021-10-10 18:12:07,361|192.168.200.102|renren-fast-dev.properties|DEFAULT_GROUP|null|unknown|-1|pull|not-found|-1|127.0.0.1|false
+2021-10-13 08:46:19,918|192.168.200.89|gulimall-product.properties|DEFAULT_GROUP|af44e904-d1a1-4017-a558-a0419f473816|unknown|-1|pull|not-found|-1|127.0.0.1|false

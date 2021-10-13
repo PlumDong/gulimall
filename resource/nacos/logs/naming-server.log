@@ -1,149 +1,536 @@
-2021-10-10 12:01:09,187 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-gateway', ephemeral=true, revision=4}, ip: {"ip":"192.168.200.224","port":88,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1633794096939,"instanceId":"192.168.200.224:88"}
+2021-10-13 00:01:15,379 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=100}, ip: {"ip":"192.168.200.89","port":10000,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634054419217,"instanceId":"192.168.200.89:10000"}
 
-2021-10-10 12:01:09,187 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='renren-fast', ephemeral=true, revision=6}, ip: {"ip":"192.168.200.224","port":8080,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1633794097342,"instanceId":"192.168.200.224:8080"}
+2021-10-13 00:01:15,379 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='renren-fast', ephemeral=true, revision=75}, ip: {"ip":"192.168.200.89","port":8080,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634054419033,"instanceId":"192.168.200.89:8080"}
 
-2021-10-10 12:01:09,187 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=4}, ip: {"ip":"192.168.200.224","port":10000,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1633794095853,"instanceId":"192.168.200.224:10000"}
+2021-10-13 00:01:15,379 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-gateway', ephemeral=true, revision=75}, ip: {"ip":"192.168.200.89","port":88,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634054420814,"instanceId":"192.168.200.89:88"}
 
-2021-10-10 12:01:09,187 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-third-party', ephemeral=true, revision=6}, ip: {"ip":"192.168.200.224","port":30000,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1633794094473,"instanceId":"192.168.200.224:30000"}
+2021-10-13 00:01:19,935 INFO Client connection 192.168.200.89:8080 disconnect, remove instances and subscribers
 
-2021-10-10 14:36:11,197 INFO Client connection 192.168.200.21:10000 connect
+2021-10-13 00:01:19,935 INFO Client connection 192.168.200.89:88 disconnect, remove instances and subscribers
 
-2021-10-10 14:36:15,869 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=8}, ip: {"ip":"192.168.200.224","port":10000,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1633847741754,"instanceId":"192.168.200.224:10000"}
+2021-10-13 00:01:19,935 INFO Client connection 172.20.144.1:56101 disconnect, remove instances and subscribers
 
-2021-10-10 14:36:18,870 INFO Client connection 192.168.200.224:10000 disconnect, remove instances and subscribers
+2021-10-13 00:01:20,033 INFO Client connection 192.168.200.89:88 connect
 
-2021-10-10 14:49:41,502 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=9}, ip: {"ip":"192.168.200.21","port":10000,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1633848546935,"instanceId":"192.168.200.21:10000"}
+2021-10-13 00:01:20,034 INFO Client connection 192.168.200.89:8080 connect
 
-2021-10-10 16:30:29,016 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=17}, ip: {"ip":"192.168.200.21","port":10000,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1633854598505,"instanceId":"192.168.200.21:10000"}
+2021-10-13 00:01:23,543 INFO Client connection 172.20.144.1:56101 connect
 
-2021-10-10 16:30:31,589 INFO Client connection 192.168.200.21:10000 disconnect, remove instances and subscribers
+2021-10-13 00:01:23,543 INFO Client connection 172.20.144.1:56101 connect
 
-2021-10-10 16:32:12,790 WARN namespace : public, [DEFAULT_GROUP@@gulimall-product] services are automatically cleaned
+2021-10-13 00:05:16,935 INFO Client connection 172.20.144.1:56101 disconnect, remove instances and subscribers
 
-2021-10-10 16:34:12,794 WARN namespace : public, [DEFAULT_GROUP@@gulimall-product] services are automatically cleaned
+2021-10-13 00:05:16,991 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='renren-fast', ephemeral=true, revision=77}, ip: {"ip":"192.168.200.89","port":8080,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634054620148,"instanceId":"192.168.200.89:8080"}
 
-2021-10-10 16:36:12,798 WARN namespace : public, [DEFAULT_GROUP@@gulimall-product] services are automatically cleaned
+2021-10-13 00:05:16,992 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-gateway', ephemeral=true, revision=77}, ip: {"ip":"192.168.200.89","port":88,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634054620350,"instanceId":"192.168.200.89:88"}
 
-2021-10-10 16:38:12,804 WARN namespace : public, [DEFAULT_GROUP@@gulimall-product] services are automatically cleaned
+2021-10-13 00:05:16,992 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=102}, ip: {"ip":"192.168.200.89","port":10000,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634054620382,"instanceId":"192.168.200.89:10000"}
 
-2021-10-10 16:40:12,807 WARN namespace : public, [DEFAULT_GROUP@@gulimall-product] services are automatically cleaned
+2021-10-13 00:05:22,006 INFO Client connection 192.168.200.89:10000 disconnect, remove instances and subscribers
 
-2021-10-10 16:42:12,809 WARN namespace : public, [DEFAULT_GROUP@@gulimall-product] services are automatically cleaned
+2021-10-13 00:05:22,140 INFO Client connection 192.168.200.89:10000 connect
 
-2021-10-10 16:44:12,815 WARN namespace : public, [DEFAULT_GROUP@@gulimall-product] services are automatically cleaned
+2021-10-13 00:05:25,492 INFO Client connection 172.20.144.1:56101 connect
 
-2021-10-10 16:46:12,817 WARN namespace : public, [DEFAULT_GROUP@@gulimall-product] services are automatically cleaned
+2021-10-13 00:05:25,492 INFO Client connection 172.20.144.1:56101 connect
 
-2021-10-10 16:48:12,819 WARN namespace : public, [DEFAULT_GROUP@@gulimall-product] services are automatically cleaned
+2021-10-13 00:09:35,679 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=104}, ip: {"ip":"192.168.200.89","port":10000,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634054862483,"instanceId":"192.168.200.89:10000"}
 
-2021-10-10 16:50:12,822 WARN namespace : public, [DEFAULT_GROUP@@gulimall-product] services are automatically cleaned
+2021-10-13 00:09:35,679 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-gateway', ephemeral=true, revision=79}, ip: {"ip":"192.168.200.89","port":88,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634054862483,"instanceId":"192.168.200.89:88"}
 
-2021-10-10 16:52:12,827 WARN namespace : public, [DEFAULT_GROUP@@gulimall-product] services are automatically cleaned
+2021-10-13 00:09:35,679 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='renren-fast', ephemeral=true, revision=79}, ip: {"ip":"192.168.200.89","port":8080,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634054862260,"instanceId":"192.168.200.89:8080"}
 
-2021-10-10 16:54:12,832 WARN namespace : public, [DEFAULT_GROUP@@gulimall-product] services are automatically cleaned
+2021-10-13 00:09:35,710 INFO Client connection 192.168.200.89:8080 disconnect, remove instances and subscribers
 
-2021-10-10 16:56:12,838 WARN namespace : public, [DEFAULT_GROUP@@gulimall-product] services are automatically cleaned
+2021-10-13 00:09:35,710 INFO Client connection 192.168.200.89:88 disconnect, remove instances and subscribers
 
-2021-10-10 16:58:12,841 WARN namespace : public, [DEFAULT_GROUP@@gulimall-product] services are automatically cleaned
+2021-10-13 00:09:35,724 INFO Client connection 192.168.200.89:8080 connect
 
-2021-10-10 17:00:12,846 WARN namespace : public, [DEFAULT_GROUP@@gulimall-product] services are automatically cleaned
+2021-10-13 00:09:39,923 INFO Client connection 172.20.144.1:56101 disconnect, remove instances and subscribers
 
-2021-10-10 17:02:12,848 WARN namespace : public, [DEFAULT_GROUP@@gulimall-product] services are automatically cleaned
+2021-10-13 00:09:39,924 INFO Client connection 192.168.200.89:10000 disconnect, remove instances and subscribers
 
-2021-10-10 17:02:46,512 INFO Client connection 192.168.200.21:10000 connect
+2021-10-13 00:09:39,933 INFO Client connection 192.168.200.89:10000 connect
 
-2021-10-10 18:12:01,189 INFO Client connection 192.168.200.21:88 connect
+2021-10-13 00:09:39,968 INFO Client connection 192.168.200.89:88 connect
 
-2021-10-10 18:12:13,996 INFO Client connection 192.168.245.1:56439 disconnect, remove instances and subscribers
+2021-10-13 00:09:44,173 INFO Client connection 172.20.144.1:56101 connect
 
-2021-10-10 18:12:16,127 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-gateway', ephemeral=true, revision=8}, ip: {"ip":"192.168.200.224","port":88,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1633860702813,"instanceId":"192.168.200.224:88"}
+2021-10-13 00:09:44,173 INFO Client connection 172.20.144.1:56101 connect
 
-2021-10-10 18:12:16,573 INFO Client connection 192.168.200.21:8080 connect
+2021-10-13 00:13:58,924 INFO Client connection 172.20.144.1:56101 disconnect, remove instances and subscribers
 
-2021-10-10 18:12:18,996 INFO Client connection 192.168.200.224:88 disconnect, remove instances and subscribers
+2021-10-13 00:13:58,959 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-gateway', ephemeral=true, revision=81}, ip: {"ip":"192.168.200.89","port":88,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634055180410,"instanceId":"192.168.200.89:88"}
 
-2021-10-10 18:12:21,118 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='renren-fast', ephemeral=true, revision=10}, ip: {"ip":"192.168.200.224","port":8080,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1633860709599,"instanceId":"192.168.200.224:8080"}
+2021-10-13 00:13:58,959 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='renren-fast', ephemeral=true, revision=81}, ip: {"ip":"192.168.200.89","port":8080,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634055180068,"instanceId":"192.168.200.89:8080"}
 
-2021-10-10 18:12:23,999 INFO Client connection 192.168.200.224:8080 disconnect, remove instances and subscribers
+2021-10-13 00:13:58,959 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=106}, ip: {"ip":"192.168.200.89","port":10000,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634055180393,"instanceId":"192.168.200.89:10000"}
 
-2021-10-10 19:06:04,395 INFO Client connection 192.168.245.1:60543 connect
+2021-10-13 00:14:08,492 INFO Client connection 172.20.144.1:56101 connect
 
-2021-10-10 19:13:42,696 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-gateway', ephemeral=true, revision=9}, ip: {"ip":"192.168.200.21","port":88,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1633864390452,"instanceId":"192.168.200.21:88"}
+2021-10-13 00:14:08,492 INFO Client connection 172.20.144.1:56101 connect
 
-2021-10-10 19:13:43,018 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='renren-fast', ephemeral=true, revision=11}, ip: {"ip":"192.168.200.21","port":8080,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1633864390009,"instanceId":"192.168.200.21:8080"}
+2021-10-13 00:20:01,145 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-gateway', ephemeral=true, revision=83}, ip: {"ip":"192.168.200.89","port":88,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634055474671,"instanceId":"192.168.200.89:88"}
 
-2021-10-10 19:13:44,731 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=6}, ip: {"ip":"192.168.200.21","port":10000,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1633864393930,"instanceId":"192.168.200.21:10000"}
+2021-10-13 00:20:01,145 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='renren-fast', ephemeral=true, revision=83}, ip: {"ip":"192.168.200.89","port":8080,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634055474180,"instanceId":"192.168.200.89:8080"}
 
-2021-10-10 19:13:45,519 INFO Client connection 192.168.200.21:88 disconnect, remove instances and subscribers
+2021-10-13 00:20:01,145 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=108}, ip: {"ip":"192.168.200.89","port":10000,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634055474623,"instanceId":"192.168.200.89:10000"}
 
-2021-10-10 19:13:45,519 INFO Client connection 192.168.200.21:8080 disconnect, remove instances and subscribers
+2021-10-13 00:20:01,222 INFO Client connection 192.168.200.89:8080 disconnect, remove instances and subscribers
 
-2021-10-10 19:13:45,519 INFO Client connection 192.168.200.21:10000 disconnect, remove instances and subscribers
+2021-10-13 00:20:01,222 INFO Client connection 192.168.200.89:88 disconnect, remove instances and subscribers
 
-2021-10-10 19:13:45,519 INFO Client connection 192.168.245.1:60543 disconnect, remove instances and subscribers
+2021-10-13 00:20:01,222 INFO Client connection 192.168.200.89:10000 disconnect, remove instances and subscribers
 
-2021-10-10 19:13:47,600 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-third-party', ephemeral=true, revision=8}, ip: {"ip":"192.168.200.224","port":30000,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1633864395977,"instanceId":"192.168.200.224:30000"}
+2021-10-13 00:20:01,447 INFO Client connection 192.168.200.89:8080 connect
 
-2021-10-10 19:13:50,520 INFO Client connection 192.168.200.224:30000 disconnect, remove instances and subscribers
+2021-10-13 00:20:01,902 INFO Client connection 192.168.200.89:10000 connect
 
-2021-10-10 19:15:13,123 WARN namespace : public, [DEFAULT_GROUP@@gulimall-gateway] services are automatically cleaned
+2021-10-13 00:20:01,948 INFO Client connection 192.168.200.89:88 connect
 
-2021-10-10 19:15:13,123 WARN namespace : public, [DEFAULT_GROUP@@renren-fast] services are automatically cleaned
+2021-10-13 00:26:43,478 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=110}, ip: {"ip":"192.168.200.89","port":10000,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634055908596,"instanceId":"192.168.200.89:10000"}
 
-2021-10-10 19:15:13,123 WARN namespace : public, [DEFAULT_GROUP@@gulimall-product] services are automatically cleaned
+2021-10-13 00:26:43,478 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-gateway', ephemeral=true, revision=85}, ip: {"ip":"192.168.200.89","port":88,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634055908656,"instanceId":"192.168.200.89:88"}
 
-2021-10-10 19:15:13,123 WARN namespace : public, [DEFAULT_GROUP@@gulimall-third-party] services are automatically cleaned
+2021-10-13 00:26:43,478 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='renren-fast', ephemeral=true, revision=85}, ip: {"ip":"192.168.200.89","port":8080,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634055907727,"instanceId":"192.168.200.89:8080"}
 
-2021-10-10 19:23:57,596 WARN [NamingServerHttpClientManager] Start destroying HTTP-Client
+2021-10-13 00:26:48,083 INFO Client connection 172.20.144.1:56101 disconnect, remove instances and subscribers
 
-2021-10-10 19:23:57,621 WARN [NamingServerHttpClientManager] Destruction of the end
+2021-10-13 00:26:48,228 INFO Client connection 172.20.144.1:56101 connect
 
-2021-10-10 19:24:02,591 INFO Interceptor health check task 192.168.200.102:30000 failed
+2021-10-13 00:26:48,228 INFO Client connection 172.20.144.1:56101 connect
 
-java.lang.IllegalStateException: org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@11531931 has been closed already
-	at org.springframework.context.support.AbstractApplicationContext.assertBeanFactoryActive(AbstractApplicationContext.java:1090)
-	at org.springframework.context.support.AbstractApplicationContext.getBean(AbstractApplicationContext.java:1123)
-	at com.alibaba.nacos.sys.utils.ApplicationUtils.getBean(ApplicationUtils.java:150)
-	at com.alibaba.nacos.naming.healthcheck.interceptor.HealthCheckEnableInterceptor.intercept(HealthCheckEnableInterceptor.java:32)
-	at com.alibaba.nacos.naming.healthcheck.interceptor.HealthCheckEnableInterceptor.intercept(HealthCheckEnableInterceptor.java:28)
-	at com.alibaba.nacos.naming.interceptor.AbstractNamingInterceptorChain.doInterceptor(AbstractNamingInterceptorChain.java:62)
-	at com.alibaba.nacos.naming.healthcheck.interceptor.HealthCheckTaskInterceptWrapper.run(HealthCheckTaskInterceptWrapper.java:42)
-	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
-	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
-	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
-	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
-	at java.lang.Thread.run(Thread.java:748)
-2021-10-10 19:24:05,302 ERROR [HEALTH-CHECK] error while processing NIO task
+2021-10-13 00:30:04,541 INFO Client connection 172.20.144.1:56101 disconnect, remove instances and subscribers
 
-java.lang.InterruptedException: null
-	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.reportInterruptAfterWait(AbstractQueuedSynchronizer.java:2014)
-	at java.util.concurrent.locks.AbstractQueuedSynchronizer$ConditionObject.awaitNanos(AbstractQueuedSynchronizer.java:2088)
-	at java.util.concurrent.LinkedBlockingQueue.poll(LinkedBlockingQueue.java:467)
-	at com.alibaba.nacos.naming.healthcheck.TcpSuperSenseProcessor.processTask(TcpSuperSenseProcessor.java:137)
-	at com.alibaba.nacos.naming.healthcheck.TcpSuperSenseProcessor.run(TcpSuperSenseProcessor.java:154)
-	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
-	at java.util.concurrent.FutureTask.run(FutureTask.java:266)
-	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$201(ScheduledThreadPoolExecutor.java:180)
-	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:293)
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
-	at java.lang.Thread.run(Thread.java:748)
-2021-10-10 19:24:07,591 INFO Interceptor health check task 192.168.200.102:30000 failed
+2021-10-13 00:30:04,712 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-gateway', ephemeral=true, revision=87}, ip: {"ip":"192.168.200.89","port":88,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634056148358,"instanceId":"192.168.200.89:88"}
 
-java.lang.IllegalStateException: org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@11531931 has been closed already
-	at org.springframework.context.support.AbstractApplicationContext.assertBeanFactoryActive(AbstractApplicationContext.java:1090)
-	at org.springframework.context.support.AbstractApplicationContext.getBean(AbstractApplicationContext.java:1123)
-	at com.alibaba.nacos.sys.utils.ApplicationUtils.getBean(ApplicationUtils.java:150)
-	at com.alibaba.nacos.naming.healthcheck.interceptor.HealthCheckEnableInterceptor.intercept(HealthCheckEnableInterceptor.java:32)
-	at com.alibaba.nacos.naming.healthcheck.interceptor.HealthCheckEnableInterceptor.intercept(HealthCheckEnableInterceptor.java:28)
-	at com.alibaba.nacos.naming.interceptor.AbstractNamingInterceptorChain.doInterceptor(AbstractNamingInterceptorChain.java:62)
-	at com.alibaba.nacos.naming.healthcheck.interceptor.HealthCheckTaskInterceptWrapper.run(HealthCheckTaskInterceptWrapper.java:42)
-	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
-	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
-	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
-	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
-	at java.lang.Thread.run(Thread.java:748)
+2021-10-13 00:30:04,712 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=112}, ip: {"ip":"192.168.200.89","port":10000,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634056148358,"instanceId":"192.168.200.89:10000"}
+
+2021-10-13 00:30:04,712 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='renren-fast', ephemeral=true, revision=87}, ip: {"ip":"192.168.200.89","port":8080,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634056148021,"instanceId":"192.168.200.89:8080"}
+
+2021-10-13 00:30:09,700 INFO Client connection 172.20.144.1:56101 connect
+
+2021-10-13 00:30:09,700 INFO Client connection 172.20.144.1:56101 connect
+
+2021-10-13 00:36:06,723 INFO Client connection 172.20.144.1:56101 disconnect, remove instances and subscribers
+
+2021-10-13 00:36:06,879 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-gateway', ephemeral=true, revision=89}, ip: {"ip":"192.168.200.89","port":88,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634056349933,"instanceId":"192.168.200.89:88"}
+
+2021-10-13 00:36:06,879 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='renren-fast', ephemeral=true, revision=89}, ip: {"ip":"192.168.200.89","port":8080,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634056349379,"instanceId":"192.168.200.89:8080"}
+
+2021-10-13 00:36:06,879 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=114}, ip: {"ip":"192.168.200.89","port":10000,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634056349933,"instanceId":"192.168.200.89:10000"}
+
+2021-10-13 00:36:11,873 INFO Client connection 172.20.144.1:56101 connect
+
+2021-10-13 00:36:11,873 INFO Client connection 172.20.144.1:56101 connect
+
+2021-10-13 00:39:28,009 INFO Client connection 172.20.144.1:56101 disconnect, remove instances and subscribers
+
+2021-10-13 00:39:28,135 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='renren-fast', ephemeral=true, revision=91}, ip: {"ip":"192.168.200.89","port":8080,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634056711298,"instanceId":"192.168.200.89:8080"}
+
+2021-10-13 00:39:28,135 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=116}, ip: {"ip":"192.168.200.89","port":10000,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634056711520,"instanceId":"192.168.200.89:10000"}
+
+2021-10-13 00:39:28,135 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-gateway', ephemeral=true, revision=91}, ip: {"ip":"192.168.200.89","port":88,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634056712186,"instanceId":"192.168.200.89:88"}
+
+2021-10-13 00:39:33,141 INFO Client connection 172.20.144.1:56101 connect
+
+2021-10-13 00:39:33,141 INFO Client connection 172.20.144.1:56101 connect
+
+2021-10-13 01:01:09,812 WARN distro task com.alibaba.nacos.naming.push.v2.task.PushExecuteTask@7bcd2eea takes 3523ms
+
+2021-10-13 01:01:10,756 INFO Client connection 172.20.144.1:56101 disconnect, remove instances and subscribers
+
+2021-10-13 01:01:12,865 INFO Client connection 172.20.144.1:56101 connect
+
+2021-10-13 01:01:12,865 INFO Client connection 172.20.144.1:56101 connect
+
+2021-10-13 01:25:58,978 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='renren-fast', ephemeral=true, revision=93}, ip: {"ip":"192.168.200.89","port":8080,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634059525669,"instanceId":"192.168.200.89:8080"}
+
+2021-10-13 01:25:58,978 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-gateway', ephemeral=true, revision=93}, ip: {"ip":"192.168.200.89","port":88,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634059525188,"instanceId":"192.168.200.89:88"}
+
+2021-10-13 01:25:58,978 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=118}, ip: {"ip":"192.168.200.89","port":10000,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634059525188,"instanceId":"192.168.200.89:10000"}
+
+2021-10-13 01:48:13,116 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=120}, ip: {"ip":"192.168.200.89","port":10000,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634060835587,"instanceId":"192.168.200.89:10000"}
+
+2021-10-13 01:48:13,116 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='renren-fast', ephemeral=true, revision=95}, ip: {"ip":"192.168.200.89","port":8080,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634060834661,"instanceId":"192.168.200.89:8080"}
+
+2021-10-13 01:48:13,116 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-gateway', ephemeral=true, revision=95}, ip: {"ip":"192.168.200.89","port":88,"healthy":true,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634060893116,"instanceId":"192.168.200.89:88"}
+
+2021-10-13 01:48:13,132 INFO Client connection 172.20.144.1:56101 disconnect, remove instances and subscribers
+
+2021-10-13 01:48:17,804 INFO Client connection 172.20.144.1:56101 connect
+
+2021-10-13 01:48:17,804 INFO Client connection 172.20.144.1:56101 connect
+
+2021-10-13 04:29:12,400 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='renren-fast', ephemeral=true, revision=97}, ip: {"ip":"192.168.200.89","port":8080,"healthy":true,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634070552400,"instanceId":"192.168.200.89:8080"}
+
+2021-10-13 04:29:12,400 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=122}, ip: {"ip":"192.168.200.89","port":10000,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634070521642,"instanceId":"192.168.200.89:10000"}
+
+2021-10-13 04:29:12,416 INFO Client connection 172.20.144.1:56101 disconnect, remove instances and subscribers
+
+2021-10-13 04:29:12,416 INFO Client connection 192.168.200.89:10000 disconnect, remove instances and subscribers
+
+2021-10-13 04:29:12,593 INFO Client connection 192.168.200.89:10000 connect
+
+2021-10-13 04:29:17,398 INFO Client connection 172.20.144.1:56101 connect
+
+2021-10-13 04:29:17,398 INFO Client connection 172.20.144.1:56101 connect
+
+2021-10-13 04:32:19,667 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-gateway', ephemeral=true, revision=97}, ip: {"ip":"192.168.200.89","port":88,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634070698947,"instanceId":"192.168.200.89:88"}
+
+2021-10-13 04:32:19,667 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=124}, ip: {"ip":"192.168.200.89","port":10000,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634070697903,"instanceId":"192.168.200.89:10000"}
+
+2021-10-13 04:32:19,667 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='renren-fast', ephemeral=true, revision=99}, ip: {"ip":"192.168.200.89","port":8080,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634070697020,"instanceId":"192.168.200.89:8080"}
+
+2021-10-13 04:32:19,713 INFO Client connection 192.168.200.89:88 disconnect, remove instances and subscribers
+
+2021-10-13 04:32:19,713 INFO Client connection 172.20.144.1:56101 disconnect, remove instances and subscribers
+
+2021-10-13 04:32:19,713 INFO Client connection 192.168.200.89:10000 disconnect, remove instances and subscribers
+
+2021-10-13 04:32:19,964 INFO Client connection 192.168.200.89:10000 connect
+
+2021-10-13 04:32:20,999 INFO Client connection 192.168.200.89:88 connect
+
+2021-10-13 04:32:24,642 INFO Client connection 172.20.144.1:56101 connect
+
+2021-10-13 04:32:24,642 INFO Client connection 172.20.144.1:56101 connect
+
+2021-10-13 05:10:56,485 INFO Client connection 172.20.144.1:56101 disconnect, remove instances and subscribers
+
+2021-10-13 05:10:56,485 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=126}, ip: {"ip":"192.168.200.89","port":10000,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634072996402,"instanceId":"192.168.200.89:10000"}
+
+2021-10-13 05:10:56,485 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-gateway', ephemeral=true, revision=99}, ip: {"ip":"192.168.200.89","port":88,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634072996433,"instanceId":"192.168.200.89:88"}
+
+2021-10-13 05:10:56,485 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='renren-fast', ephemeral=true, revision=101}, ip: {"ip":"192.168.200.89","port":8080,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634072996024,"instanceId":"192.168.200.89:8080"}
+
+2021-10-13 05:11:00,672 INFO Client connection 172.20.144.1:56101 connect
+
+2021-10-13 05:11:00,672 INFO Client connection 172.20.144.1:56101 connect
+
+2021-10-13 05:15:27,928 INFO Client connection 172.20.144.1:56101 disconnect, remove instances and subscribers
+
+2021-10-13 05:15:27,928 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=128}, ip: {"ip":"192.168.200.89","port":10000,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634073197661,"instanceId":"192.168.200.89:10000"}
+
+2021-10-13 05:15:27,928 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='renren-fast', ephemeral=true, revision=103}, ip: {"ip":"192.168.200.89","port":8080,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634073197084,"instanceId":"192.168.200.89:8080"}
+
+2021-10-13 05:15:27,928 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-gateway', ephemeral=true, revision=101}, ip: {"ip":"192.168.200.89","port":88,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634073197254,"instanceId":"192.168.200.89:88"}
+
+2021-10-13 05:15:36,979 INFO Client connection 172.20.144.1:56101 connect
+
+2021-10-13 05:15:36,979 INFO Client connection 172.20.144.1:56101 connect
+
+2021-10-13 05:18:48,215 INFO Client connection 172.20.144.1:56101 disconnect, remove instances and subscribers
+
+2021-10-13 05:18:48,229 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-gateway', ephemeral=true, revision=103}, ip: {"ip":"192.168.200.89","port":88,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634073473663,"instanceId":"192.168.200.89:88"}
+
+2021-10-13 05:18:48,229 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=130}, ip: {"ip":"192.168.200.89","port":10000,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634073473152,"instanceId":"192.168.200.89:10000"}
+
+2021-10-13 05:18:48,229 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='renren-fast', ephemeral=true, revision=105}, ip: {"ip":"192.168.200.89","port":8080,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634073472974,"instanceId":"192.168.200.89:8080"}
+
+2021-10-13 05:19:02,936 INFO Client connection 172.20.144.1:56101 connect
+
+2021-10-13 05:19:02,936 INFO Client connection 172.20.144.1:56101 connect
+
+2021-10-13 05:28:11,622 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='renren-fast', ephemeral=true, revision=107}, ip: {"ip":"192.168.200.89","port":8080,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634073995380,"instanceId":"192.168.200.89:8080"}
+
+2021-10-13 05:28:11,622 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-gateway', ephemeral=true, revision=105}, ip: {"ip":"192.168.200.89","port":88,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634073995850,"instanceId":"192.168.200.89:88"}
+
+2021-10-13 05:28:11,622 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=132}, ip: {"ip":"192.168.200.89","port":10000,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634073996208,"instanceId":"192.168.200.89:10000"}
+
+2021-10-13 05:28:11,923 INFO Client connection 172.20.144.1:56101 disconnect, remove instances and subscribers
+
+2021-10-13 05:28:11,923 INFO Client connection 192.168.200.89:10000 disconnect, remove instances and subscribers
+
+2021-10-13 05:28:12,176 INFO Client connection 192.168.200.89:10000 connect
+
+2021-10-13 05:28:16,680 INFO Client connection 172.20.144.1:56101 connect
+
+2021-10-13 05:28:16,680 INFO Client connection 172.20.144.1:56101 connect
+
+2021-10-13 05:31:32,923 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-gateway', ephemeral=true, revision=107}, ip: {"ip":"192.168.200.89","port":88,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634074236263,"instanceId":"192.168.200.89:88"}
+
+2021-10-13 05:31:32,923 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='renren-fast', ephemeral=true, revision=109}, ip: {"ip":"192.168.200.89","port":8080,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634074236451,"instanceId":"192.168.200.89:8080"}
+
+2021-10-13 05:31:32,923 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=134}, ip: {"ip":"192.168.200.89","port":10000,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634074237439,"instanceId":"192.168.200.89:10000"}
+
+2021-10-13 05:31:33,222 INFO Client connection 192.168.200.89:8080 disconnect, remove instances and subscribers
+
+2021-10-13 05:31:33,222 INFO Client connection 172.20.144.1:56101 disconnect, remove instances and subscribers
+
+2021-10-13 05:31:33,222 INFO Client connection 192.168.200.89:10000 disconnect, remove instances and subscribers
+
+2021-10-13 05:31:33,533 INFO Client connection 192.168.200.89:10000 connect
+
+2021-10-13 05:31:37,009 INFO Client connection 192.168.200.89:8080 connect
+
+2021-10-13 05:31:37,981 INFO Client connection 172.20.144.1:56101 connect
+
+2021-10-13 05:31:37,981 INFO Client connection 172.20.144.1:56101 connect
+
+2021-10-13 05:37:33,992 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='renren-fast', ephemeral=true, revision=111}, ip: {"ip":"192.168.200.89","port":8080,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634074437132,"instanceId":"192.168.200.89:8080"}
+
+2021-10-13 05:37:33,992 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-gateway', ephemeral=true, revision=109}, ip: {"ip":"192.168.200.89","port":88,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634074437649,"instanceId":"192.168.200.89:88"}
+
+2021-10-13 05:37:33,992 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=136}, ip: {"ip":"192.168.200.89","port":10000,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634074438869,"instanceId":"192.168.200.89:10000"}
+
+2021-10-13 05:37:38,984 INFO Client connection 192.168.200.89:8080 disconnect, remove instances and subscribers
+
+2021-10-13 05:37:38,984 INFO Client connection 172.20.144.1:56101 disconnect, remove instances and subscribers
+
+2021-10-13 05:37:38,984 INFO Client connection 192.168.200.89:10000 disconnect, remove instances and subscribers
+
+2021-10-13 05:37:38,994 INFO Client connection 192.168.200.89:10000 connect
+
+2021-10-13 05:37:39,133 INFO Client connection 192.168.200.89:8080 connect
+
+2021-10-13 05:37:39,955 INFO Client connection 172.20.144.1:56101 connect
+
+2021-10-13 05:37:39,955 INFO Client connection 172.20.144.1:56101 connect
+
+2021-10-13 05:40:55,577 INFO Client connection 172.20.144.1:56101 disconnect, remove instances and subscribers
+
+2021-10-13 05:40:55,578 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='renren-fast', ephemeral=true, revision=113}, ip: {"ip":"192.168.200.89","port":8080,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634074799268,"instanceId":"192.168.200.89:8080"}
+
+2021-10-13 05:40:55,578 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-gateway', ephemeral=true, revision=111}, ip: {"ip":"192.168.200.89","port":88,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634074799681,"instanceId":"192.168.200.89:88"}
+
+2021-10-13 05:40:55,578 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=138}, ip: {"ip":"192.168.200.89","port":10000,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634074799276,"instanceId":"192.168.200.89:10000"}
+
+2021-10-13 05:41:01,541 INFO Client connection 172.20.144.1:56101 connect
+
+2021-10-13 05:41:01,541 INFO Client connection 172.20.144.1:56101 connect
+
+2021-10-13 06:03:05,358 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=140}, ip: {"ip":"192.168.200.89","port":10000,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634076128290,"instanceId":"192.168.200.89:10000"}
+
+2021-10-13 06:03:05,358 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='renren-fast', ephemeral=true, revision=115}, ip: {"ip":"192.168.200.89","port":8080,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634076128052,"instanceId":"192.168.200.89:8080"}
+
+2021-10-13 06:03:06,120 INFO Client connection 192.168.200.89:8080 disconnect, remove instances and subscribers
+
+2021-10-13 06:03:06,120 INFO Client connection 172.20.144.1:56101 disconnect, remove instances and subscribers
+
+2021-10-13 06:03:06,120 INFO Client connection 192.168.200.89:10000 disconnect, remove instances and subscribers
+
+2021-10-13 06:03:05,358 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-gateway', ephemeral=true, revision=113}, ip: {"ip":"192.168.200.89","port":88,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634076128152,"instanceId":"192.168.200.89:88"}
+
+2021-10-13 06:03:09,961 INFO Client connection 192.168.200.89:8080 connect
+
+2021-10-13 06:03:09,961 WARN distro task com.alibaba.nacos.naming.push.v2.task.PushExecuteTask@8ffbe5b takes 4013ms
+
+2021-10-13 06:03:09,973 INFO Client connection 192.168.200.89:10000 connect
+
+2021-10-13 06:03:13,234 INFO Client connection 172.20.144.1:56101 connect
+
+2021-10-13 06:07:05,771 INFO Client connection 172.20.144.1:56101 disconnect, remove instances and subscribers
+
+2021-10-13 06:07:05,786 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='renren-fast', ephemeral=true, revision=117}, ip: {"ip":"192.168.200.89","port":8080,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634076330103,"instanceId":"192.168.200.89:8080"}
+
+2021-10-13 06:07:05,786 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=142}, ip: {"ip":"192.168.200.89","port":10000,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634076330327,"instanceId":"192.168.200.89:10000"}
+
+2021-10-13 06:07:05,786 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-gateway', ephemeral=true, revision=115}, ip: {"ip":"192.168.200.89","port":88,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634076330311,"instanceId":"192.168.200.89:88"}
+
+2021-10-13 06:07:14,127 INFO Client connection 172.20.144.1:56101 connect
+
+2021-10-13 06:07:14,127 INFO Client connection 172.20.144.1:56101 connect
+
+2021-10-13 06:12:26,039 INFO Client connection 172.20.144.1:56101 disconnect, remove instances and subscribers
+
+2021-10-13 06:12:26,039 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='renren-fast', ephemeral=true, revision=119}, ip: {"ip":"192.168.200.89","port":8080,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634076571047,"instanceId":"192.168.200.89:8080"}
+
+2021-10-13 06:12:26,039 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-gateway', ephemeral=true, revision=117}, ip: {"ip":"192.168.200.89","port":88,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634076571298,"instanceId":"192.168.200.89:88"}
+
+2021-10-13 06:12:30,938 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=144}, ip: {"ip":"192.168.200.89","port":10000,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634076571313,"instanceId":"192.168.200.89:10000"}
+
+2021-10-13 06:12:34,226 INFO Client connection 172.20.144.1:56101 connect
+
+2021-10-13 06:12:34,226 INFO Client connection 172.20.144.1:56101 connect
+
+2021-10-13 06:15:47,631 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-gateway', ephemeral=true, revision=119}, ip: {"ip":"192.168.200.89","port":88,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634076891503,"instanceId":"192.168.200.89:88"}
+
+2021-10-13 06:15:47,631 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='renren-fast', ephemeral=true, revision=121}, ip: {"ip":"192.168.200.89","port":8080,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634076891038,"instanceId":"192.168.200.89:8080"}
+
+2021-10-13 06:15:47,632 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=146}, ip: {"ip":"192.168.200.89","port":10000,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634076891270,"instanceId":"192.168.200.89:10000"}
+
+2021-10-13 06:15:47,740 INFO Client connection 192.168.200.89:88 disconnect, remove instances and subscribers
+
+2021-10-13 06:15:47,740 INFO Client connection 172.20.144.1:56101 disconnect, remove instances and subscribers
+
+2021-10-13 06:15:47,740 INFO Client connection 192.168.200.89:10000 disconnect, remove instances and subscribers
+
+2021-10-13 06:15:47,978 INFO Client connection 192.168.200.89:88 connect
+
+2021-10-13 06:15:51,982 INFO Client connection 192.168.200.89:10000 connect
+
+2021-10-13 06:15:55,906 INFO Client connection 172.20.144.1:56101 connect
+
+2021-10-13 06:15:55,906 INFO Client connection 172.20.144.1:56101 connect
+
+2021-10-13 06:19:07,770 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='renren-fast', ephemeral=true, revision=123}, ip: {"ip":"192.168.200.89","port":8080,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634077092637,"instanceId":"192.168.200.89:8080"}
+
+2021-10-13 06:19:07,770 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=148}, ip: {"ip":"192.168.200.89","port":10000,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634077092321,"instanceId":"192.168.200.89:10000"}
+
+2021-10-13 06:19:07,770 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-gateway', ephemeral=true, revision=121}, ip: {"ip":"192.168.200.89","port":88,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634077093302,"instanceId":"192.168.200.89:88"}
+
+2021-10-13 06:19:08,549 INFO Client connection 192.168.200.89:88 disconnect, remove instances and subscribers
+
+2021-10-13 06:19:08,549 INFO Client connection 172.20.144.1:56101 disconnect, remove instances and subscribers
+
+2021-10-13 06:19:08,549 INFO Client connection 192.168.200.89:10000 disconnect, remove instances and subscribers
+
+2021-10-13 06:19:12,919 INFO Client connection 192.168.200.89:10000 connect
+
+2021-10-13 06:19:12,932 INFO Client connection 192.168.200.89:88 connect
+
+2021-10-13 06:19:16,672 INFO Client connection 172.20.144.1:56101 connect
+
+2021-10-13 06:19:16,672 INFO Client connection 172.20.144.1:56101 connect
+
+2021-10-13 06:28:34,952 INFO Client connection 172.20.144.1:56101 disconnect, remove instances and subscribers
+
+2021-10-13 06:28:34,954 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=150}, ip: {"ip":"192.168.200.89","port":10000,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634077615266,"instanceId":"192.168.200.89:10000"}
+
+2021-10-13 06:28:34,954 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-gateway', ephemeral=true, revision=123}, ip: {"ip":"192.168.200.89","port":88,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634077614516,"instanceId":"192.168.200.89:88"}
+
+2021-10-13 06:28:34,954 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='renren-fast', ephemeral=true, revision=125}, ip: {"ip":"192.168.200.89","port":8080,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634077614071,"instanceId":"192.168.200.89:8080"}
+
+2021-10-13 06:28:35,122 INFO Client connection 172.20.144.1:56101 connect
+
+2021-10-13 06:28:35,122 INFO Client connection 172.20.144.1:56101 connect
+
+2021-10-13 07:10:01,947 INFO Client connection 172.20.144.1:56101 disconnect, remove instances and subscribers
+
+2021-10-13 07:10:01,947 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-gateway', ephemeral=true, revision=125}, ip: {"ip":"192.168.200.89","port":88,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634079958798,"instanceId":"192.168.200.89:88"}
+
+2021-10-13 07:10:01,947 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='renren-fast', ephemeral=true, revision=127}, ip: {"ip":"192.168.200.89","port":8080,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634079956304,"instanceId":"192.168.200.89:8080"}
+
+2021-10-13 07:10:01,947 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=152}, ip: {"ip":"192.168.200.89","port":10000,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634079957204,"instanceId":"192.168.200.89:10000"}
+
+2021-10-13 07:10:05,461 INFO Client connection 172.20.144.1:56101 connect
+
+2021-10-13 07:10:05,461 INFO Client connection 172.20.144.1:56101 connect
+
+2021-10-13 07:13:51,940 INFO Client connection 172.20.144.1:56101 disconnect, remove instances and subscribers
+
+2021-10-13 07:13:51,940 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=154}, ip: {"ip":"192.168.200.89","port":10000,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634080343527,"instanceId":"192.168.200.89:10000"}
+
+2021-10-13 07:13:51,940 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-gateway', ephemeral=true, revision=127}, ip: {"ip":"192.168.200.89","port":88,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634080342403,"instanceId":"192.168.200.89:88"}
+
+2021-10-13 07:13:51,940 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='renren-fast', ephemeral=true, revision=129}, ip: {"ip":"192.168.200.89","port":8080,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634080342215,"instanceId":"192.168.200.89:8080"}
+
+2021-10-13 07:14:00,340 INFO Client connection 172.20.144.1:56101 connect
+
+2021-10-13 07:14:00,340 INFO Client connection 172.20.144.1:56101 connect
+
+2021-10-13 07:20:29,724 INFO Client connection 172.20.144.1:56101 disconnect, remove instances and subscribers
+
+2021-10-13 07:20:29,756 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=156}, ip: {"ip":"192.168.200.89","port":10000,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634080735197,"instanceId":"192.168.200.89:10000"}
+
+2021-10-13 07:20:29,756 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-gateway', ephemeral=true, revision=129}, ip: {"ip":"192.168.200.89","port":88,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634080734151,"instanceId":"192.168.200.89:88"}
+
+2021-10-13 07:20:29,756 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='renren-fast', ephemeral=true, revision=131}, ip: {"ip":"192.168.200.89","port":8080,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634080733467,"instanceId":"192.168.200.89:8080"}
+
+2021-10-13 07:20:38,066 INFO Client connection 172.20.144.1:56101 connect
+
+2021-10-13 07:20:38,066 INFO Client connection 172.20.144.1:56101 connect
+
+2021-10-13 07:24:30,955 INFO Client connection 172.20.144.1:56101 disconnect, remove instances and subscribers
+
+2021-10-13 07:24:30,986 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='renren-fast', ephemeral=true, revision=133}, ip: {"ip":"192.168.200.89","port":8080,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634080974587,"instanceId":"192.168.200.89:8080"}
+
+2021-10-13 07:24:30,986 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=158}, ip: {"ip":"192.168.200.89","port":10000,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634080974278,"instanceId":"192.168.200.89:10000"}
+
+2021-10-13 07:24:34,930 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-gateway', ephemeral=true, revision=131}, ip: {"ip":"192.168.200.89","port":88,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634080975495,"instanceId":"192.168.200.89:88"}
+
+2021-10-13 07:24:39,224 INFO Client connection 172.20.144.1:56101 connect
+
+2021-10-13 07:24:39,224 INFO Client connection 172.20.144.1:56101 connect
+
+2021-10-13 07:28:30,515 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='renren-fast', ephemeral=true, revision=135}, ip: {"ip":"192.168.200.89","port":8080,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634081215650,"instanceId":"192.168.200.89:8080"}
+
+2021-10-13 07:28:30,515 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=160}, ip: {"ip":"192.168.200.89","port":10000,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634081215249,"instanceId":"192.168.200.89:10000"}
+
+2021-10-13 07:28:30,515 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-gateway', ephemeral=true, revision=133}, ip: {"ip":"192.168.200.89","port":88,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634081215233,"instanceId":"192.168.200.89:88"}
+
+2021-10-13 07:33:17,157 INFO Client connection 172.20.144.1:56101 disconnect, remove instances and subscribers
+
+2021-10-13 07:33:20,495 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-gateway', ephemeral=true, revision=135}, ip: {"ip":"192.168.200.89","port":88,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634081456632,"instanceId":"192.168.200.89:88"}
+
+2021-10-13 07:33:20,495 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=162}, ip: {"ip":"192.168.200.89","port":10000,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634081456632,"instanceId":"192.168.200.89:10000"}
+
+2021-10-13 07:33:20,495 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='renren-fast', ephemeral=true, revision=137}, ip: {"ip":"192.168.200.89","port":8080,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634081456127,"instanceId":"192.168.200.89:8080"}
+
+2021-10-13 07:33:25,499 INFO Client connection 172.20.144.1:56101 connect
+
+2021-10-13 07:39:54,317 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='renren-fast', ephemeral=true, revision=139}, ip: {"ip":"192.168.200.89","port":8080,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634081897024,"instanceId":"192.168.200.89:8080"}
+
+2021-10-13 07:39:54,317 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=164}, ip: {"ip":"192.168.200.89","port":10000,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634081898299,"instanceId":"192.168.200.89:10000"}
+
+2021-10-13 07:39:54,317 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-gateway', ephemeral=true, revision=137}, ip: {"ip":"192.168.200.89","port":88,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634081898314,"instanceId":"192.168.200.89:88"}
+
+2021-10-13 07:43:54,467 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=166}, ip: {"ip":"192.168.200.89","port":10000,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634082140582,"instanceId":"192.168.200.89:10000"}
+
+2021-10-13 07:43:54,467 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-gateway', ephemeral=true, revision=139}, ip: {"ip":"192.168.200.89","port":88,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634082140612,"instanceId":"192.168.200.89:88"}
+
+2021-10-13 07:43:54,467 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='renren-fast', ephemeral=true, revision=141}, ip: {"ip":"192.168.200.89","port":8080,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634082139104,"instanceId":"192.168.200.89:8080"}
+
+2021-10-13 07:47:55,936 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=168}, ip: {"ip":"192.168.200.89","port":10000,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634082380785,"instanceId":"192.168.200.89:10000"}
+
+2021-10-13 07:47:55,936 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-gateway', ephemeral=true, revision=141}, ip: {"ip":"192.168.200.89","port":88,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634082380879,"instanceId":"192.168.200.89:88"}
+
+2021-10-13 07:47:55,936 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='renren-fast', ephemeral=true, revision=143}, ip: {"ip":"192.168.200.89","port":8080,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634082379114,"instanceId":"192.168.200.89:8080"}
+
+2021-10-13 07:47:57,621 INFO Client connection 172.20.144.1:56101 disconnect, remove instances and subscribers
+
+2021-10-13 07:47:57,621 INFO Client connection 192.168.200.89:10000 disconnect, remove instances and subscribers
+
+2021-10-13 07:47:59,929 INFO Client connection 192.168.200.89:10000 connect
+
+2021-10-13 07:48:00,462 INFO Client connection 172.20.144.1:56101 connect
+
+2021-10-13 07:48:00,462 INFO Client connection 172.20.144.1:56101 connect
+
+2021-10-13 08:20:28,212 INFO Client connection 172.20.144.1:56101 disconnect, remove instances and subscribers
+
+2021-10-13 08:20:28,217 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=170}, ip: {"ip":"192.168.200.89","port":10000,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634082620318,"instanceId":"192.168.200.89:10000"}
+
+2021-10-13 08:20:28,217 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-gateway', ephemeral=true, revision=143}, ip: {"ip":"192.168.200.89","port":88,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634082622437,"instanceId":"192.168.200.89:88"}
+
+2021-10-13 08:20:28,217 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='renren-fast', ephemeral=true, revision=145}, ip: {"ip":"192.168.200.89","port":8080,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634082620499,"instanceId":"192.168.200.89:8080"}
+
+2021-10-13 08:20:28,365 INFO Client connection 172.20.144.1:56101 connect
+
+2021-10-13 08:20:28,365 INFO Client connection 172.20.144.1:56101 connect
+
+2021-10-13 08:23:46,554 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='renren-fast', ephemeral=true, revision=147}, ip: {"ip":"192.168.200.89","port":8080,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634084568336,"instanceId":"192.168.200.89:8080"}
+
+2021-10-13 08:23:46,554 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-gateway', ephemeral=true, revision=145}, ip: {"ip":"192.168.200.89","port":88,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634084568535,"instanceId":"192.168.200.89:88"}
+
+2021-10-13 08:23:46,554 INFO [AUTO-DELETE-IP] service: Service{namespace='public', group='DEFAULT_GROUP', name='gulimall-product', ephemeral=true, revision=172}, ip: {"ip":"192.168.200.89","port":10000,"healthy":false,"extendDatum":{"preserved.register.source":"SPRING_CLOUD","clusterName":"DEFAULT"},"lastHeartBeatTime":1634084568552,"instanceId":"192.168.200.89:10000"}
+
+2021-10-13 08:23:46,570 INFO Client connection 192.168.200.89:88 disconnect, remove instances and subscribers
+
+2021-10-13 08:23:46,570 INFO Client connection 172.20.144.1:56101 disconnect, remove instances and subscribers
+
+2021-10-13 08:23:46,570 INFO Client connection 192.168.200.89:10000 disconnect, remove instances and subscribers
+
+2021-10-13 08:23:46,619 INFO Client connection 192.168.200.89:88 connect
+
+2021-10-13 08:23:50,955 INFO Client connection 192.168.200.89:10000 connect
+
+2021-10-13 08:23:51,667 INFO Client connection 172.20.144.1:56101 connect
+
+2021-10-13 08:23:51,667 INFO Client connection 172.20.144.1:56101 connect
+
+2021-10-13 09:39:43,775 INFO Client connection 172.20.144.1:56101 disconnect, remove instances and subscribers
+
+2021-10-13 09:39:48,785 INFO Client connection 192.168.200.89:8080 disconnect, remove instances and subscribers
+
+2021-10-13 09:39:48,785 INFO Client connection 192.168.200.89:88 disconnect, remove instances and subscribers
+
+2021-10-13 09:39:48,785 INFO Client connection 192.168.200.89:10000 disconnect, remove instances and subscribers
+
+2021-10-13 09:40:47,315 WARN namespace : public, [DEFAULT_GROUP@@gulimall-gateway] services are automatically cleaned
+
+2021-10-13 09:40:47,328 WARN namespace : public, [DEFAULT_GROUP@@renren-fast] services are automatically cleaned
+
+2021-10-13 09:40:47,328 WARN namespace : public, [DEFAULT_GROUP@@gulimall-product] services are automatically cleaned
+

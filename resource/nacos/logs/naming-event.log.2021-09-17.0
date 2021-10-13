@@ -1,8 +1,0 @@
-2021-06-13 12:52:51,677 ERROR [UPDATE-DOMAIN] Exception while taking item from LinkedBlockingDeque.
-
-2021-09-17 08:16:20,010 INFO {POS} {IP-DISABLED} valid: 192.168.201.38:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1631796977830
-
-2021-09-17 08:16:20,010 INFO {POS} {IP-DISABLED} valid: 192.168.201.38:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1631796980048
-
-2021-09-17 08:16:58,700 INFO {POS} {IP-DISABLED} valid: 192.168.201.38:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1631837798705
-

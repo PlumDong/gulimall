@@ -1,10 +1,10 @@
 package com.sdtbu.gulimall.product.service.impl;
 
+import com.sdtbu.gulimall.product.entity.AttrGroupEntity;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import java.util.List;
-import java.util.Map;
+import java.util.*;
 import java.util.stream.Collectors;
 
 import com.baomidou.mybatisplus.core.conditions.query.QueryWrapper;
@@ -72,6 +72,25 @@ public class CategoryServiceImpl extends ServiceImpl<CategoryDao, CategoryEntity
         }).collect(Collectors.toList());
 
         return collect;
+    }
+
+
+    /**
+     * 查找当前分类的全路径
+     * @param catelogId
+     * @return
+     */
+    @Override
+    public Long[] findCatelogPath(Long catelogId) {
+        List<Long> paths = new ArrayList<>();
+        Long cate = catelogId;
+        while (cate != 0){
+            paths.add(cate);
+            CategoryEntity byid = this.getById(cate);
+            cate = byid.getParentCid();
+        }
+        Collections.reverse(paths);
+        return paths.toArray(new Long[paths.size()]);
     }
 
 }

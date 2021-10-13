@@ -1,28 +1,1396 @@
-2021-10-10 12:01:09,187 INFO {POS} {IP-DISABLED} valid: 192.168.200.224:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1633794095853
+2021-10-13 00:01:15,379 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634054419033
 
-2021-10-10 12:01:09,187 INFO {POS} {IP-DISABLED} valid: 192.168.200.224:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1633794097342
+2021-10-13 00:01:15,379 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634054420814
 
-2021-10-10 12:01:09,187 INFO {POS} {IP-DISABLED} valid: 192.168.200.224:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1633794096939
+2021-10-13 00:01:15,379 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634054419217
 
-2021-10-10 12:01:09,187 INFO {POS} {IP-DISABLED} valid: 192.168.200.224:30000@DEFAULT@gulimall-third-party, region: unknown, msg: client last beat: 1633794094473
+2021-10-13 00:05:16,991 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634054620148
 
-2021-10-10 14:36:00,860 INFO {POS} {IP-DISABLED} valid: 192.168.200.224:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1633847741754
+2021-10-13 00:05:16,991 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634054620350
 
-2021-10-10 14:49:26,493 INFO {POS} {IP-DISABLED} valid: 192.168.200.21:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1633848546935
+2021-10-13 00:05:16,992 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634054620382
 
-2021-10-10 16:30:14,010 INFO {POS} {IP-DISABLED} valid: 192.168.200.21:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1633854598505
+2021-10-13 00:09:35,679 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634054862483
 
-2021-10-10 18:12:01,113 INFO {POS} {IP-DISABLED} valid: 192.168.200.224:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1633860702813
+2021-10-13 00:09:35,679 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634054862483
 
-2021-10-10 18:12:06,112 INFO {POS} {IP-DISABLED} valid: 192.168.200.224:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1633860709599
+2021-10-13 00:09:35,679 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634054862260
 
-2021-10-10 19:13:27,680 INFO {POS} {IP-DISABLED} valid: 192.168.200.21:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1633864390452
+2021-10-13 00:13:58,959 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634055180410
 
-2021-10-10 19:13:28,011 INFO {POS} {IP-DISABLED} valid: 192.168.200.21:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1633864390009
+2021-10-13 00:13:58,959 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634055180068
 
-2021-10-10 19:13:29,726 INFO {POS} {IP-DISABLED} valid: 192.168.200.21:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1633864393930
+2021-10-13 00:13:58,959 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634055180393
 
-2021-10-10 19:13:32,593 INFO {POS} {IP-DISABLED} valid: 192.168.200.224:30000@DEFAULT@gulimall-third-party, region: unknown, msg: client last beat: 1633864395977
+2021-10-13 00:20:01,145 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634055474180
 
-2021-10-10 19:24:08,312 ERROR [UPDATE-DOMAIN] Exception while taking item from LinkedBlockingDeque.
+2021-10-13 00:20:01,145 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634055474623
+
+2021-10-13 00:20:01,145 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634055474671
+
+2021-10-13 00:22:42,449 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634055746575
+
+2021-10-13 00:22:42,449 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634055747273
+
+2021-10-13 00:22:42,449 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634055747302
+
+2021-10-13 00:22:42,611 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 00:22:43,317 INFO service: DEFAULT_GROUP@@gulimall-product {POS} {IP-ENABLED} valid: 192.168.200.89:10000@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 00:22:43,349 INFO service: DEFAULT_GROUP@@gulimall-gateway {POS} {IP-ENABLED} valid: 192.168.200.89:88@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 00:26:43,478 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634055907727
+
+2021-10-13 00:26:43,478 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634055908596
+
+2021-10-13 00:26:43,478 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634055908656
+
+2021-10-13 00:30:04,712 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634056148358
+
+2021-10-13 00:30:04,712 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634056148358
+
+2021-10-13 00:30:04,712 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634056148021
+
+2021-10-13 00:36:06,879 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634056349933
+
+2021-10-13 00:36:06,878 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634056349933
+
+2021-10-13 00:36:06,879 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634056349379
+
+2021-10-13 00:39:28,135 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634056712186
+
+2021-10-13 00:39:28,135 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634056711298
+
+2021-10-13 00:39:28,135 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634056711520
+
+2021-10-13 00:42:12,945 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634056912056
+
+2021-10-13 00:42:12,945 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634056912901
+
+2021-10-13 00:42:12,946 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634056913525
+
+2021-10-13 00:42:12,946 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 00:42:12,963 INFO service: DEFAULT_GROUP@@gulimall-product {POS} {IP-ENABLED} valid: 192.168.200.89:10000@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 00:42:12,963 INFO service: DEFAULT_GROUP@@gulimall-gateway {POS} {IP-ENABLED} valid: 192.168.200.89:88@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 00:44:55,929 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634057073268
+
+2021-10-13 00:44:55,929 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634057073231
+
+2021-10-13 00:44:55,929 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634057073270
+
+2021-10-13 00:44:55,965 INFO service: DEFAULT_GROUP@@gulimall-product {POS} {IP-ENABLED} valid: 192.168.200.89:10000@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 00:44:55,965 INFO service: DEFAULT_GROUP@@gulimall-gateway {POS} {IP-ENABLED} valid: 192.168.200.89:88@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 00:45:01,040 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 00:47:38,521 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634057241134
+
+2021-10-13 00:47:38,521 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634057241318
+
+2021-10-13 00:47:38,521 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634057241317
+
+2021-10-13 00:47:38,521 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 00:47:38,663 INFO service: DEFAULT_GROUP@@gulimall-gateway {POS} {IP-ENABLED} valid: 192.168.200.89:88@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 00:47:38,663 INFO service: DEFAULT_GROUP@@gulimall-product {POS} {IP-ENABLED} valid: 192.168.200.89:10000@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 00:50:23,862 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634057403593
+
+2021-10-13 00:50:23,863 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634057403947
+
+2021-10-13 00:50:23,863 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634057404008
+
+2021-10-13 00:50:23,940 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 00:50:23,940 INFO service: DEFAULT_GROUP@@gulimall-product {POS} {IP-ENABLED} valid: 192.168.200.89:10000@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 00:50:23,940 INFO service: DEFAULT_GROUP@@gulimall-gateway {POS} {IP-ENABLED} valid: 192.168.200.89:88@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 00:53:01,101 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634057564210
+
+2021-10-13 00:53:01,101 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634057564225
+
+2021-10-13 00:53:01,101 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634057564031
+
+2021-10-13 00:53:01,101 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 00:53:01,229 INFO service: DEFAULT_GROUP@@gulimall-product {POS} {IP-ENABLED} valid: 192.168.200.89:10000@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 00:53:01,246 INFO service: DEFAULT_GROUP@@gulimall-gateway {POS} {IP-ENABLED} valid: 192.168.200.89:88@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 01:01:05,740 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634058038323
+
+2021-10-13 01:01:05,740 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634058038323
+
+2021-10-13 01:01:05,740 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634058037531
+
+2021-10-13 01:01:05,740 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 01:01:06,180 INFO service: DEFAULT_GROUP@@gulimall-gateway {POS} {IP-ENABLED} valid: 192.168.200.89:88@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 01:01:06,180 INFO service: DEFAULT_GROUP@@gulimall-product {POS} {IP-ENABLED} valid: 192.168.200.89:10000@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 01:03:51,815 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634058210483
+
+2021-10-13 01:03:51,815 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634058211530
+
+2021-10-13 01:03:51,815 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634058211513
+
+2021-10-13 01:03:51,824 INFO service: DEFAULT_GROUP@@gulimall-product {POS} {IP-ENABLED} valid: 192.168.200.89:10000@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 01:03:51,824 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 01:03:51,831 INFO service: DEFAULT_GROUP@@gulimall-gateway {POS} {IP-ENABLED} valid: 192.168.200.89:88@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 01:06:27,675 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634058372118
+
+2021-10-13 01:06:27,675 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634058372118
+
+2021-10-13 01:06:27,675 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634058371938
+
+2021-10-13 01:06:27,675 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 01:06:27,773 INFO service: DEFAULT_GROUP@@gulimall-gateway {POS} {IP-ENABLED} valid: 192.168.200.89:88@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 01:06:27,773 INFO service: DEFAULT_GROUP@@gulimall-product {POS} {IP-ENABLED} valid: 192.168.200.89:10000@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 01:09:10,086 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634058532713
+
+2021-10-13 01:09:10,086 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634058533077
+
+2021-10-13 01:09:10,086 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634058533077
+
+2021-10-13 01:09:10,086 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 01:09:10,246 INFO service: DEFAULT_GROUP@@gulimall-product {POS} {IP-ENABLED} valid: 192.168.200.89:10000@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 01:09:10,246 INFO service: DEFAULT_GROUP@@gulimall-gateway {POS} {IP-ENABLED} valid: 192.168.200.89:88@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 01:11:51,382 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634058695032
+
+2021-10-13 01:11:51,382 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634058695567
+
+2021-10-13 01:11:51,382 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634058695566
+
+2021-10-13 01:11:51,382 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 01:11:51,650 INFO service: DEFAULT_GROUP@@gulimall-gateway {POS} {IP-ENABLED} valid: 192.168.200.89:88@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 01:11:51,650 INFO service: DEFAULT_GROUP@@gulimall-product {POS} {IP-ENABLED} valid: 192.168.200.89:10000@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 01:14:33,371 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634058856952
+
+2021-10-13 01:14:33,371 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634058856234
+
+2021-10-13 01:14:33,371 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634058856952
+
+2021-10-13 01:14:33,371 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 01:14:33,717 INFO service: DEFAULT_GROUP@@gulimall-gateway {POS} {IP-ENABLED} valid: 192.168.200.89:88@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 01:14:37,821 INFO service: DEFAULT_GROUP@@gulimall-product {POS} {IP-ENABLED} valid: 192.168.200.89:10000@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 01:20:19,999 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634059204221
+
+2021-10-13 01:20:19,999 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634059203034
+
+2021-10-13 01:20:19,999 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634059203255
+
+2021-10-13 01:20:19,999 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 01:20:19,999 INFO service: DEFAULT_GROUP@@gulimall-product {POS} {IP-ENABLED} valid: 192.168.200.89:10000@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 01:20:20,645 INFO service: DEFAULT_GROUP@@gulimall-gateway {POS} {IP-ENABLED} valid: 192.168.200.89:88@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 01:23:04,899 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634059364572
+
+2021-10-13 01:23:04,899 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634059364989
+
+2021-10-13 01:23:04,899 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634059365939
+
+2021-10-13 01:23:04,899 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 01:23:04,901 INFO service: DEFAULT_GROUP@@gulimall-product {POS} {IP-ENABLED} valid: 192.168.200.89:10000@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 01:23:04,901 INFO service: DEFAULT_GROUP@@gulimall-gateway {POS} {IP-ENABLED} valid: 192.168.200.89:88@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 01:25:58,978 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634059525188
+
+2021-10-13 01:25:58,978 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634059525188
+
+2021-10-13 01:25:58,978 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634059525669
+
+2021-10-13 01:28:40,518 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634059703950
+
+2021-10-13 01:28:40,518 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634059704367
+
+2021-10-13 01:28:40,518 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634059704351
+
+2021-10-13 01:28:40,518 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 01:28:40,677 INFO service: DEFAULT_GROUP@@gulimall-gateway {POS} {IP-ENABLED} valid: 192.168.200.89:88@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 01:28:44,841 INFO service: DEFAULT_GROUP@@gulimall-product {POS} {IP-ENABLED} valid: 192.168.200.89:10000@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 01:31:22,696 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634059865372
+
+2021-10-13 01:31:22,696 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634059865140
+
+2021-10-13 01:31:22,696 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634059866029
+
+2021-10-13 01:31:22,696 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 01:31:22,696 INFO service: DEFAULT_GROUP@@gulimall-product {POS} {IP-ENABLED} valid: 192.168.200.89:10000@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 01:31:22,992 INFO service: DEFAULT_GROUP@@gulimall-gateway {POS} {IP-ENABLED} valid: 192.168.200.89:88@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 01:34:03,871 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634060026921
+
+2021-10-13 01:34:03,871 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634060027410
+
+2021-10-13 01:34:03,871 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634060028304
+
+2021-10-13 01:34:03,871 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 01:34:04,235 INFO service: DEFAULT_GROUP@@gulimall-gateway {POS} {IP-ENABLED} valid: 192.168.200.89:88@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 01:34:07,771 INFO service: DEFAULT_GROUP@@gulimall-product {POS} {IP-ENABLED} valid: 192.168.200.89:10000@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 01:36:46,242 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634060189556
+
+2021-10-13 01:36:46,242 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634060188046
+
+2021-10-13 01:36:46,242 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634060188089
+
+2021-10-13 01:36:46,242 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 01:36:46,242 INFO service: DEFAULT_GROUP@@gulimall-product {POS} {IP-ENABLED} valid: 192.168.200.89:10000@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 01:36:46,650 INFO service: DEFAULT_GROUP@@gulimall-gateway {POS} {IP-ENABLED} valid: 192.168.200.89:88@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 01:39:27,138 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634060352006
+
+2021-10-13 01:39:27,138 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634060349912
+
+2021-10-13 01:39:27,138 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634060350560
+
+2021-10-13 01:39:27,138 INFO service: DEFAULT_GROUP@@gulimall-product {POS} {IP-ENABLED} valid: 192.168.200.89:10000@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 01:39:30,844 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 01:39:30,853 INFO service: DEFAULT_GROUP@@gulimall-gateway {POS} {IP-ENABLED} valid: 192.168.200.89:88@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 01:42:09,638 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634060511092
+
+2021-10-13 01:42:09,638 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634060511558
+
+2021-10-13 01:42:09,638 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634060511150
+
+2021-10-13 01:42:09,638 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 01:42:09,638 INFO service: DEFAULT_GROUP@@gulimall-product {POS} {IP-ENABLED} valid: 192.168.200.89:10000@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 01:42:09,638 INFO service: DEFAULT_GROUP@@gulimall-gateway {POS} {IP-ENABLED} valid: 192.168.200.89:88@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 01:44:50,969 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634060674168
+
+2021-10-13 01:44:50,969 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634060673751
+
+2021-10-13 01:44:50,969 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634060673481
+
+2021-10-13 01:44:50,969 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 01:44:50,969 INFO service: DEFAULT_GROUP@@gulimall-gateway {POS} {IP-ENABLED} valid: 192.168.200.89:88@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 01:44:50,969 INFO service: DEFAULT_GROUP@@gulimall-product {POS} {IP-ENABLED} valid: 192.168.200.89:10000@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 01:48:13,116 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634060834661
+
+2021-10-13 01:48:13,116 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634060835152
+
+2021-10-13 01:48:13,116 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634060835587
+
+2021-10-13 01:48:13,116 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 01:48:13,116 INFO service: DEFAULT_GROUP@@gulimall-gateway {POS} {IP-ENABLED} valid: 192.168.200.89:88@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 01:50:54,014 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634061036681
+
+2021-10-13 01:50:54,014 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634061037853
+
+2021-10-13 01:50:54,014 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 01:50:54,014 INFO service: DEFAULT_GROUP@@gulimall-gateway {POS} {IP-ENABLED} valid: 192.168.200.89:88@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 01:50:54,014 INFO service: DEFAULT_GROUP@@gulimall-product {POS} {IP-ENABLED} valid: 192.168.200.89:10000@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 01:50:54,014 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634061037432
+
+2021-10-13 01:53:36,208 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634061199115
+
+2021-10-13 01:53:36,208 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634061196954
+
+2021-10-13 01:53:36,208 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 01:53:36,208 INFO service: DEFAULT_GROUP@@gulimall-gateway {POS} {IP-ENABLED} valid: 192.168.200.89:88@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 01:53:36,208 INFO service: DEFAULT_GROUP@@gulimall-product {POS} {IP-ENABLED} valid: 192.168.200.89:10000@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 01:53:36,208 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634061198736
+
+2021-10-13 01:56:17,414 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634061361029
+
+2021-10-13 01:56:17,414 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634061359020
+
+2021-10-13 01:56:17,414 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634061361373
+
+2021-10-13 01:56:17,414 INFO service: DEFAULT_GROUP@@gulimall-gateway {POS} {IP-ENABLED} valid: 192.168.200.89:88@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 01:56:17,414 INFO service: DEFAULT_GROUP@@gulimall-product {POS} {IP-ENABLED} valid: 192.168.200.89:10000@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 01:56:19,853 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 01:58:59,869 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634061522364
+
+2021-10-13 01:58:59,869 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634061522696
+
+2021-10-13 01:58:59,869 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634061519959
+
+2021-10-13 01:58:59,869 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 01:58:59,869 INFO service: DEFAULT_GROUP@@gulimall-gateway {POS} {IP-ENABLED} valid: 192.168.200.89:88@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 01:58:59,902 INFO service: DEFAULT_GROUP@@gulimall-product {POS} {IP-ENABLED} valid: 192.168.200.89:10000@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 02:01:41,034 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634061685236
+
+2021-10-13 02:01:41,034 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634061684881
+
+2021-10-13 02:01:41,034 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634061682285
+
+2021-10-13 02:01:41,034 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 02:01:41,034 INFO service: DEFAULT_GROUP@@gulimall-gateway {POS} {IP-ENABLED} valid: 192.168.200.89:88@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 02:01:41,130 INFO service: DEFAULT_GROUP@@gulimall-product {POS} {IP-ENABLED} valid: 192.168.200.89:10000@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 02:04:23,296 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634061846472
+
+2021-10-13 02:04:23,296 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634061843301
+
+2021-10-13 02:04:23,296 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634061846063
+
+2021-10-13 02:04:23,296 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 02:04:23,296 INFO service: DEFAULT_GROUP@@gulimall-gateway {POS} {IP-ENABLED} valid: 192.168.200.89:88@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 02:04:24,806 INFO service: DEFAULT_GROUP@@gulimall-product {POS} {IP-ENABLED} valid: 192.168.200.89:10000@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 02:07:04,667 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634062005151
+
+2021-10-13 02:07:04,667 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634062005414
+
+2021-10-13 02:07:04,667 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634062008456
+
+2021-10-13 02:07:04,667 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 02:07:04,667 INFO service: DEFAULT_GROUP@@gulimall-product {POS} {IP-ENABLED} valid: 192.168.200.89:10000@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 02:07:04,667 INFO service: DEFAULT_GROUP@@gulimall-gateway {POS} {IP-ENABLED} valid: 192.168.200.89:88@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 02:09:46,766 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634062166564
+
+2021-10-13 02:09:46,766 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634062166625
+
+2021-10-13 02:09:46,766 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634062169873
+
+2021-10-13 02:09:46,766 INFO service: DEFAULT_GROUP@@gulimall-product {POS} {IP-ENABLED} valid: 192.168.200.89:10000@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 02:09:46,766 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 02:09:47,861 INFO service: DEFAULT_GROUP@@gulimall-gateway {POS} {IP-ENABLED} valid: 192.168.200.89:88@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 02:12:25,284 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634062328742
+
+2021-10-13 02:12:25,284 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634062328182
+
+2021-10-13 02:12:25,284 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634062328564
+
+2021-10-13 02:12:25,284 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 02:12:25,284 INFO service: DEFAULT_GROUP@@gulimall-gateway {POS} {IP-ENABLED} valid: 192.168.200.89:88@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 02:12:25,284 INFO service: DEFAULT_GROUP@@gulimall-product {POS} {IP-ENABLED} valid: 192.168.200.89:10000@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 02:15:10,498 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634062487395
+
+2021-10-13 02:15:10,498 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634062487005
+
+2021-10-13 02:15:10,498 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634062486845
+
+2021-10-13 02:15:10,498 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 02:15:10,498 INFO service: DEFAULT_GROUP@@gulimall-gateway {POS} {IP-ENABLED} valid: 192.168.200.89:88@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 02:15:10,498 INFO service: DEFAULT_GROUP@@gulimall-product {POS} {IP-ENABLED} valid: 192.168.200.89:10000@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 02:20:33,965 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634062813395
+
+2021-10-13 02:20:33,965 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634062813846
+
+2021-10-13 02:20:33,965 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634062813023
+
+2021-10-13 02:20:33,965 INFO service: DEFAULT_GROUP@@gulimall-product {POS} {IP-ENABLED} valid: 192.168.200.89:10000@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 02:20:33,965 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 02:20:33,965 INFO service: DEFAULT_GROUP@@gulimall-gateway {POS} {IP-ENABLED} valid: 192.168.200.89:88@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 02:25:52,383 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634063130487
+
+2021-10-13 02:25:52,383 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634063130108
+
+2021-10-13 02:25:52,383 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634063130486
+
+2021-10-13 02:25:52,383 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 02:25:52,383 INFO service: DEFAULT_GROUP@@gulimall-gateway {POS} {IP-ENABLED} valid: 192.168.200.89:88@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 02:25:52,383 INFO service: DEFAULT_GROUP@@gulimall-product {POS} {IP-ENABLED} valid: 192.168.200.89:10000@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 02:28:33,701 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634063297650
+
+2021-10-13 02:28:33,701 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634063297650
+
+2021-10-13 02:28:33,701 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634063297076
+
+2021-10-13 02:28:33,701 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 02:28:33,750 INFO service: DEFAULT_GROUP@@gulimall-gateway {POS} {IP-ENABLED} valid: 192.168.200.89:88@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 02:28:33,750 INFO service: DEFAULT_GROUP@@gulimall-product {POS} {IP-ENABLED} valid: 192.168.200.89:10000@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 02:31:16,067 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634063459055
+
+2021-10-13 02:31:16,067 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634063458286
+
+2021-10-13 02:31:16,067 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634063459055
+
+2021-10-13 02:31:16,067 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 02:31:16,180 INFO service: DEFAULT_GROUP@@gulimall-gateway {POS} {IP-ENABLED} valid: 192.168.200.89:88@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 02:31:16,181 INFO service: DEFAULT_GROUP@@gulimall-product {POS} {IP-ENABLED} valid: 192.168.200.89:10000@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 02:33:57,306 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634063620509
+
+2021-10-13 02:33:57,306 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634063621449
+
+2021-10-13 02:33:57,306 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634063621465
+
+2021-10-13 02:33:57,306 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 02:33:57,446 INFO service: DEFAULT_GROUP@@gulimall-gateway {POS} {IP-ENABLED} valid: 192.168.200.89:88@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 02:34:00,805 INFO service: DEFAULT_GROUP@@gulimall-product {POS} {IP-ENABLED} valid: 192.168.200.89:10000@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 02:36:39,402 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634063781123
+
+2021-10-13 02:36:39,402 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634063782732
+
+2021-10-13 02:36:39,402 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634063781613
+
+2021-10-13 02:36:39,402 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 02:36:39,578 INFO service: DEFAULT_GROUP@@gulimall-gateway {POS} {IP-ENABLED} valid: 192.168.200.89:88@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 02:36:42,856 INFO service: DEFAULT_GROUP@@gulimall-product {POS} {IP-ENABLED} valid: 192.168.200.89:10000@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 02:39:20,912 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634063943144
+
+2021-10-13 02:39:20,912 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634063943568
+
+2021-10-13 02:39:20,912 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634063944907
+
+2021-10-13 02:39:20,912 INFO service: DEFAULT_GROUP@@gulimall-product {POS} {IP-ENABLED} valid: 192.168.200.89:10000@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 02:39:20,912 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 02:39:21,194 INFO service: DEFAULT_GROUP@@gulimall-gateway {POS} {IP-ENABLED} valid: 192.168.200.89:88@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 02:42:02,672 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634064104759
+
+2021-10-13 02:42:02,672 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634064106511
+
+2021-10-13 02:42:02,672 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634064104962
+
+2021-10-13 02:42:02,672 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 02:42:02,672 INFO service: DEFAULT_GROUP@@gulimall-product {POS} {IP-ENABLED} valid: 192.168.200.89:10000@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 02:42:03,083 INFO service: DEFAULT_GROUP@@gulimall-gateway {POS} {IP-ENABLED} valid: 192.168.200.89:88@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 02:44:44,389 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634064266633
+
+2021-10-13 02:44:44,389 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634064268458
+
+2021-10-13 02:44:44,389 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634064266677
+
+2021-10-13 02:44:44,389 INFO service: DEFAULT_GROUP@@gulimall-product {POS} {IP-ENABLED} valid: 192.168.200.89:10000@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 02:44:44,389 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 02:44:46,821 INFO service: DEFAULT_GROUP@@gulimall-gateway {POS} {IP-ENABLED} valid: 192.168.200.89:88@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 02:47:25,168 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634064428223
+
+2021-10-13 02:47:25,168 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634064428466
+
+2021-10-13 02:47:25,168 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634064427119
+
+2021-10-13 02:47:25,168 INFO service: DEFAULT_GROUP@@gulimall-gateway {POS} {IP-ENABLED} valid: 192.168.200.89:88@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 02:47:25,168 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 02:47:25,168 INFO service: DEFAULT_GROUP@@gulimall-product {POS} {IP-ENABLED} valid: 192.168.200.89:10000@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 02:50:07,708 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634064588882
+
+2021-10-13 02:50:07,708 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634064589329
+
+2021-10-13 02:50:07,708 INFO service: DEFAULT_GROUP@@gulimall-gateway {POS} {IP-ENABLED} valid: 192.168.200.89:88@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 02:50:07,708 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634064587954
+
+2021-10-13 02:50:07,708 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 02:50:07,708 INFO service: DEFAULT_GROUP@@gulimall-product {POS} {IP-ENABLED} valid: 192.168.200.89:10000@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 02:52:48,623 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634064751318
+
+2021-10-13 02:52:48,623 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634064751984
+
+2021-10-13 02:52:48,623 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634064750567
+
+2021-10-13 02:52:48,623 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 02:52:48,623 INFO service: DEFAULT_GROUP@@gulimall-gateway {POS} {IP-ENABLED} valid: 192.168.200.89:88@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 02:52:48,623 INFO service: DEFAULT_GROUP@@gulimall-product {POS} {IP-ENABLED} valid: 192.168.200.89:10000@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 02:55:31,290 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634064912087
+
+2021-10-13 02:55:31,290 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634064912980
+
+2021-10-13 02:55:31,290 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 02:55:31,290 INFO service: DEFAULT_GROUP@@gulimall-product {POS} {IP-ENABLED} valid: 192.168.200.89:10000@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 02:58:12,553 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634065072938
+
+2021-10-13 02:58:12,553 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634065074258
+
+2021-10-13 02:58:12,553 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634065075661
+
+2021-10-13 02:58:12,553 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 02:58:12,553 INFO service: DEFAULT_GROUP@@gulimall-gateway {POS} {IP-ENABLED} valid: 192.168.200.89:88@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 02:58:12,553 INFO service: DEFAULT_GROUP@@gulimall-product {POS} {IP-ENABLED} valid: 192.168.200.89:10000@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 03:00:55,758 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634065235624
+
+2021-10-13 03:00:55,758 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634065234052
+
+2021-10-13 03:00:55,758 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634065237003
+
+2021-10-13 03:00:55,758 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 03:00:55,761 INFO service: DEFAULT_GROUP@@gulimall-product {POS} {IP-ENABLED} valid: 192.168.200.89:10000@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 03:00:55,762 INFO service: DEFAULT_GROUP@@gulimall-gateway {POS} {IP-ENABLED} valid: 192.168.200.89:88@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 03:03:32,233 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634065396036
+
+2021-10-13 03:03:32,233 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634065395918
+
+2021-10-13 03:03:32,233 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634065396036
+
+2021-10-13 03:03:32,246 INFO service: DEFAULT_GROUP@@gulimall-gateway {POS} {IP-ENABLED} valid: 192.168.200.89:88@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 03:03:32,246 INFO service: DEFAULT_GROUP@@gulimall-product {POS} {IP-ENABLED} valid: 192.168.200.89:10000@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 03:03:36,860 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 03:11:31,914 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634065870747
+
+2021-10-13 03:11:31,914 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634065869696
+
+2021-10-13 03:11:31,914 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634065870747
+
+2021-10-13 03:11:31,914 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 03:11:32,290 INFO service: DEFAULT_GROUP@@gulimall-gateway {POS} {IP-ENABLED} valid: 192.168.200.89:88@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 03:11:32,290 INFO service: DEFAULT_GROUP@@gulimall-product {POS} {IP-ENABLED} valid: 192.168.200.89:10000@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 03:14:19,087 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634066037606
+
+2021-10-13 03:14:19,087 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634066037606
+
+2021-10-13 03:14:19,087 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634066036338
+
+2021-10-13 03:14:19,087 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 03:14:19,510 INFO service: DEFAULT_GROUP@@gulimall-gateway {POS} {IP-ENABLED} valid: 192.168.200.89:88@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 03:14:19,510 INFO service: DEFAULT_GROUP@@gulimall-product {POS} {IP-ENABLED} valid: 192.168.200.89:10000@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 03:16:59,966 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634066204827
+
+2021-10-13 03:16:59,966 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634066203348
+
+2021-10-13 03:16:59,966 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634066204827
+
+2021-10-13 03:16:59,966 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 03:17:00,488 INFO service: DEFAULT_GROUP@@gulimall-product {POS} {IP-ENABLED} valid: 192.168.200.89:10000@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 03:17:00,488 INFO service: DEFAULT_GROUP@@gulimall-gateway {POS} {IP-ENABLED} valid: 192.168.200.89:88@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 03:19:41,575 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634066365846
+
+2021-10-13 03:19:41,575 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634066365845
+
+2021-10-13 03:19:41,575 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634066364101
+
+2021-10-13 03:19:41,575 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 03:19:42,267 INFO service: DEFAULT_GROUP@@gulimall-gateway {POS} {IP-ENABLED} valid: 192.168.200.89:88@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 03:19:44,804 INFO service: DEFAULT_GROUP@@gulimall-product {POS} {IP-ENABLED} valid: 192.168.200.89:10000@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 03:22:23,804 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634066525096
+
+2021-10-13 03:22:23,804 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634066527605
+
+2021-10-13 03:22:23,804 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634066525624
+
+2021-10-13 03:22:23,804 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 03:22:23,804 INFO service: DEFAULT_GROUP@@gulimall-product {POS} {IP-ENABLED} valid: 192.168.200.89:10000@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 03:22:24,558 INFO service: DEFAULT_GROUP@@gulimall-gateway {POS} {IP-ENABLED} valid: 192.168.200.89:88@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 03:25:05,030 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634066687169
+
+2021-10-13 03:25:05,030 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634066687687
+
+2021-10-13 03:25:05,030 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634066687357
+
+2021-10-13 03:25:05,030 INFO service: DEFAULT_GROUP@@gulimall-product {POS} {IP-ENABLED} valid: 192.168.200.89:10000@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 03:25:05,030 INFO service: DEFAULT_GROUP@@gulimall-gateway {POS} {IP-ENABLED} valid: 192.168.200.89:88@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 03:25:05,030 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 03:30:28,545 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634067004071
+
+2021-10-13 03:30:28,545 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634067002952
+
+2021-10-13 03:30:28,545 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634067003886
+
+2021-10-13 03:30:28,545 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 03:30:28,545 INFO service: DEFAULT_GROUP@@gulimall-product {POS} {IP-ENABLED} valid: 192.168.200.89:10000@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 03:30:30,809 INFO service: DEFAULT_GROUP@@gulimall-gateway {POS} {IP-ENABLED} valid: 192.168.200.89:88@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 03:35:53,824 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634067326831
+
+2021-10-13 03:35:53,824 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634067324872
+
+2021-10-13 03:35:53,824 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634067325259
+
+2021-10-13 03:35:53,824 INFO service: DEFAULT_GROUP@@gulimall-gateway {POS} {IP-ENABLED} valid: 192.168.200.89:88@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 03:35:53,824 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 03:35:53,824 INFO service: DEFAULT_GROUP@@gulimall-product {POS} {IP-ENABLED} valid: 192.168.200.89:10000@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 03:38:30,797 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634067494108
+
+2021-10-13 03:38:30,797 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634067494310
+
+2021-10-13 03:38:30,925 INFO service: DEFAULT_GROUP@@gulimall-gateway {POS} {IP-ENABLED} valid: 192.168.200.89:88@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 03:38:31,072 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 03:41:12,307 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634067656201
+
+2021-10-13 03:41:12,307 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634067656225
+
+2021-10-13 03:41:12,483 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 03:41:12,515 INFO service: DEFAULT_GROUP@@gulimall-gateway {POS} {IP-ENABLED} valid: 192.168.200.89:88@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 03:43:54,286 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634067817841
+
+2021-10-13 03:43:54,286 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634067817585
+
+2021-10-13 03:43:54,341 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 03:43:54,598 INFO service: DEFAULT_GROUP@@gulimall-gateway {POS} {IP-ENABLED} valid: 192.168.200.89:88@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 03:46:35,887 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634067979948
+
+2021-10-13 03:46:35,887 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634067979453
+
+2021-10-13 03:46:35,887 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 03:46:36,327 INFO service: DEFAULT_GROUP@@gulimall-gateway {POS} {IP-ENABLED} valid: 192.168.200.89:88@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 03:49:16,755 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634068141634
+
+2021-10-13 03:49:16,755 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634068140938
+
+2021-10-13 03:49:16,755 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 03:49:17,275 INFO service: DEFAULT_GROUP@@gulimall-gateway {POS} {IP-ENABLED} valid: 192.168.200.89:88@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 03:51:59,145 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634068302606
+
+2021-10-13 03:51:59,145 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 03:51:59,145 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634068301681
+
+2021-10-13 03:51:59,775 INFO service: DEFAULT_GROUP@@gulimall-gateway {POS} {IP-ENABLED} valid: 192.168.200.89:88@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 03:54:40,404 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634068463975
+
+2021-10-13 03:54:40,404 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634068465092
+
+2021-10-13 03:54:40,404 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 03:54:41,109 INFO service: DEFAULT_GROUP@@gulimall-gateway {POS} {IP-ENABLED} valid: 192.168.200.89:88@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 03:57:22,716 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634068623766
+
+2021-10-13 03:57:22,716 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634068625069
+
+2021-10-13 03:57:22,716 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634068626463
+
+2021-10-13 03:57:22,716 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 03:57:22,716 INFO service: DEFAULT_GROUP@@gulimall-product {POS} {IP-ENABLED} valid: 192.168.200.89:10000@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 03:57:23,521 INFO service: DEFAULT_GROUP@@gulimall-gateway {POS} {IP-ENABLED} valid: 192.168.200.89:88@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 04:00:03,962 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634068788854
+
+2021-10-13 04:00:03,962 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634068787227
+
+2021-10-13 04:00:03,962 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634068786107
+
+2021-10-13 04:00:03,962 INFO service: DEFAULT_GROUP@@gulimall-product {POS} {IP-ENABLED} valid: 192.168.200.89:10000@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 04:00:03,962 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 04:00:04,870 INFO service: DEFAULT_GROUP@@gulimall-gateway {POS} {IP-ENABLED} valid: 192.168.200.89:88@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 04:02:46,078 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634068948349
+
+2021-10-13 04:02:46,078 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634068947423
+
+2021-10-13 04:02:46,078 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634068950208
+
+2021-10-13 04:02:46,078 INFO service: DEFAULT_GROUP@@gulimall-product {POS} {IP-ENABLED} valid: 192.168.200.89:10000@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 04:02:46,078 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 04:02:47,108 INFO service: DEFAULT_GROUP@@gulimall-gateway {POS} {IP-ENABLED} valid: 192.168.200.89:88@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 04:05:27,203 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634069109617
+
+2021-10-13 04:05:27,203 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634069110346
+
+2021-10-13 04:05:27,203 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 04:05:27,203 INFO service: DEFAULT_GROUP@@gulimall-product {POS} {IP-ENABLED} valid: 192.168.200.89:10000@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 04:08:09,646 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634069271340
+
+2021-10-13 04:08:09,646 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634069270779
+
+2021-10-13 04:08:09,646 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634069273627
+
+2021-10-13 04:08:09,646 INFO service: DEFAULT_GROUP@@gulimall-product {POS} {IP-ENABLED} valid: 192.168.200.89:10000@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 04:08:09,646 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 04:08:10,873 INFO service: DEFAULT_GROUP@@gulimall-gateway {POS} {IP-ENABLED} valid: 192.168.200.89:88@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 04:14:53,186 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634069676804
+
+2021-10-13 04:14:53,186 INFO service: DEFAULT_GROUP@@gulimall-gateway {POS} {IP-ENABLED} valid: 192.168.200.89:88@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 04:18:14,589 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634069867371
+
+2021-10-13 04:18:14,589 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634069867045
+
+2021-10-13 04:18:14,589 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634069870393
+
+2021-10-13 04:18:14,589 INFO service: DEFAULT_GROUP@@gulimall-product {POS} {IP-ENABLED} valid: 192.168.200.89:10000@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 04:18:14,589 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 04:18:16,503 INFO service: DEFAULT_GROUP@@gulimall-gateway {POS} {IP-ENABLED} valid: 192.168.200.89:88@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 04:20:56,712 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634070038813
+
+2021-10-13 04:20:56,712 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634070038257
+
+2021-10-13 04:20:56,712 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634070036830
+
+2021-10-13 04:20:56,712 INFO service: DEFAULT_GROUP@@gulimall-gateway {POS} {IP-ENABLED} valid: 192.168.200.89:88@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 04:20:56,712 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 04:20:56,712 INFO service: DEFAULT_GROUP@@gulimall-product {POS} {IP-ENABLED} valid: 192.168.200.89:10000@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 04:23:39,819 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634070201051
+
+2021-10-13 04:23:39,819 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634070199010
+
+2021-10-13 04:23:39,819 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634070200246
+
+2021-10-13 04:23:39,819 INFO service: DEFAULT_GROUP@@gulimall-gateway {POS} {IP-ENABLED} valid: 192.168.200.89:88@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 04:23:39,863 INFO service: DEFAULT_GROUP@@gulimall-product {POS} {IP-ENABLED} valid: 192.168.200.89:10000@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 04:23:39,863 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 04:26:16,248 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634070359967
+
+2021-10-13 04:26:16,248 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634070360127
+
+2021-10-13 04:26:16,248 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634070361191
+
+2021-10-13 04:26:16,248 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 04:26:16,293 INFO service: DEFAULT_GROUP@@gulimall-product {POS} {IP-ENABLED} valid: 192.168.200.89:10000@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 04:26:17,359 INFO service: DEFAULT_GROUP@@gulimall-gateway {POS} {IP-ENABLED} valid: 192.168.200.89:88@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 04:29:12,400 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634070521642
+
+2021-10-13 04:29:12,400 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634070522693
+
+2021-10-13 04:29:12,400 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634070520917
+
+2021-10-13 04:29:12,400 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 04:29:13,637 INFO service: DEFAULT_GROUP@@gulimall-gateway {POS} {IP-ENABLED} valid: 192.168.200.89:88@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 04:32:19,667 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634070698947
+
+2021-10-13 04:32:19,667 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634070697903
+
+2021-10-13 04:32:19,667 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634070697020
+
+2021-10-13 04:35:00,577 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634070884166
+
+2021-10-13 04:35:00,577 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634070885298
+
+2021-10-13 04:35:01,043 INFO service: DEFAULT_GROUP@@gulimall-product {POS} {IP-ENABLED} valid: 192.168.200.89:10000@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 04:35:04,809 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 04:37:41,843 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634071044916
+
+2021-10-13 04:37:41,843 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634071046369
+
+2021-10-13 04:37:41,843 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 04:37:42,433 INFO service: DEFAULT_GROUP@@gulimall-product {POS} {IP-ENABLED} valid: 192.168.200.89:10000@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 04:40:24,308 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634071205971
+
+2021-10-13 04:40:24,308 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634071208770
+
+2021-10-13 04:40:24,308 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634071207711
+
+2021-10-13 04:40:24,308 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 04:40:24,942 INFO service: DEFAULT_GROUP@@gulimall-product {POS} {IP-ENABLED} valid: 192.168.200.89:10000@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 04:40:26,001 INFO service: DEFAULT_GROUP@@gulimall-gateway {POS} {IP-ENABLED} valid: 192.168.200.89:88@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 04:43:05,637 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634071370285
+
+2021-10-13 04:43:05,637 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 04:43:05,638 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634071385637
+
+2021-10-13 04:43:06,379 INFO service: DEFAULT_GROUP@@gulimall-product {POS} {IP-ENABLED} valid: 192.168.200.89:10000@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 04:45:47,490 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634071531717
+
+2021-10-13 04:45:47,490 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634071529503
+
+2021-10-13 04:45:47,490 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 04:45:50,854 INFO service: DEFAULT_GROUP@@gulimall-product {POS} {IP-ENABLED} valid: 192.168.200.89:10000@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 04:48:28,928 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634071691250
+
+2021-10-13 04:48:28,928 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634071691116
+
+2021-10-13 04:48:28,928 INFO service: DEFAULT_GROUP@@gulimall-product {POS} {IP-ENABLED} valid: 192.168.200.89:10000@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 04:48:28,928 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 04:51:11,177 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634071852687
+
+2021-10-13 04:51:11,177 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634071852572
+
+2021-10-13 04:51:11,177 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 04:51:11,177 INFO service: DEFAULT_GROUP@@gulimall-product {POS} {IP-ENABLED} valid: 192.168.200.89:10000@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 04:53:52,482 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634072014665
+
+2021-10-13 04:53:52,482 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634072013808
+
+2021-10-13 04:53:52,482 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634072015021
+
+2021-10-13 04:53:52,482 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 04:53:52,482 INFO service: DEFAULT_GROUP@@gulimall-product {POS} {IP-ENABLED} valid: 192.168.200.89:10000@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 04:53:52,482 INFO service: DEFAULT_GROUP@@gulimall-gateway {POS} {IP-ENABLED} valid: 192.168.200.89:88@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 04:56:33,855 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634072175232
+
+2021-10-13 04:56:33,855 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634072176389
+
+2021-10-13 04:56:33,855 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634072175820
+
+2021-10-13 04:56:33,855 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 04:56:33,855 INFO service: DEFAULT_GROUP@@gulimall-product {POS} {IP-ENABLED} valid: 192.168.200.89:10000@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 04:56:33,855 INFO service: DEFAULT_GROUP@@gulimall-gateway {POS} {IP-ENABLED} valid: 192.168.200.89:88@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 04:59:15,724 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634072336645
+
+2021-10-13 04:59:15,724 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634072337830
+
+2021-10-13 04:59:15,724 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634072337008
+
+2021-10-13 04:59:15,724 INFO service: DEFAULT_GROUP@@gulimall-gateway {POS} {IP-ENABLED} valid: 192.168.200.89:88@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 04:59:15,724 INFO service: DEFAULT_GROUP@@gulimall-product {POS} {IP-ENABLED} valid: 192.168.200.89:10000@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 04:59:15,724 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 05:01:57,283 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634072498746
+
+2021-10-13 05:01:57,283 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634072498627
+
+2021-10-13 05:01:57,283 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634072499747
+
+2021-10-13 05:01:57,283 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 05:01:57,283 INFO service: DEFAULT_GROUP@@gulimall-gateway {POS} {IP-ENABLED} valid: 192.168.200.89:88@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 05:01:57,283 INFO service: DEFAULT_GROUP@@gulimall-product {POS} {IP-ENABLED} valid: 192.168.200.89:10000@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 05:04:47,484 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634072660224
+
+2021-10-13 05:04:47,484 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634072659013
+
+2021-10-13 05:04:47,484 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634072661412
+
+2021-10-13 05:04:48,817 INFO service: DEFAULT_GROUP@@gulimall-product {POS} {IP-ENABLED} valid: 192.168.200.89:10000@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 05:04:48,817 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 05:04:48,817 INFO service: DEFAULT_GROUP@@gulimall-gateway {POS} {IP-ENABLED} valid: 192.168.200.89:88@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 05:07:34,705 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634072829108
+
+2021-10-13 05:07:34,705 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634072829108
+
+2021-10-13 05:07:34,705 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634072828935
+
+2021-10-13 05:07:34,705 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 05:07:34,705 INFO service: DEFAULT_GROUP@@gulimall-gateway {POS} {IP-ENABLED} valid: 192.168.200.89:88@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 05:07:34,705 INFO service: DEFAULT_GROUP@@gulimall-product {POS} {IP-ENABLED} valid: 192.168.200.89:10000@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 05:10:56,485 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634072996402
+
+2021-10-13 05:10:56,485 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634072996433
+
+2021-10-13 05:10:56,485 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634072996024
+
+2021-10-13 05:15:27,928 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634073197254
+
+2021-10-13 05:15:27,928 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634073197661
+
+2021-10-13 05:15:27,928 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634073197084
+
+2021-10-13 05:18:48,228 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634073472974
+
+2021-10-13 05:18:48,228 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634073473663
+
+2021-10-13 05:18:48,229 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634073473152
+
+2021-10-13 05:18:48,229 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 05:21:28,798 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634073673255
+
+2021-10-13 05:21:28,798 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634073673554
+
+2021-10-13 05:21:28,798 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634073673132
+
+2021-10-13 05:21:28,798 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 05:21:29,217 INFO service: DEFAULT_GROUP@@gulimall-product {POS} {IP-ENABLED} valid: 192.168.200.89:10000@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 05:21:33,914 INFO service: DEFAULT_GROUP@@gulimall-gateway {POS} {IP-ENABLED} valid: 192.168.200.89:88@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 05:24:10,412 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634073834517
+
+2021-10-13 05:24:10,412 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634073834173
+
+2021-10-13 05:24:10,412 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 05:24:10,412 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634073833910
+
+2021-10-13 05:24:10,521 INFO service: DEFAULT_GROUP@@gulimall-gateway {POS} {IP-ENABLED} valid: 192.168.200.89:88@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 05:24:10,879 INFO service: DEFAULT_GROUP@@gulimall-product {POS} {IP-ENABLED} valid: 192.168.200.89:10000@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 05:28:11,622 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634073995850
+
+2021-10-13 05:28:11,622 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634073995380
+
+2021-10-13 05:28:11,622 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634073996208
+
+2021-10-13 05:31:32,923 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634074237439
+
+2021-10-13 05:31:32,923 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634074236263
+
+2021-10-13 05:31:32,923 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634074236451
+
+2021-10-13 05:37:33,992 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634074437132
+
+2021-10-13 05:37:33,992 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634074437649
+
+2021-10-13 05:37:33,992 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634074438869
+
+2021-10-13 05:40:55,577 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634074799276
+
+2021-10-13 05:40:55,577 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634074799681
+
+2021-10-13 05:40:55,577 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634074799268
+
+2021-10-13 05:59:47,834 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634075967259
+
+2021-10-13 05:59:45,051 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634075969872
+
+2021-10-13 05:59:47,840 INFO service: DEFAULT_GROUP@@gulimall-gateway {POS} {IP-ENABLED} valid: 192.168.200.89:88@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 05:59:45,051 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634075969296
+
+2021-10-13 05:59:47,915 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 05:59:47,922 INFO service: DEFAULT_GROUP@@gulimall-product {POS} {IP-ENABLED} valid: 192.168.200.89:10000@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 06:03:05,358 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634076128290
+
+2021-10-13 06:03:05,358 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634076128152
+
+2021-10-13 06:03:05,358 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634076128052
+
+2021-10-13 06:07:05,786 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634076330311
+
+2021-10-13 06:07:05,786 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634076330103
+
+2021-10-13 06:07:05,786 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634076330327
+
+2021-10-13 06:12:26,039 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634076571047
+
+2021-10-13 06:12:26,039 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634076571298
+
+2021-10-13 06:12:30,938 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634076571313
+
+2021-10-13 06:15:47,631 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634076891270
+
+2021-10-13 06:15:47,631 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634076891503
+
+2021-10-13 06:15:47,631 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634076891038
+
+2021-10-13 06:19:07,769 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634077092321
+
+2021-10-13 06:19:07,769 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634077092637
+
+2021-10-13 06:19:07,769 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634077093302
+
+2021-10-13 06:21:49,470 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634077293026
+
+2021-10-13 06:21:49,470 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634077293216
+
+2021-10-13 06:21:49,470 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634077293217
+
+2021-10-13 06:21:49,672 INFO service: DEFAULT_GROUP@@gulimall-product {POS} {IP-ENABLED} valid: 192.168.200.89:10000@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 06:21:53,934 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 06:21:53,962 INFO service: DEFAULT_GROUP@@gulimall-gateway {POS} {IP-ENABLED} valid: 192.168.200.89:88@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 06:24:29,695 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634077454055
+
+2021-10-13 06:24:29,695 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634077454263
+
+2021-10-13 06:24:29,695 INFO service: DEFAULT_GROUP@@gulimall-gateway {POS} {IP-ENABLED} valid: 192.168.200.89:88@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 06:24:29,695 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 06:28:34,953 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634077615266
+
+2021-10-13 06:28:34,954 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634077614516
+
+2021-10-13 06:28:34,954 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634077614071
+
+2021-10-13 06:31:14,909 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634077855296
+
+2021-10-13 06:31:14,909 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634077855137
+
+2021-10-13 06:31:14,909 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634077855267
+
+2021-10-13 06:31:14,912 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 06:31:14,912 INFO service: DEFAULT_GROUP@@gulimall-product {POS} {IP-ENABLED} valid: 192.168.200.89:10000@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 06:31:14,912 INFO service: DEFAULT_GROUP@@gulimall-gateway {POS} {IP-ENABLED} valid: 192.168.200.89:88@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 06:33:52,258 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634078015216
+
+2021-10-13 06:33:52,258 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634078015216
+
+2021-10-13 06:33:52,258 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634078015014
+
+2021-10-13 06:33:52,258 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 06:33:56,938 INFO service: DEFAULT_GROUP@@gulimall-gateway {POS} {IP-ENABLED} valid: 192.168.200.89:88@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 06:33:56,943 INFO service: DEFAULT_GROUP@@gulimall-product {POS} {IP-ENABLED} valid: 192.168.200.89:10000@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 06:36:33,147 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634078177273
+
+2021-10-13 06:36:33,147 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634078177021
+
+2021-10-13 06:36:33,147 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634078177243
+
+2021-10-13 06:36:33,147 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 06:36:33,147 INFO service: DEFAULT_GROUP@@gulimall-gateway {POS} {IP-ENABLED} valid: 192.168.200.89:88@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 06:36:37,898 INFO service: DEFAULT_GROUP@@gulimall-product {POS} {IP-ENABLED} valid: 192.168.200.89:10000@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 06:39:15,590 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634078338252
+
+2021-10-13 06:39:15,590 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634078338017
+
+2021-10-13 06:39:15,590 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634078338236
+
+2021-10-13 06:39:19,932 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 06:39:19,943 INFO service: DEFAULT_GROUP@@gulimall-product {POS} {IP-ENABLED} valid: 192.168.200.89:10000@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 06:39:19,949 INFO service: DEFAULT_GROUP@@gulimall-gateway {POS} {IP-ENABLED} valid: 192.168.200.89:88@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 06:41:57,925 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634078500030
+
+2021-10-13 06:41:57,925 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634078500256
+
+2021-10-13 06:41:57,925 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634078500256
+
+2021-10-13 06:41:57,925 INFO service: DEFAULT_GROUP@@gulimall-product {POS} {IP-ENABLED} valid: 192.168.200.89:10000@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 06:42:01,910 INFO service: DEFAULT_GROUP@@gulimall-gateway {POS} {IP-ENABLED} valid: 192.168.200.89:88@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 06:42:01,937 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 06:44:40,071 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634078662679
+
+2021-10-13 06:44:40,071 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634078662032
+
+2021-10-13 06:44:40,071 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634078662208
+
+2021-10-13 06:44:40,071 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 06:44:40,071 INFO service: DEFAULT_GROUP@@gulimall-gateway {POS} {IP-ENABLED} valid: 192.168.200.89:88@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 06:44:40,071 INFO service: DEFAULT_GROUP@@gulimall-product {POS} {IP-ENABLED} valid: 192.168.200.89:10000@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 06:47:22,153 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634078824047
+
+2021-10-13 06:47:22,153 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634078824425
+
+2021-10-13 06:47:22,153 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634078824916
+
+2021-10-13 06:47:22,153 INFO service: DEFAULT_GROUP@@gulimall-gateway {POS} {IP-ENABLED} valid: 192.168.200.89:88@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 06:47:22,153 INFO service: DEFAULT_GROUP@@gulimall-product {POS} {IP-ENABLED} valid: 192.168.200.89:10000@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 06:47:25,913 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 06:50:03,729 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634078986014
+
+2021-10-13 06:50:03,729 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634078987032
+
+2021-10-13 06:50:03,729 INFO service: DEFAULT_GROUP@@gulimall-product {POS} {IP-ENABLED} valid: 192.168.200.89:10000@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 06:50:03,729 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 06:52:45,713 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634079148221
+
+2021-10-13 06:52:45,713 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634079148722
+
+2021-10-13 06:52:45,713 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634079147016
+
+2021-10-13 06:52:45,713 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 06:52:45,713 INFO service: DEFAULT_GROUP@@gulimall-gateway {POS} {IP-ENABLED} valid: 192.168.200.89:88@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 06:52:45,713 INFO service: DEFAULT_GROUP@@gulimall-product {POS} {IP-ENABLED} valid: 192.168.200.89:10000@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 06:55:28,061 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634079308897
+
+2021-10-13 06:55:28,061 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634079310338
+
+2021-10-13 06:55:28,061 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634079310823
+
+2021-10-13 06:55:28,061 INFO service: DEFAULT_GROUP@@gulimall-gateway {POS} {IP-ENABLED} valid: 192.168.200.89:88@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 06:55:30,896 INFO service: DEFAULT_GROUP@@gulimall-product {POS} {IP-ENABLED} valid: 192.168.200.89:10000@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 06:55:30,896 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 06:58:10,281 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634079472766
+
+2021-10-13 06:58:10,281 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634079471008
+
+2021-10-13 06:58:10,281 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 06:58:10,281 INFO service: DEFAULT_GROUP@@gulimall-gateway {POS} {IP-ENABLED} valid: 192.168.200.89:88@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 07:00:51,335 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634079633089
+
+2021-10-13 07:00:51,335 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634079635077
+
+2021-10-13 07:00:51,335 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634079633515
+
+2021-10-13 07:00:51,335 INFO service: DEFAULT_GROUP@@gulimall-gateway {POS} {IP-ENABLED} valid: 192.168.200.89:88@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 07:00:51,335 INFO service: DEFAULT_GROUP@@gulimall-product {POS} {IP-ENABLED} valid: 192.168.200.89:10000@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 07:00:51,335 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 07:03:33,726 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634079794034
+
+2021-10-13 07:03:33,726 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634079796271
+
+2021-10-13 07:03:33,726 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634079794680
+
+2021-10-13 07:03:33,726 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 07:03:33,726 INFO service: DEFAULT_GROUP@@gulimall-product {POS} {IP-ENABLED} valid: 192.168.200.89:10000@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 07:03:33,726 INFO service: DEFAULT_GROUP@@gulimall-gateway {POS} {IP-ENABLED} valid: 192.168.200.89:88@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 07:10:01,947 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634079956304
+
+2021-10-13 07:10:01,947 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634079958798
+
+2021-10-13 07:10:01,947 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634079957204
+
+2021-10-13 07:13:51,940 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634080343527
+
+2021-10-13 07:13:51,940 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634080342215
+
+2021-10-13 07:13:51,940 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634080342403
+
+2021-10-13 07:20:29,756 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634080734151
+
+2021-10-13 07:20:29,756 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634080733467
+
+2021-10-13 07:20:29,756 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634080735197
+
+2021-10-13 07:24:30,986 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634080974587
+
+2021-10-13 07:24:30,986 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634080974278
+
+2021-10-13 07:24:30,986 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634080975495
+
+2021-10-13 07:28:30,515 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634081215233
+
+2021-10-13 07:28:30,515 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634081215249
+
+2021-10-13 07:28:30,515 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634081215650
+
+2021-10-13 07:33:20,495 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634081456632
+
+2021-10-13 07:33:20,495 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634081456632
+
+2021-10-13 07:33:20,495 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634081456127
+
+2021-10-13 07:33:20,495 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 07:33:20,495 INFO service: DEFAULT_GROUP@@gulimall-product {POS} {IP-ENABLED} valid: 192.168.200.89:10000@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 07:39:54,316 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634081897024
+
+2021-10-13 07:39:54,317 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634081898299
+
+2021-10-13 07:39:54,317 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634081898314
+
+2021-10-13 07:43:54,467 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634082139104
+
+2021-10-13 07:43:54,467 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634082140612
+
+2021-10-13 07:43:54,467 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634082140582
+
+2021-10-13 07:43:54,467 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 07:47:55,936 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634082379114
+
+2021-10-13 07:47:55,936 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634082380879
+
+2021-10-13 07:47:55,936 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634082380785
+
+2021-10-13 07:47:55,936 INFO service: DEFAULT_GROUP@@renren-fast {POS} {IP-ENABLED} valid: 192.168.200.89:8080@DEFAULT, region: unknown, msg: client beat ok
+
+2021-10-13 08:20:28,217 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634082620318
+
+2021-10-13 08:20:28,217 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634082622437
+
+2021-10-13 08:20:28,217 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634082620499
+
+2021-10-13 08:23:46,554 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:8080@DEFAULT@renren-fast, region: unknown, msg: client last beat: 1634084568336
+
+2021-10-13 08:23:46,554 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:88@DEFAULT@gulimall-gateway, region: unknown, msg: client last beat: 1634084568535
+
+2021-10-13 08:23:46,554 INFO {POS} {IP-DISABLED} valid: 192.168.200.89:10000@DEFAULT@gulimall-product, region: unknown, msg: client last beat: 1634084568552
 

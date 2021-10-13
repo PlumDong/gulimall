@@ -1,4 +1,12 @@
-2021-10-08 18:38:13,814 INFO [dump-all-ok] gulimall-coupon.properties+DEFAULT_GROUP, 1607691613112, length=33, md5=a8b0db5bb7fc3690eba8d35ec093f2f2
+2021-10-12 15:17:36,599 INFO [dump-all-ok] gulimall-coupon.properties+DEFAULT_GROUP, 1607691613112, length=33, md5=a8b0db5bb7fc3690eba8d35ec093f2f2
 
-2021-10-08 18:38:13,817 INFO [dump-all-ok] gulimall-gateway.yml+DEFAULT_GROUP, 1607742427146, length=57, md5=6540f8212907f14f96eddab2231e4aa8
+2021-10-12 15:17:36,619 INFO [dump-all-ok] gulimall-gateway.yml+DEFAULT_GROUP, 1607742427146, length=57, md5=6540f8212907f14f96eddab2231e4aa8
+
+2021-10-12 15:17:36,620 INFO [dump-all-ok] oss.yml+DEFAULT_GROUP, 1633761830809, length=207, md5=26430ba7dd96a1a8796eba5d396836be
+
+2021-10-12 18:01:39,406 INFO [dump-all-ok] gulimall-coupon.properties+DEFAULT_GROUP, 1607691613112, length=33, md5=a8b0db5bb7fc3690eba8d35ec093f2f2
+
+2021-10-12 18:01:39,407 INFO [dump-all-ok] gulimall-gateway.yml+DEFAULT_GROUP, 1607742427146, length=57, md5=6540f8212907f14f96eddab2231e4aa8
+
+2021-10-12 18:01:39,408 INFO [dump-all-ok] oss.yml+DEFAULT_GROUP, 1633761830809, length=207, md5=26430ba7dd96a1a8796eba5d396836be
 
