@@ -14,6 +14,7 @@ import com.sdtbu.common.utils.Query;
 import com.sdtbu.gulimall.product.dao.BrandDao;
 import com.sdtbu.gulimall.product.entity.BrandEntity;
 import com.sdtbu.gulimall.product.service.BrandService;
+import org.springframework.transaction.annotation.Transactional;
 
 
 @Service("brandService")
@@ -38,6 +39,7 @@ public class BrandServiceImpl extends ServiceImpl<BrandDao, BrandEntity> impleme
         return new PageUtils(page);
     }
 
+    @Transactional
     @Override
     public void updateDetail(BrandEntity brand) {
         this.updateById(brand);
