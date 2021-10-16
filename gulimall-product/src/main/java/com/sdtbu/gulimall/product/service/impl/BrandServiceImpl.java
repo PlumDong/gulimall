@@ -43,12 +43,12 @@ public class BrandServiceImpl extends ServiceImpl<BrandDao, BrandEntity> impleme
     @Override
     public void updateDetail(BrandEntity brand) {
         this.updateById(brand);
-        if (StringUtils.isEmpty(brand.getName())){
+        if (!StringUtils.isEmpty(brand.getName())){
             categoryBrandRelationService.updateBrand(brand.getBrandId(),brand.getName());
-
             // TODO:更新其他关联
-        }
 
+
+        }
     }
 
 }

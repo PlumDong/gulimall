@@ -4,13 +4,7 @@ import lombok.Data;
 
 import java.io.Serializable;
 
-/**
- * 商品属性
- * 
- * @author mazhendong
- * @email 1695165447@qq.com
- * @date 2020-12-09 10:21:06
- */
+
 @Data
 public class AttrVo implements Serializable {
 	private static final long serialVersionUID = 1L;

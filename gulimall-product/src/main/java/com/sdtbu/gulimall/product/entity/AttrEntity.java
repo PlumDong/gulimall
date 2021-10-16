@@ -14,6 +14,8 @@ import lombok.Data;
  * @email 1695165447@qq.com
  * @date 2020-12-09 10:21:06
  */
+
+
 @Data
 @TableName("pms_attr")
 public class AttrEntity implements Serializable {
@@ -40,6 +42,10 @@ public class AttrEntity implements Serializable {
 	 * 可选值列表[用逗号分隔]
 	 */
 	private String valueSelect;
+	/**
+	 * 值类型[0-为单个值，1-可以选择多个值]
+	 */
+	private Integer valueType;
 	/**
 	 * 属性类型[0-销售属性，1-基本属性，2-既是销售属性又是基本属性]
 	 */

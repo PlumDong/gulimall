@@ -85,7 +85,8 @@ public class BrandController {
     @RequestMapping("/update")
     //@RequiresPermissions("product:brand:update")
     public R update(@Validated({UpdateGroup.class}) @RequestBody BrandEntity brand){
-		brandService.updateDetail(brand);
+
+        brandService.updateDetail(brand);
 
         return R.ok();
     }
@@ -96,7 +97,6 @@ public class BrandController {
     @RequestMapping("/update/status")
     //@RequiresPermissions("product:brand:update")
     public R updateStatus(@Validated({UpdateStatusGroup.class}) @RequestBody BrandEntity brand){
-        System.out.println("修改 状态!!!");
         brandService.updateById(brand);
         return R.ok();
     }

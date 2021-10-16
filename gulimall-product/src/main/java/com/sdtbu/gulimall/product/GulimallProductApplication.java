@@ -3,6 +3,7 @@ package com.sdtbu.gulimall.product;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
+import org.springframework.cloud.openfeign.EnableFeignClients;
 
 /**
   	1、整合MyBatis-Plus
@@ -47,7 +48,7 @@ import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
  	4.统一的异常处理
  		@ControllerAdvice
  */
-
+@EnableFeignClients(basePackages = "com.sdtbu.gulimall.product.feign")
 @EnableDiscoveryClient
 @SpringBootApplication
 public class GulimallProductApplication {
