@@ -16,6 +16,7 @@ public class ConfigConfiguration {
 
         CorsConfiguration corsConfiguration = new CorsConfiguration();
 
+        //1. 配置跨域。
         corsConfiguration.addAllowedHeader("*");
         corsConfiguration.addAllowedMethod("*");
         corsConfiguration.addAllowedOrigin("*");
